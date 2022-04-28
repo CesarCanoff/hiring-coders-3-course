@@ -1,0 +1,38 @@
+* {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+/* #primeiro {
+  border: 1px solid green;
+  margin: 30px;
+}
+
+#segundo {
+} */
+
+.navigation,
+nav span {
+  color: purple;
+  cursor: pointer;
+}
+
+.navigation,
+nav span:hover {
+  text-decoration: wavy;
+  color: chocolate;
+}
+
+#primeiro,
+#segundo {
+  border: 5px solid #000;
+  padding: 15px;
+  margin: 5px;
+}
+
+#segundo > p {
+  color: cornflowerblue;
+}
+

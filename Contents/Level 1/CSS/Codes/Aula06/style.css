@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  border: 0;
+}
+
+#login, #sign {
+  background-color: #000;
+  color: red;
+}
+
+/* Classes */
+.copy {
+  font-size: 19px;
+}

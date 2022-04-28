@@ -1,0 +1,11 @@
+body {
+  color: purple;
+}
+
+li {
+  text-decoration: double;
+}
+
+ul {
+  border: 1px solid yellow;
+}

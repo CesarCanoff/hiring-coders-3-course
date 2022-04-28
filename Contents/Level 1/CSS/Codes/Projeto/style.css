@@ -1,0 +1,101 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+  color: rgb(0, 127, 186);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #000;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+  box-shadow: 1px 1px 10px 1px rgb(0, 127, 186);
+}
+
+header ul {
+  display: flex;
+}
+
+header ul li {
+  margin: 0 20px;
+}
+
+header ul li a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  text-align: center;
+}
+
+#arrow {
+  font-size: 35px;
+  cursor: pointer;
+  animation: blink 1.3s steps(5, start) infinite;
+}
+
+.show {
+  display: block !important;
+}
+
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+.rotate {
+  transform: rotateX(180deg);
+  transition: 300ms;
+}
+
+.container .name h1 {
+  font-size: 3rem;
+}
+
+.container .name h5 {
+  font-size: 1.5rem;
+}
+
+.container #about p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form {
+  width: 40%;
+}
+
+.form input {
+  width: 50%;
+}
+
+.form input[type=submit] {
+  width: 15%;
+}
+
+@media only screen and (max-width: 480px) {
+  .container .name h1 {
+    font-size: 2rem;
+  }
+
+  .container .name h5 {
+    font-size: 1rem;
+  }
+
+  #about {
+    width: 80%;
+  }
+}

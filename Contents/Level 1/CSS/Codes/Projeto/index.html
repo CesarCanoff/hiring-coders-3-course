@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>César Canoff</title>
+  </head>
+  <body>
+    <header>
+      <div>
+        <p>César Canoff</p>
+      </div>
+      <ul>
+        <li><a target="_blank" href="github.com/CesarCanoff">GitHub</a></li>
+        <li>
+          <a target="_blank" href="https://wa.me/67 1234-5678">WhatsApp</a>
+        </li>
+        <li><a target="_blank" href="mailto:teste@teste.com">E-mail</a></li>
+      </ul>
+    </header>
+    <main>
+      <section class="container">
+        <div class="name">
+          <h1>César Canoff</h1>
+          <h5>Software Enginner</h5>
+        </div>
+
+        <div onclick="displayAbout()" id="arrow">
+          <i id="setaAni" class="fas fa-sort-down"></i>
+        </div>
+        <div style="display: none;" id="about">
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, dolor
+            unde assumenda provident ipsa tempora? Voluptatibus quas quasi
+            dolore, cumque sed reiciendis animi, sunt suscipit, perferendis
+            optio laborum doloribus quo!
+          </p>
+        </div>
+
+        <div class="form">
+          <div>
+            <p>Deixe seu contato!</p>
+          </div>
+          <form>
+            <input type="text" placeholder="Seu melhor e-mail" />
+            <input type="submit" value="Enviar" />
+          </form>
+        </div>
+      </section>
+    </main>
+    <script>
+      function displayAbout () {
+        var arrow = document.getElementById('setaAni')
+        arrow.classList.toggle('rotate')
+        var p = document.getElementById('about')
+        p.classList.toggle('show')
+      }
+    </script>
+  </body>
+</html>
+
