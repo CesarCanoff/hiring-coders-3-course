@@ -1,14 +1,14 @@
 /*
 class User {
-  constructor(name, age) {
-    this.name = name;
+  constructor(nome, age) {
+    this.nome = nome;
     this.age = age;
   }
 }
 
 class Player extends User {
-  constructor(name, age, game) {
-    super(name, age);
+  constructor(nome, age, game) {
+    super(nome, age);
     this.game = game;
   }
 }
@@ -48,3 +48,57 @@ const player = new Player("César", 18, "The Last Of Us - Part II");
 console.log(player);
 console.log(player.dizerGameAtual());
 console.log(Player.queHorasSao());
+
+class Jogo {
+  public nome;
+
+  constructor(nome: string) {
+    this.nome = nome;
+  }
+
+  dizerNome() {
+    return `Jogo: ${this.nome}`;
+  }
+}
+
+interface IJogoComDescricao {
+  // nome: string;
+  descricao: string;
+  dizerNomeComDescricao(): string;
+}
+
+class JogoComDescricao extends Jogo implements IJogoComDescricao {
+  public descricao;
+
+  constructor(nome: string, descricao: string) {
+    super(nome);
+    this.descricao = descricao;
+  }
+
+  dizerNomeComDescricao() {
+    return `O nome é: ${this.nome}`;
+  }
+}
+
+type TJogoComDescricao = {
+  descricao: string;
+  dizerNomeComDescricao(): string;
+};
+
+const obj: TJogoComDescricao = {
+  descricao: "descricao do jogo",
+  dizerNomeComDescricao() {
+    return "123";
+  },
+};
+
+// =================
+
+interface Jogo {
+  name: string;
+  descricao: string;
+}
+
+let jogo = <Jogo>{};
+jogo.name = "vcdsfvsd";
+jogo.descricao = "ERERFCDXFS";
