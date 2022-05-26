@@ -9,8 +9,9 @@ function App(props) {
         name="user"
         id="user"
         className="user"
-        placeholder="Usuário"
+        placeholder="Username"
       />
+      <button type="button">Search</button>
     </>
   );
 }
