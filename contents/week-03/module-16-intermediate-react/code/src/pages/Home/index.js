@@ -5,9 +5,15 @@ import axios from "axios";
 function App(props) {
   const [user, setUser] = useState("");
   function handleSearch() {
-    axios
-      .get(`https://api.github.com/users/${user}/repos`)
-      .then((response) => console.log(response.data));
+    axios.get(`https://api.github.com/users/${user}/repos`).then((response) => {
+      console.log(response.data);
+      const repos = response.data;
+      const reposName = [];
+      repos.map((repository) => {
+        reposName.push(repository.name);
+      });
+      localStorage.setItem('repositoriesName', JSON.stringify(reposName))
+    });
   }
   return (
     <>
