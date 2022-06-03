@@ -1,5 +1,21 @@
 import styled from "styled-components";
 
+export const HomeContainer = styled.div`
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+`;
+
+export const Content = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
+
 export const Input = styled.input`
   border: 1px solid #ddd;
   height: 1.5rem;
@@ -27,10 +43,10 @@ export const Button = styled.button`
   }
 `;
 
-export const Container = styled.div`
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+export const Error = styled.span`
+  display: block;
+  font-size: 0.65rem;
+  color: red;
+  font-weight: 600;
+  margin-top: 1rem;
 `;
