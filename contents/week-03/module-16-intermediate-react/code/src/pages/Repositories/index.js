@@ -8,7 +8,7 @@ export default function Repositories() {
     let repositoriesName = localStorage.getItem("repositoriesName");
     repositoriesName = JSON.parse(repositoriesName);
     setRepositories(repositoriesName);
-    localStorage.clear();
+    // localStorage.clear();
   }, []);
   return (
     <>
@@ -18,6 +18,7 @@ export default function Repositories() {
           return <S.ListItem>Repo: {repository}</S.ListItem>;
         })}
       </S.List>
+      <S.LinkHome to="/">Back</S.LinkHome>
     </>
   );
 }
