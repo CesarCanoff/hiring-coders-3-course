@@ -1,51 +1,48 @@
 import React, { useState } from "react";
-import * as S from "./styled";
 import axios from "axios";
+import * as S from "./styled";
 import { useHistory } from "react-router-dom";
 
 function App(props) {
-  const [user, setUser] = useState("");
-  const [error, setError] = useState(false);
   const history = useHistory();
+  const [usuario, setUsuario] = useState("");
+  const [erro, setErro] = useState(false);
 
-  function handleSearch() {
+  function handlePesquisa() {
     axios
-      .get(`https://api.github.com/users/${user}/repos`)
+      .get(`https://api.github.com/users/${usuario}/repos`)
       .then((response) => {
-        console.log(response.data);
-        const repos = response.data;
-        const reposName = [];
-        repos.map((repository) => {
-          reposName.push(repository.name);
+        const repositories = response.data;
+        const repositoriesName = [];
+        repositories.map((repository) => {
+          repositoriesName.push(repository.name);
         });
-        localStorage.setItem("repositoriesName", JSON.stringify(reposName));
-        setError(false);
+        localStorage.setItem(
+          "repositoriesName",
+          JSON.stringify(repositoriesName)
+        );
+        setErro(false);
         history.push("/repositories");
       })
       .catch((err) => {
-        setError(true);
+        setErro(true);
       });
   }
+
   return (
     <S.HomeContainer>
       <S.Content>
         <S.Input
-          className="user"
-          placeholder="Username"
-          value={user}
-          onChange={(e) => setUser(e.target.value)}
+          className="usuarioInput"
+          placeholder="Usuário"
+          value={usuario}
+          onChange={(e) => setUsuario(e.target.value)}
         />
-        <S.Button onClick={handleSearch} type="button">
-          Search
+        <S.Button type="button" onClick={handlePesquisa}>
+          Pesquisar
         </S.Button>
       </S.Content>
-      {error ? (
-        <S.Error>
-          Ocorreu um erro!, não sei qual foi, mas ele ocorreu rs.
-        </S.Error>
-      ) : (
-        ""
-      )}
+      {erro ? <S.ErrorMsg>Ocorreu um erro. Tente novamente.</S.ErrorMsg> : ""}
     </S.HomeContainer>
   );
 }

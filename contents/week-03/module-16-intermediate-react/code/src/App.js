@@ -1,11 +1,10 @@
 import React from "react";
 import Routes from "./routes";
-import './styles.css';
+
+import "./style.css";
 
 function App() {
-  return (
-    <Routes />
-  );
+  return <Routes />;
 }
 
 export default App;

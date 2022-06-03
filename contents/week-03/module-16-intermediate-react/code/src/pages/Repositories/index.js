@@ -16,15 +16,16 @@ export default function Repositories() {
       history.push("/");
     }
   }, []);
+
   return (
-    <>
-      <S.Title>Repos</S.Title>
+    <S.Container>
+      <S.Title>Repositórios</S.Title>
       <S.List>
         {repositories.map((repository) => {
-          return <S.ListItem>Repo: {repository}</S.ListItem>;
+          return <S.ListItem>Repositório: {repository}</S.ListItem>;
         })}
       </S.List>
-      <S.LinkHome to="/">Back</S.LinkHome>
-    </>
+      <S.LinkHome to="/">Voltar</S.LinkHome>
+    </S.Container>
   );
 }
