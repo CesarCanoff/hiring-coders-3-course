@@ -1,9 +1,13 @@
 import React, { useState } from "react";
 import * as S from "./styled";
 import axios from "axios";
+import { useHistory } from 'react-router-dom';
+
 
 function App(props) {
   const [user, setUser] = useState("");
+  const history = useHistory();
+
   function handleSearch() {
     axios.get(`https://api.github.com/users/${user}/repos`).then((response) => {
       console.log(response.data);
@@ -13,6 +17,7 @@ function App(props) {
         reposName.push(repository.name);
       });
       localStorage.setItem('repositoriesName', JSON.stringify(reposName))
+      history.push('/repositories');
     });
   }
   return (
