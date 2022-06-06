@@ -1,6 +1,7 @@
 import { createServer } from "http";
 import { readFile } from "fs";
 import { resolve } from "path";
+import { parse } from "querystring";
 
 const server = createServer((request, response) => {
   switch (request.url) {
@@ -29,10 +30,39 @@ const server = createServer((request, response) => {
         response.write(file);
         response.end();
       });
-    }
-    case "/authenticate": {
       break;
     }
+    case "/home": {
+      const path = resolve(__dirname, "./pages/home.html");
+      readFile(path, (error, file) => {
+        if (error) {
+          response.writeHead(500, "Can't process file.");
+          response.end();
+          return;
+        }
+
+        response.writeHead(200);
+        response.write(file);
+        response.end();
+      });
+      break;
+    }
+
+    case "/authenticate": {
+      let data = "";
+      request.on("data", (chunk) => {
+        data += chunk;
+      });
+      request.on("end", () => {
+        const params = parse(data);
+        response.writeHead(301, {
+          Location: "/home"
+        });
+        response.end();
+      });
+      break;
+    }
+
     default: {
       response.writeHead(404, "Service not found!");
       response.end();
