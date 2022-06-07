@@ -8,15 +8,23 @@ const PORT = 3000;
 
 const server = http.createServer((request, response) => {
   const params = queryString.parse(url.parse(request.url, true).search);
+  let responseHTML;
+  // let userName = params.name;
+  // let idUser = params.id;
 
-  fs.appendFile("./users/userList.txt", `Username: ${params.name}\nE-mail: ${params.email}\n`, (error) => {
-    if (error) throw error;
-    console.log("Saved!");
-  });
+  fs.writeFile(
+    `./users/${params.id}.txt`,
+    `${JSON.stringify(params)}`,
+    (error) => {
+      if (error) throw error;
+    }
+  );
+
+  responseHTML = "User was saved successfully.";
 
   response.statusCode = 200;
   response.setHeader("Content-Type", "text/plain");
-  response.end("Hello World!");
+  response.end(responseHTML);
 });
 
 server.listen(PORT, HOSTNAME, () => {

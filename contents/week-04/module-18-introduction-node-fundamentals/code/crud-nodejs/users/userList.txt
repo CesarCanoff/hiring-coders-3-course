@@ -1,4 +1,0 @@
-Username: cesar
-E-mail: cesar@email.com
-Username: anna
-E-mail: anna@email.com
