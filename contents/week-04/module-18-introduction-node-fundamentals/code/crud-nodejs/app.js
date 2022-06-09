@@ -24,7 +24,6 @@ const server = http.createServer((request, response) => {
         response.end(responseHTML);
       }
     );
-
   } else if (urlParse.pathname === "/search-user") {
     fs.readFile(`./users/${params.id}.txt`, (error, data) => {
       if (error) throw error;
@@ -36,12 +35,12 @@ const server = http.createServer((request, response) => {
     });
   } else if (urlParse.pathname === "/remove-user") {
     fs.unlink(`./users/${params.id}.txt`, (error) => {
-      responseHTML = error ? 'User not found' : 'User Deleted';
+      responseHTML = error ? "User not found" : "User Deleted";
 
       response.statusCode = 200;
       response.setHeader("Content-Type", "text/plain");
       response.end(responseHTML);
-    })
+    });
   }
 });
 
