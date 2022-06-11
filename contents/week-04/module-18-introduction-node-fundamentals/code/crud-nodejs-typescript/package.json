@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ts",
+  "version": "1.0.0",
+  "description": "Teste",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "user",
+    "create"
+  ],
+  "author": "César Canoff",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
