@@ -14,6 +14,8 @@
   "author": "César Canoff",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^17.0.42",
+    "query-string": "^7.1.1",
     "typescript": "^4.7.3"
   }
 }

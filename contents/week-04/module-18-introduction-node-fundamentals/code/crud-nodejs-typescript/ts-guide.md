@@ -23,3 +23,13 @@ Start Compilation
 ~~~shell
 npx tsc --watch
 ~~~
+
+Install Types/Typescript
+~~~shell
+npm install @types/node
+~~~
+
+Install Query String
+~~~shell
+npm i query-string
+~~~
