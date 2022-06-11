@@ -1,3 +1,5 @@
+Typescript Guide
+
 Start NPM
 ~~~shell
 npm init
@@ -33,3 +35,5 @@ Install Query String
 ~~~shell
 npm i query-string
 ~~~
+---
+Docs - typescriptlang.org
