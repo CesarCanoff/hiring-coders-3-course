@@ -13,5 +13,5 @@ npm install express
 ~~~
 ## Install MySQL
 ~~~
-npm install mysql
+npm install mysql2
 ~~~
