@@ -51,6 +51,22 @@ app.get(
   }
 );
 
+// Serviço que busca UMA notícias.
+app.get(
+  "/news-api/v1/categorias/:categoriaId/noticias/:noticiaId",
+  (request, response) => {
+    connection.query(
+    `SELECT id, titulo, conteudo FROM sistema_noticias.noticia WHERE id_categoria = ${request.params.categoriaId} AND id = ${request.params.noticiaId}`,
+      function (err, rows, fields) {
+        if (err) throw err;
+
+        // response.status(201).send(rows[0]);
+        response.send(rows[0]);
+      }
+    );
+  }
+);
+
 // Servidor rodando.
 app.listen(port, () => {
   console.log(`Server is running on http://127.0.0.1:${port}`);
