@@ -2,16 +2,7 @@
 const express = require("express");
 
 // Importando o MySQL.
-const mysql = require('mysql2');
-
-// Criando a conexão
-var connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: 'My@ATOM06'
-});
-
-connection.connect();
+var mysql = require("mysql2");
 
 // Instanciando o Express como App.
 const app = express();
@@ -19,15 +10,35 @@ const app = express();
 // Número de porta.
 const port = "3000";
 
+// Criando a conexão
+var connection = mysql.createConnection({
+  host: "localhost",
+  user: "root",
+  password: "My@ATOM06",
+});
+
+connection.connect();
+
+
 // Rota principal - (index).
 app.get("/", (request, response) => {
   response.send("Hello, World!");
 });
 
 app.get("/news-api/v1/categorias", (request, response) => {
+  connection.query("SELECT id, nome FROM sistema_noticias.categoria", function (err, rows, fields) {
+    if (err) throw err;
+    
+    response.send(rows);
+  });
+  connection.end();
+  
+});
 
-  response.send(categorias)
-})
+// Serviço de busca de notícias.
+app.get('/news-api/v1/categorias/:categoriaId/noticias', (request, response) => {
+  response.send(request.params.categoriaId);
+});
 
 // Servidor rodando.
 app.listen(port, () => {
