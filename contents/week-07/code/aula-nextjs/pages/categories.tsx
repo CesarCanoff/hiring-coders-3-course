@@ -1,43 +1,85 @@
 import React from "react";
-import { GetStaticProps, GetStaticProps } from "next";
-
 import api from "../service/apiInterna.json";
+import { GetServerSideProps } from "next";
 
-import { Container } from "../styles/Dashboard/styles";
-
-interface ICategories {
+interface IProducts {
   id: number;
   title: string;
 }
 
-interface CategoryProps {
-  categories: ICategories[];
+interface ProductsProps {
+  products: IProducts[];
 }
 
-export default function categories({ categories }: CategoryProps) {
+export default function Home({ products }: ProductsProps) {
   return (
-    <Container>
-      <h1>Categorias</h1>
+    <div>
+      <h1>Products</h1>
       <section>
         <ul>
-          {categories.map((category) => {
-            return <li key={category.id}>{category.title}</li>;
+          {products.map((product) => {
+            return <li key={product.id}>{product.title}</li>;
           })}
         </ul>
       </section>
-    </Container>
+    </div>
   );
 }
 
-export const getStaticProps: GetStaticProps<CategoryProps> = async () => {
-  const response = await api.get("http://localhost:3333/categories");
+export const getServerSideProps: GetServerSideProps<
+  ProductsProps
+> = async () => {
+  const response = await api.get("http://localhost:3333/products");
 
-  const categories = await response.data
+  const products = await response.data;
 
   return {
     props: {
-      categories,
+      products,
     },
-    revalidate: 5,
   };
 };
+
+// import React from "react";
+// import { GetStaticProps, GetStaticProps } from "next";
+
+// import api from "../service/apiInterna.json";
+
+// import { Container } from "../styles/Dashboard/styles";
+
+// interface ICategories {
+//   id: number;
+//   title: string;
+// }
+
+// interface CategoryProps {
+//   categories: ICategories[];
+// }
+
+// export default function categories({ categories }: CategoryProps) {
+//   return (
+//     <Container>
+//       <h1>Categorias</h1>
+//       <section>
+//         <ul>
+//           {categories.map((category) => {
+//             return <li key={category.id}>{category.title}</li>;
+//           })}
+//         </ul>
+//       </section>
+//     </Container>
+//   );
+// }
+
+// export const getStaticProps: GetStaticProps<CategoryProps> = async () => {
+//   const response = await api.get("http://localhost:3333/categories");
+
+//   const categories = await response.data
+
+//   return {
+//     props: {
+//       categories,
+//     },
+//     revalidate: 5,
+//   };
+// };
