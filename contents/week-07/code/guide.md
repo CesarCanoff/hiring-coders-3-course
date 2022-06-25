@@ -1,0 +1,3 @@
+~~~
+npm install typescript @types/react @types/node -D
+~~~
