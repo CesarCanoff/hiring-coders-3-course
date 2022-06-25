@@ -37,5 +37,24 @@ class Cielo {
 
     console.log(data);
   }
+
+  static consulta(paymentId) {
+    var fetch = require("node-fetch");
+
+    const response = fetch(
+      `https://apiquerysandbox.cieloecommerce.cielo.com.br/1/sales/${paymentId}`,
+      {
+        method: "get",
+        headers: {
+          "Content-Type": "application/json",
+          MerchantId: "1377ee0d-cfbc-4d3f-9105-38b527205986",
+          MerchantKey: "RJGWKLEOXAHIIYKGQYFIKJZYLAMXPLJCRZAKFGYO",
+        },
+      }
+    );
+    const data = response.json();
+
+    console.log(data);
+  }
 }
 module.exports = Cielo;
