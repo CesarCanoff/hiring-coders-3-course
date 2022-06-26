@@ -54,3 +54,17 @@ function criar(obj: object) {
 
 criar({});
 // ==============================
+
+// Never
+function infinityLoop(): never {
+  while (true) {}
+}
+
+function error(msg: string): never {
+  throw new Error(msg);
+}
+
+function failed() {
+  return error('FAILED!');
+}
+// ==============================
