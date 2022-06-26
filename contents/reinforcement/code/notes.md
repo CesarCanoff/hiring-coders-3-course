@@ -20,9 +20,19 @@
 npm install -g typescript
 ~~~
 
+### Init tsc.
+~~~
+tsc --init
+~~~
+
 ### Run the compiler via tsc.
 ~~~
 npx tsc
+~~~
+
+### Compiler.
+~~~
+tsc
 ~~~
 
 **Documentation** - www.typescriptlang.org
