@@ -109,16 +109,27 @@ function returnEmployers(employers: Employers[]) {
 }
 // ==============================
 // ? Optional
-let altura: number | null  = 1.6;
+let altura: number | null = 1.6;
 altura = null;
 
 type Contato = {
   name: string;
   phone1: string;
   phone2?: string;
-}
+};
 
 const contato: Contato = {
-  name: 'César',
-  phone1: '55555'
-}
+  name: "César",
+  phone1: "55555",
+};
+
+// Type Assertion
+const myAge: any = 23;
+(myAge as number).toString();
+
+// CERTIFICANDO QUE RETORNE UM INPUT.
+const input = document.getElementById("numero_1") as HTMLInputElement;
+// Row up <-> Row down
+const input_2 = <HTMLInputElement>document.getElementById("numero_1");
+console.log(input.value);
+// ========================
