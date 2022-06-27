@@ -65,6 +65,16 @@ function error(msg: string): never {
 }
 
 function failed() {
-  return error('FAILED!');
+  return error("FAILED!");
 }
+// ==============================
+
+// Union Types
+const nota: string | number = 5;
+function showGrade(nota: number | string) {
+  console.log(`A nota é: ${nota}`);
+}
+
+showGrade("10");
+showGrade(10);
 // ==============================
