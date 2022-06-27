@@ -78,3 +78,33 @@ function showGrade(nota: number | string) {
 showGrade("10");
 showGrade(10);
 // ==============================
+
+// Alias
+
+type Employer = {
+  name: string;
+  age: number;
+  job: string;
+};
+
+type Employers = Employer;
+
+const employers: Employer[] = [
+  {
+    name: "César Canoff",
+    age: 18,
+    job: "Software Engineer at Microsoft",
+  },
+  {
+    name: "Anna Rufus",
+    age: 20,
+    job: "Cloud Engineer at Google",
+  },
+];
+
+function returnEmployers(employers: Employers[]) {
+  for (let employer of employers) {
+    console.log(`Name: ${employer.name}`);
+  }
+}
+// ==============================
