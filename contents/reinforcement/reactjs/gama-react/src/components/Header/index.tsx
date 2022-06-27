@@ -1,9 +1,23 @@
-import './';
+import "./styles.css";
+import LinkHeader from "../LinkHeader";
 
 function Header() {
   return (
     <header>
-      <h1>Header do Site</h1>
+      <p>Din Din</p>
+      <nav>
+        <ul>
+          <li>
+            <LinkHeader title="Contato" path="/contato" />
+          </li>
+          <li>
+            <LinkHeader title="Crie sua conta" path="/sign-in" />
+          </li>
+          <li>
+            <LinkHeader title="Blog" path="/blog" />
+          </li>
+        </ul>
+      </nav>
     </header>
   );
 }
