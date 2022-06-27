@@ -6,9 +6,9 @@ interface User {
 
 function getUser(): User {
   return {
-    name: 'César',
-    email: 'canoff@gmail.com'
-  }
+    name: "César",
+    email: "canoff@gmail.com",
+  };
 }
 
 function setUser(user: User) {
