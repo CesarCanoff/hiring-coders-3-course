@@ -108,3 +108,17 @@ function returnEmployers(employers: Employers[]) {
   }
 }
 // ==============================
+// ? Optional
+let altura: number | null  = 1.6;
+altura = null;
+
+type Contato = {
+  name: string;
+  phone1: string;
+  phone2?: string;
+}
+
+const contato: Contato = {
+  name: 'César',
+  phone1: '55555'
+}
