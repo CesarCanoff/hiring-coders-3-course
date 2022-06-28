@@ -1,0 +1,12 @@
+.box {
+  width: 100%;
+  min-height: 50vh;
+}
+
+.dark {
+  background-color: grey;
+}
+
+.light {
+  background-color: #fff;
+}

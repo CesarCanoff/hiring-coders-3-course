@@ -1,0 +1,12 @@
+import "./styles.css";
+
+interface BoxProps {
+  background: string;
+  children?: JSX.Element; // DENTRO DA BOX[CONTAINER]
+}
+
+export default function Box(props: BoxProps) {
+  return (
+    <section className={`box ${props.background}`}>{props.children}</section>
+  );
+}
