@@ -1,21 +1,11 @@
-import Header from "./components/Header";
-import Box from "./components/Box";
+import Routes from "./routes";
 import "./styles/global.css";
 
-function App() {
-  const sendEmail = () => {
-    alert('E-mail enviado!');
-  }
 
+function App() {
   return (
-    <div className="app">
-      <Header />
-      <main>
-        <button onClick={sendEmail}>Teste</button>
-        <Box background="dark">
-          <h2>AAAAAS</h2>
-        </Box>
-      </main>
+    <div className="App">
+      <Routes />
     </div>
   );
 }

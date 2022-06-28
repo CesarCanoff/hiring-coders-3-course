@@ -1,4 +1,5 @@
 import "./styles.css";
+import { Link } from 'react-router-dom';
 
 interface LinkProps {
   title: string;
@@ -6,5 +7,5 @@ interface LinkProps {
 }
 
 export default function LinkHeader(props: LinkProps) {
-  return <a className="link" href={props.path}>{props.title}</a>;
+  return <Link className="link" to={props.path}>{props.title}</Link>;
 }
