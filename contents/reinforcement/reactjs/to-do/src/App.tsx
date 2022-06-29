@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import TaskContainer from "./components/TaskContainer";
 import TaskItem from "./components/TaskItem";
 
@@ -31,6 +31,10 @@ function App() {
     setTask(newList);
   }
 
+  useEffect(() => {
+    alert("Para iniciar, insira uma task!");
+  }, [task]);
+
   return (
     <main className="container">
       <h1 className="m-5">To Do App</h1>
@@ -41,7 +45,13 @@ function App() {
       </div>
       <TaskContainer>
         {task.map((task: Task, index: number) => {
-          return <TaskItem title={task.title} done={task.done} complete={() => completeTask(index)} />;
+          return (
+            <TaskItem
+              title={task.title}
+              done={task.done}
+              complete={() => completeTask(index)}
+            />
+          );
         })}
       </TaskContainer>
     </main>
