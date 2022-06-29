@@ -8,21 +8,19 @@ interface Task {
 }
 
 function App() {
-  const [task, setTask] = useState<Task[]>([
-    {
-      title: "Task A",
-      done: false,
-    },
-  ]);
+  const [task, setTask] = useState<Task[]>([]);
+  const [taskTitle, setTaskTitle] = useState<string>("");
 
-  function addTask() {
+  function addTask(event: React.FormEvent) {
+    event.preventDefault();
     setTask([
       ...task,
       {
-        title: "Task B",
+        title: taskTitle,
         done: false,
       },
     ]);
+    setTaskTitle("");
   }
 
   function completeTask(position: number) {
@@ -31,18 +29,21 @@ function App() {
     setTask(newList);
   }
 
-  useEffect(() => {
-    alert("Para iniciar, insira uma task!");
-  }, [task]);
+  useEffect(() => {}, [task]);
 
   return (
     <main className="container">
       <h1 className="m-5">To Do App</h1>
-      <div id="new-task">
-        <button id="btnAdd" className="btn btn-primary" onClick={addTask}>
+      <form id="new-task" onSubmit={addTask}>
+        <input
+          type="text"
+          onChange={(event) => setTaskTitle(event.target.value)}
+          value={taskTitle}
+        />
+        <button id="btnAdd" className="btn btn-primary" type="submit">
           Add
         </button>
-      </div>
+      </form>
       <TaskContainer>
         {task.map((task: Task, index: number) => {
           return (
