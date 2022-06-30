@@ -109,3 +109,28 @@ export default function PsicologoList() {
   );
 }
 ```
+
+# Redux
+
+## Instalação
+
+```
+npm install @reduxjs/toolkit react-redux
+
+Types:
+npm install @types/react-redux -D
+```
+
+### store/index.ts
+
+```ts
+import { configureStore } from "@reduxjs/toolkit";
+
+const store = configureStore({
+  reducer: {},
+});
+
+export type RootStore = ReturnType<typeof store.getState>;
+
+export default store;
+```
