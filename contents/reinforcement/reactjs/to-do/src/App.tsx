@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import TaskContainer from "./components/TaskContainer";
 import TaskItem from "./components/TaskItem";
+import Button from './components/Button'
 
 interface Task {
   title: string;
@@ -40,9 +41,7 @@ function App() {
           onChange={(event) => setTaskTitle(event.target.value)}
           value={taskTitle}
         />
-        <button id="btnAdd" className="btn btn-primary" type="submit">
-          Add
-        </button>
+        <Button text="Add" color="success" />
       </form>
       <TaskContainer>
         {task.map((task: Task, index: number) => {

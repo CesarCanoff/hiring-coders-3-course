@@ -1,4 +1,4 @@
-import './styles.css';
+import { Item } from './styles';
 
 interface TaskItemProps {
   title: string;
@@ -8,10 +8,10 @@ interface TaskItemProps {
 
 export default function TaskItem(props: TaskItemProps) {
   return (
-    <li className={`task-item ${props.done ? "done" : ""}`}>
+    <Item done={props.done}>
       <span>X</span>
       <p>{props.title}</p>
       <span onClick={props.complete}>Done</span>
-    </li>
+    </Item>
   );
 }
