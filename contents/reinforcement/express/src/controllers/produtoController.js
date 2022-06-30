@@ -4,10 +4,9 @@ const produtoController = {
   },
 
   cadastrarProduto: (req, res) => {
-    console.log(req.body)
-    res.json('Produto Cadastrado')
-  }
+    console.log(req.body);
+    res.json("Produto Cadastrado");
+  },
 };
-
 
 module.exports = produtoController;
