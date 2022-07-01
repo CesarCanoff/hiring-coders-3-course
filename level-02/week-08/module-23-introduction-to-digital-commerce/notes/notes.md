@@ -322,3 +322,30 @@ Por processarem um **número muito alto de transações** (de todos os seus loji
 
 Quando falamos sobre o **FLUXO DO DINHEIRO**, estamos falando sobre como ele sai da conta do cliente e chega na conta do lojista, após uma compra.
 
+---
+
+## Class 12 - MDR
+
+**Merchant discount rate** ou simplesmente **taxa de desconto da transação**, é o percentual que o lojista paga ao fazer uma venda em cartão seja débito ou crédito.
+
+1. Taxa de intercambio
+   1. Banco emissor;
+   2. 60%;
+   3. Ramo comercial;
+   4. Tipo de transação.
+2. Fee da bandeira
+   1. 10%;
+   2. Grade do cartão
+3. Imposto de renda
+   1. Governo;
+   2. Variável.
+
+### MDR Líquido
+
+Nada mais é que o valor que sobra para a adquirente após pagar todas as partes envolvidas, ou seja, a margem.
+
+<center>
+
+**MDR Líquido = MDR - Interchange - Fee - IR**
+
+</center>
