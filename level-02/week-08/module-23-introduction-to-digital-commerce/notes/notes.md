@@ -349,3 +349,35 @@ Nada mais é que o valor que sobra para a adquirente após pagar todas as partes
 **MDR Líquido = MDR - Interchange - Fee - IR**
 
 </center>
+
+### Class 13 - SEO - Metadata I
+
+"**SEO** é um conjunto de técnicas que visa posicionar **organicamente** uma página nos primeiros resultados de **mecanismos de busca** online, como o **Google**."
+
+### O que são metadados?
+
+"**Metadados** são **tags de HTML** contidas no cabeçalho de um sitee, por isso, não são exibidas na página."
+
+1. **URL Title** (textLink no Admin da VTEX)
+   1. Correto: https://vtex.com/bt-pt/cases/vtex-stanley-black-and-decker/
+   2. Incorreto: https://help.vtex.com/pt/tracks/catalogo- 101--5AFOXfnjfWeoplFBgs3LIQ/7kz4uW Vq6NoaOdUpiJv4PR
+   3. Melhores práticas
+      1. Auto-explicativa;
+      2. Curta;
+      3. Não utilizar números binários e caracteres especiais, como acentos.
+      4. Separar as palavras por um hífen (-), não um travessão (--);
+      5. Oportunidade para adicionar suas palavras-chaves.
+2. **Title Tags** (Título da página ou Tag Title no Admin VTEX)
+   1. Melhores práticas
+      1. Até 50 - 60 caracteres;
+      2. Cuidado para não duplicar title tags em páginas diferentes;
+      3. Não usar ALL CAPS;
+      4. Foco na palavra-chave principal (cauda curta ou longa - depende da estratégia).
+3. **Meta Description** (Descrição ou Meta Tag Description no Admin VTEX)
+   1. Melhores práticas
+      1. De 50 - 160 caracteres;
+      2. Descrição convincente e relevante;
+      3. Oportunidade de uso de outras palavras-chaves.
+4. **Heading Tags** (H1, H2, H3, H4. H5. H6)
+   1. Nível de importância do título.
+
