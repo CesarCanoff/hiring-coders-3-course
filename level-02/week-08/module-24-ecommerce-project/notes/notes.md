@@ -103,8 +103,37 @@ O manifesto ágil, lançado em 2001, está baseado em 4 grandes valores:
 - Os times são menores e, com isso, a gestão é mais simples e a colaboração tende a ser maior.
 
 ### Pontos negativos:
+
 - A data da entrega final é mais difícil de se determinar com assertividade;
 - Os custos do projeto podem variar com mais frequência;
 - A documentação não é priorizada, o que pode gerar problemas para a sustentação;
 - As entregas menores e parciais, quando reunidas para a entrega final, podem ter mais problemas e gerar retrabalho.
 
+## Class 02 - Gestão ágil de projetos aplicado ao e-Commerce
+
+### Frameworks de trabalho dentro do modelo ágil.
+
+- XP (eXtreme Programming);
+- Lean;
+- Kanban;
+- Scrum;
+
+### Sobre a Metodologia
+
+#### aplicada na realidade do e-Commerce
+
+Podemos definir os seguintes pressupostos:
+
+- A maioria dos projetos são complexos e a envolverem diversas áreas;
+- São projetos de tecnologia, porém em sua maioria se relacionam com áreas operacionais;
+- Normalmente são projetos com data de lançamento pré-definida;
+- Envolvem diversas empresas e diversos prestadores de serviço.
+
+### Principais pontos de atenção
+
+#### em projetos de e-Commerce que usam metodologias ágeis
+
+- Quando o projeto tiver data de entrega desejada, é importante organizar as sprints em uma periodicidade comum a todas as squads;
+- Garantir que todos os envolvidos nos projeto (stakeholders internos e externos) conheçam a metodologia utilizada e seus pressupostos;
+- É importante ter uma squad (ou scrum master) que seja responsável por organizar as entregas de todas as squads;
+- Garantir à qualidade das entregas de maneira global (e não por squad).
