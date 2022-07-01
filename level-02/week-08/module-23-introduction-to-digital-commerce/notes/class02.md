@@ -1,4 +1,4 @@
-# Class 01 - Tipos e modelos de e-Commerce
+# Class 02 - Tipos e modelos de e-Commerce
 ## Quais os tipos mais tradicionais de e-Commerce?
 
 1. **B2C (B-to-C) - Business to Consumer**
