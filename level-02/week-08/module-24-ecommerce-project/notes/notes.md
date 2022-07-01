@@ -137,3 +137,35 @@ Podemos definir os seguintes pressupostos:
 - Garantir que todos os envolvidos nos projeto (stakeholders internos e externos) conheçam a metodologia utilizada e seus pressupostos;
 - É importante ter uma squad (ou scrum master) que seja responsável por organizar as entregas de todas as squads;
 - Garantir à qualidade das entregas de maneira global (e não por squad).
+
+---
+
+## Class 03 - Ferramentas para gestão de projetos de e-Commerce
+
+### Metodologias Clássicas - Waterfall
+
+- Microsoft Project;
+- Smartsheet.
+
+### Metodologias Ágeis
+
+- Jira;
+- Trello;
+- Asana.
+
+## Conclusões
+
+### Gestão de projeto é antes de tudo - gestão de expectativa, parceiros e pessoas
+
+- Faça suas escolhas, de acordo com seus objetivos;
+- Metodologias clássicas são ótimas para projetos possuem escopo e data bem definidos;
+- Metodologias ágeis são ótimas para projetos de evolução, em que se exige melhoria contínua;
+- Existem projetos que demandam metodologias híbridas;
+- Independente da metodologia, sempre olhe para o todo;
+- Um bom gestor de projeto, mais do que controlar entregas, deve ser aquele que.
+
+<center>
+
+**ANTECIPA PROBLEMAS e EVITA SURPRESAS**
+
+</center>
