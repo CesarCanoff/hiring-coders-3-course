@@ -261,3 +261,30 @@ Quanto mais adequado à experiência do usuário for o site, mais natural será 
 ### A interface/layout com a qual o usuário vai interagir faz parte de sua experiência.
 
 A UI é a interface em que o usuário tem contato direto - botões, anúncios, banners, cores, fontes, estilos, imagens, etc. Refere-se aos recursos de identificação. Por esse motivo, é muito importante que as estratégias de UI e UX sejam pensadas em conjunto.
+
+---
+
+## Class 09 - Oque é um adquirente?
+**Adquirentes (ou credenciadoras)** são empresas como Stone, Cielo, Rede, Getnet que **liquidam transações financeiras** por meio de cartões de crédito e débito.
+
+### Compra Virtual X Compra Física
+- Física
+  - Mais seguro;
+  - Cliente;
+  - Lojista;
+  - Adquirente;
+  - Bandeira;
+  - Banco Emissor.
+- Virtual
+  - Gateway de Pagamento;
+  - Antifraude.
+
+"Contratar uma adquirente é poder **oferecer mais formas de pagamento** para o cliente."
+
+
+### Como o adquirente ganha dinheiro?
+1. Taxa de administração
+   1. Ao fechar um contrato, o lojista concorda em pegar um percentual do valor das suas vendas para o adquirente.
+2. Taxa de antecipação
+   1. Taxa cobrada caso o lojista queira receber o seu dinheiro antes do prazo combinado em contrato.
+
