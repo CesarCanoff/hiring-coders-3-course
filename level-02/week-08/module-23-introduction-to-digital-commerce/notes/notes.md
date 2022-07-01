@@ -1,6 +1,6 @@
-# Class 01 - Introdução ao Comércio Eletrônico
+## Class 01 - Introdução ao Comércio Eletrônico
 
-## Quais os tipos de plataforma disponíveis?
+### Quais os tipos de plataforma disponíveis?
 
 1. **SaaS**
    1. Software as a Service, plataforma "alugada" com a infra e código gerenciados pelo fornecedor.
@@ -10,8 +10,6 @@
    1. Plataforma criada pór comunidades abertas de programadores que disponibilizam o código para download e utilização gratuita.
 4. **Proprietária**
    1. Plataforma desenvolvida pela própria empresa.
-
----
 
 - **SaaS**
   - Vantagens
@@ -52,9 +50,9 @@
 
 ---
 
-# Class 02 - Tipos e modelos de e-Commerce
+## Class 02 - Tipos e modelos de e-Commerce
 
-## Quais os tipos mais tradicionais de e-Commerce?
+### Quais os tipos mais tradicionais de e-Commerce?
 
 1. **B2C (B-to-C) - Business to Consumer**
    1. A relação é estabelecida entre uma empresa e o consumidor (Exemplo: C&A)
@@ -73,9 +71,7 @@
 8. **B2G (B-to-G) Business to Government**
    1. A relação é estabelecida entre empresa e governo, com venda de bens e serviços (Exemplo: Empresas que prestam serviços para o governo, através de licitações).
 
----
-
-## Modelos de e-Commerce
+### Modelos de e-Commerce
 
 ### Tradicional
 
@@ -97,30 +93,26 @@
 
 ---
 
-# Class 03 - Jornada do Consumidor
+## Class 03 - Jornada do Consumidor
 
-## O que é a Jornada do consumidor Digital?
+### O que é a Jornada do consumidor Digital?
 
 - A jornada do consumidor é o **caminho de um cliente da marca**;
 - É **baseado em dados reais** de clientes;
 - Possui **6 etapas:** consciência, consideração, decisão, checkout, envio / entrega e pós-venda.
 
----
-
 "**É fundamental saber por quais canais a marca terá contato com o cliente**, só assim podemos reconhecer oportunidades de contato com o consumidor e fazer uma estratégia de geração de tráfego ao e-Commerce eficiente."
 
 ---
 
-# Class 04 - Introdução ao Marketing Digital
+## Class 04 - Introdução ao Marketing Digital
 
-## Os 4P's
+### Os 4P's
 
 - Produto;
 - Preço;
 - Promoção;
 - Praça.
-
----
 
 ### Produto
 
@@ -129,8 +121,6 @@
 - **Atributos** do produto.
 - Estratégia para comércio **tradicional + Digital**.
 
----
-
 ### Preço
 
 - É o **valor de venda**.
@@ -138,22 +128,16 @@
 - Devemos ter claro que existem estratégias de preço alto.
 - Estratégia para comércio **tradicional + Digital**.
 
----
-
 ### Promoção
 
 - Ações para **publicitar** o produto e a marca.
 - É mais **eficiente** quando **tem** boa estratégia de **preço e produto**.
 - Mundo Digital> estratégias com SEM e Redes Sociais.
 
----
-
 ### Praça
 
 - No comércio tradicional **local da loja**.
 - Uma boa praça pode fazer com que as pessoas vejam sua loja e produtos.
-
----
 
 ## Geração de Tráfego
 
@@ -164,17 +148,15 @@
 
 ---
 
-# Class 05 - A importância da logística no eCommerce
+## Class 05 - A importância da logística no eCommerce
 
-## Afinal, por que a logística é um ponto crucial em sua operação de e-Commerce?
+### Afinal, por que a logística é um ponto crucial em sua operação de e-Commerce?
 
 ### Influência direta na taxa de abandono do carrinho de compras
 
 Em média, 69.8% dos clientes abandonam o carrinho no momento da compra. Isto significa perda em vendas, perda da chance de criar um relacionamento com o cliente e perda no marketing gasto para levar o potencial consumidor ao seu site.
 
----
-
-## Fatores relacionados à logística:
+### Fatores relacionados à logística:
 
 ### Custo alto de frete
 
@@ -190,7 +172,7 @@ Em média, 69.8% dos clientes abandonam o carrinho no momento da compra. Isto si
 
 - criação de confiança com o cliente.
 
-## Outros fatores logísticos que também impactam diretamente nas vendas.
+### Outros fatores logísticos que também impactam diretamente nas vendas.
 
 1. Acuracidade da entrega
    1. Relação direta com a fidelização do cliente. Em pesquisa, 17% dos consumidores afirmam que não comprariam novamente em uma loja que atrasou a entrega em um pedido anterior.
@@ -198,4 +180,39 @@ Em média, 69.8% dos clientes abandonam o carrinho no momento da compra. Isto si
    1. Investir em campanhas de marketing que fazem o cliente desejar um produto e ele estar indisponível no site gera frustração e perda de vendas.
 3. Diversificação das formas de entrega
    1. Dar diversas opções de entrega para o cliente é uma forma aumentar as chances de atender às expectativas dele. Entrega express, entrega agendada e retirada em loja são alternativas ao frete convencion
+
 ---
+
+## Class 06 - Buyer Persona
+
+### O que é uma Buyer Persona?
+
+- Representação do seu cliente ideal;
+- Um personagem fictício;
+- Baseado em dados reais dos clientes;
+- Informações demográficas, suas dores, desejos e necessidades.
+
+### Qual a sua importância?
+
+- Base para criar a Estratégia de Marketing (principalmente de conteúdo);
+- Entender a relevância da estratégia para o cliente.
+
+### Mercado B2B e B2C Existe diferença na Buyer Persona?
+
+- B2B
+  - Comprador corporativo;
+  - Dores maus racionais;
+- B2C
+  - comprador pessoa física;
+  - dores mais emocionais;
+
+### Principais passos para a criação de uma Buyer Persona
+
+- Qual o nome da Buyer Persona?
+- Qual o sexo e idade?
+- Qual seu estado civil?
+- Onde ela vive? (País,Estado, Cidade, Bairro)
+- Onde trabalha e com o quê?
+- Qual o salário médio?
+- Acrescentar uma foto ou ilustração
+- Principais Redes Sociais que utiliza
