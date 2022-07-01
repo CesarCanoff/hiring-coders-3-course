@@ -216,3 +216,30 @@ Em média, 69.8% dos clientes abandonam o carrinho no momento da compra. Isto si
 - Qual o salário médio?
 - Acrescentar uma foto ou ilustração
 - Principais Redes Sociais que utiliza
+
+---
+
+## Class 07 - A importância da UX para o eCommerce
+### Mas, o que é o UX?
+### User Experience (UX) é um conceito usado para definir a maneira como um consumidor utiliza um produto ou serviço.
+
+O **grau de facilidade** com que se usa um produto ou serviço, por sua vez, é denominado **"usabilidade"**. Assim, quanto **mais fácil for a usabilidade, melhor é também a Experiência do Usuário**.
+
+### A UX se relaciona com:
+- Layout;
+- Usabilidade;
+- Aspectos Visuais;
+- Forma;
+- Função;
+- Eficácia;
+
+### A UX no ecommerce
+Em termos gerais, o que se espera de um e-commerce devidamente ajustado à experiência do usuário é que ele seja fácil de usar e dê ao indivíduo a sensação de ter sido feito sob medida para ele.
+<br />
+Quanto mais adequado à experiência do usuário for o site, mais natural será a sua navegação e menos o cliente precisará pensar a respeito da sua formatação ou estrutura.
+
+- Os aspectos visuais do Design de um produto ou loja virtual;
+- Os aspectos interativos do Design de um produto ou loja virtual;
+- As características da arquitetura da informação de uma loja virtual;
+- Os recursos de pesquisa destinados aos usuários de um site e-commerce;
+- A estratégia de conteúdo de uma loja virtual e seu blog e-commerce.
