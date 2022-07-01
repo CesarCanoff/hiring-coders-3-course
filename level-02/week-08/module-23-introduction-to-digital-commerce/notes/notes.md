@@ -381,3 +381,68 @@ Nada mais é que o valor que sobra para a adquirente após pagar todas as partes
 4. **Heading Tags** (H1, H2, H3, H4. H5. H6)
    1. Nível de importância do título.
 
+## Class 14 - SEO - Imagens Metadata II
+
+### Title - O que é? E para quê serve?
+
+"**Title** é uma **descrição** detalhada **de uma imagem**. O principal objetivo é auxiliar no **ranqueamento** do site no **Google Imagens**. Uma boa prática é utilizá-lo com **palavra-chave**."
+
+### Como identificar o title da imagem?
+
+"Quando inspecionamos o elemento, podemos conferir como foi definido o title. Também é possível visualizar uma tooltip ao passar o mouse sobre a imagem.
+
+### Melhores práticas:
+
+- Não utilizar textos longos;
+- Não utilizar caracteres especiais ou números;
+- Utilizar um titulo condizente com a imagem."
+
+```html
+<img src="imagem.jpg" alt="decricao da imagem" title="TITULO DA IMAGEM" />
+```
+
+### Texto Alternativo - O que é? E para quê serve?
+
+**Texto Alternativo** também conhecido como **Tag Alt** é a descrição da imagem.
+
+<br />
+
+É utilizado para facilitar a leitura de imagens em sites pelo Google.
+
+A **tag alt** também é utilizada pelos bots do Google que juntamente com a tag title interpreta melhor o significado da imagem e sua relação com a página em questão. também, como texto âncora quando a imagem é usada como link.
+
+### Melhores práticas:
+
+- Termos e palavras que de contexto a foto;
+- Não utilizar caracteres especiais;
+- Ser especifico;
+- Ter menos de 125 caracteres.
+
+```html
+<img src="imagem.jpg" alt="DESCRICAO DA IMAGEM" title="titulo da imagem" />
+```
+
+### Nome do Arquivo - O que é? E para quê serve?
+
+**Nome do arquivo** é o nome do dado a imagem. Um dos pontos de **relevância para a análise** e entendimento do Google é o nome do arquivo.
+
+O Google extrai informações sobre o assunto da imagem do conteúdo da página, incluindo legendas e títulos de imagens, **nome do arquivo**. Sempre que possível, certifique-se de que as imagens sejam colocadas próximas ao texto relevante e em páginas relevantes ao assunto da imagem.
+
+### Melhores práticas:
+
+- Escolher um nome que faça sentido;
+- Nomear com termos relevantes para o seu tipo de negócio;
+- Utilizar (-) como espaço para o nome do arquivo.
+
+```html
+<img src="imagem.jpg" alt="descricao da imagem" title="titulo da imagem" />
+```
+
+1. **Não incorpore textos importantes apenas em imagens**
+   1. O texto da imagem deve complementar o contexto, mas não substituir.
+2. **Otimize estratégias de marketing de conteúdo**
+   1. Realizar teste AB para entender o que faz mais sentido para o seu negócio. Pesquisar palavras-chave mais utilizadas.
+3. **Os motores do Google mandam e a gente obedece**
+   1. O Google usa o caminho da URL e também o nome do arquivo para ajudá-lo a entender suas imagens. É extremamente necessário ser cuidadoso com todo texto utilizado na construção da loja.
+4. **Mantenha-se atualizado com as tendências e melhores práticas**
+   1. Mais do que utilizar imagens no seu contexto, ficar de olho nas práticas do mercado é fundamental para o sucesso do seu SEO.
