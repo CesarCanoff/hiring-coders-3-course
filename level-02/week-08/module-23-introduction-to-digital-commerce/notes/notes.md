@@ -315,3 +315,10 @@ Por processarem um **número muito alto de transações** (de todos os seus loji
 - Mercado Pago;
 - PayPal;
 - Wirecard;
+
+---
+
+## Class 11 - Fluxo do dinheiro
+
+Quando falamos sobre o **FLUXO DO DINHEIRO**, estamos falando sobre como ele sai da conta do cliente e chega na conta do lojista, após uma compra.
+
