@@ -265,9 +265,11 @@ A UI é a interface em que o usuário tem contato direto - botões, anúncios, b
 ---
 
 ## Class 09 - Oque é um adquirente?
+
 **Adquirentes (ou credenciadoras)** são empresas como Stone, Cielo, Rede, Getnet que **liquidam transações financeiras** por meio de cartões de crédito e débito.
 
 ### Compra Virtual X Compra Física
+
 - Física
   - Mais seguro;
   - Cliente;
@@ -281,10 +283,35 @@ A UI é a interface em que o usuário tem contato direto - botões, anúncios, b
 
 "Contratar uma adquirente é poder **oferecer mais formas de pagamento** para o cliente."
 
-
 ### Como o adquirente ganha dinheiro?
+
 1. Taxa de administração
    1. Ao fechar um contrato, o lojista concorda em pegar um percentual do valor das suas vendas para o adquirente.
 2. Taxa de antecipação
    1. Taxa cobrada caso o lojista queira receber o seu dinheiro antes do prazo combinado em contrato.
 
+## Class 10 - O que é um Subadquirente
+
+**Subadquirentes** são empresas que fazem a intermediação de **todo** o processamento de uma transação sem a necessidade de contratar nenhum outro serviço.
+
+Por processarem um **número muito alto de transações** (de todos os seus lojistas) possuem **contratos financeiros vantajosos** com os adquirentes.
+
+### Vantagens
+
+1. Multi adquirência e outros meios de pagamento
+   1. Roteador de transações;
+   2. Maior aceitação de diferentes bandeiras;
+   3. Diversidade de meios de pagamento.
+2. Segurança
+   1. Antifraude na própria plataforma.
+3. Rapidez e Praticidade
+   1. Menos burocracia;
+   2. Rápida implementação;
+   3. Baixo custo.
+
+### Principais Player do mercado
+
+- PagSeguro;
+- Mercado Pago;
+- PayPal;
+- Wirecard;
