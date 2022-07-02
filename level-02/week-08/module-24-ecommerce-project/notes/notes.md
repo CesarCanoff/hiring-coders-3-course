@@ -169,3 +169,45 @@ Podemos definir os seguintes pressupostos:
 **ANTECIPA PROBLEMAS e EVITA SURPRESAS**
 
 </center>
+
+---
+
+## Class 04 - Site Clinic
+
+### Geral
+
+- **Responsivo**: é fundamental que seu e-commerce
+  funcione independente do dispositivo. Para visualizar
+  isso, você pode inspecionar o site.
+
+- **Velocidade**: as pessoas não querem esperar muito
+  tempo pelo carregamento de uma página. Para
+  descobrir se a sua página é lenta você pode usar o test
+  my site mas existem outros como PageSpeed. (Think With Google / Page Speed Insights).
+
+- **Peso das imagens**: imagens pesadas (não otimizadas)
+  fazem com que a página "perca pontos de
+  posicionamento". Você pode testar pelo test da
+  cloudinary. (webspeedtest.cloudinary.com)
+
+- **Tráfego**: sua página tem sazonalidade? como está em
+  relação à concorrência? Você pode confirmar isso no
+  SimilarWeb. (similiarweb.com)
+
+### Página do Produto
+
+- **URL otimizada**: a URL deve conter a palavra chave, no
+  caso de uma página de produto, o nome do produto.
+
+- **H1**: dentro da hierarquia da página para seu
+  posicionamento SEO, o H1 é o mais importante. Aí
+  deveria estar seu título ou nome do produto.
+
+- **Título e texto alternativo da imagem**: são informações
+  fundamentais para o posicionamento SEO, devem ter a
+  palavra chave. O nome do arquivo deve seguir a mesma
+  estratégia (usar - ).
+
+- **Hora da compra**: quando você adiciona um produto no
+  carrinho, não deveria ser direcionado para outra página.
+  Outro ponto importante a ser observado é o CTA.
