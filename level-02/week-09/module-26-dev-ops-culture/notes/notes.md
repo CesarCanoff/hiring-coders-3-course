@@ -68,3 +68,28 @@ nossos próprios entendimentos."
 5. As equipes assumem responsabilidade total pelos serviços, geralmente indo além do escopo tradicional de seus cargos e títulos definidos;
 6. As equipes de controle de qualidade e segurança também podem tornar-se altamente integradas a essas equipes.
 
+## Class 03 - História do Devops
+
+"Visando as necessidades das empresas para se manterem relevantes no
+cenário econômico, em 2009 surgiu a cultura DeVops onde o **desenvolvimento (DEV)** e a **infraestrutura e os sistemas (OPS)** estão devidamente preparados para trabalhar em conjunto. As áreas precisam ser compatíveis. Caso contrário, pode acabar dificultando todo o desenvolvimento de projetos."
+
+- TIME DE DESENVOLVIMENTO
+  - DESENVOLVIMENTO DE SISTEMAS
+    - Mudança Contínua;
+    - Novos recursos e funcionalidades;
+    - Testes.
+- TIME DE OPERAÇÕES
+  - OPERAÇÃO DO SISTEMA
+    - Configuração;
+    - Monitoramento;
+    - Estabilidade;
+    - Novos serviços.
+
+"Depois do desenvolvimento do sistema a equipe de **DEV** entrega o novo produto
+para a equipe de **OPS** que deverá manter a o sistema em funcionamento com o
+máximo de disponibilidade possível. **DEV** tentara não alterar o código evitando que
+as atualizações causem instabilidade, no entanto a correção de **Bugs** é sempre
+necessária. A equipe de **OPS** deve manter o sistema no ar mesmo com as
+alterações causando instabilidade, para isso manterá backups das versão
+anteriores. Essa relação gera desgastes entre as equipes."
+
