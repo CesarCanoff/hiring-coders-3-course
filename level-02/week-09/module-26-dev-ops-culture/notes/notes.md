@@ -60,7 +60,7 @@ nossos próprios entendimentos."
 - Centralização dos Logs;
 - Monitoramento e coleta de dados e métricas;
 - Infraestrutura escalável e automatizada.
-  
+
 1. Mudança de Cultura e mentalidade;
 2. Remover a barreira entre dois silos: Desenvolvimento e Operações;
 3. As duas equipes trabalham juntas para otimizar a produtividade dos desenvolvedores e a confiabilidade das operações;
@@ -92,4 +92,14 @@ as atualizações causem instabilidade, no entanto a correção de **Bugs** é s
 necessária. A equipe de **OPS** deve manter o sistema no ar mesmo com as
 alterações causando instabilidade, para isso manterá backups das versão
 anteriores. Essa relação gera desgastes entre as equipes."
+
+## Class 04 - Conceito do Devops
+
+"DevOps tem haver com pessoas e sua capacidade de se relacionarem e trocarem
+experiências. Dessa forma não podemos restringir essa cultura apenas às equipes de DEV e OPS mas estende-las a toda organização, uma vez que o foco deve ser o negócio e não a
+tecnologia. Essa mudança deve vir das pessoas, e seguir uma ideia de quebrar barreiras. <br /><br />
+**O ambiente corporativo deve dar liberdade para que todos expressem suas ideias e
+compartilhem experiências, independente do nível hierárquico ou área de atuação.**
+<br /><br />
+Um bom teste para isso é ver se um estagiário se sente a vontade de propor novas ideias ao gerente ou mesmo a um diretor."
 
