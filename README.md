@@ -33,7 +33,7 @@
               - **Aula 04** - Divisões II
                 - **Duração:** 14:21
           - CSS
-            - **Carga Horária:** 3h
+            - **Carga Horária:** 3hrs
             - **Professor(a):** Kai Pimenta
             - **Descrição:** Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.
             - **Dificuldade:** Básico
@@ -134,7 +134,7 @@
               - **Aula 08** - Scrum Refinamento de Backlog
                 - **Duração:** 13:37
           - Testes
-            - **Carga Horária:** 2h
+            - **Carga Horária:** 2hrs
             - **Professor(a):** Danilo Aparecido
             - **Descrição:** Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.
             - **Dificuldade:** Avançado
@@ -182,7 +182,7 @@
               - **Aula 08** - Design Patterns: Singleton, Strategy e Adaptar
                 - **Duração:** 15:21
           - Soft Skill
-            - **Carga Horária:** 2h
+            - **Carga Horária:** 2hrs
             - **Professor(a):** Amanda Nideck
             - **Descrição:** -
             - **Dificuldade:** Básico
@@ -203,10 +203,318 @@
               - **Aula 07** - Criatividade
                 - **Duração:** 11:25
       - Semana 01
+        - Playlists
+          - Introdução ao Mundo do Desenvolvimento
+            - **Carga Horária:** 1h
+            - **Professor(a):** Isidro Massetto
+            - **Descrição:** Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 5
+            - **Aulas**
+              - **Aula 01** - O que é Programação
+                - **Duração:** 05:41
+              - **Aula 02** - Dados do Mercado
+                - **Duração:** 06:42
+              - **Aula 03** - Como é a Carreira de Desenvolvimento
+                - **Duração:** 09:45
+              - **Aula 04** - Linguagens, Frameworks e Bibliotecas
+                - **Duração:** 07:03
+              - **Aula 05** - Editores de Texto
+                - **Duração:** 05:50
+          - Lógica de Programação
+            - **Carga Horária:** 1h
+            - **Professor(a):** Isidro Massetto
+            - **Descrição:** Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 4
+            - **Aulas**
+              - **Aula 01** - Algoritmos
+                - **Duração:** 11:07
+              - **Aula 02** - Variáveis e Operações
+                - **Duração:** 23:23
+              - **Aula 03** - Decisões
+                - **Duração:** 24:13
+              - **Aula 04** - Repetições
+                - **Duração:** 19:56
+          - Git
+            - **Carga Horária:** 52min
+            - **Professor(a):** Hendy Almeida
+            - **Descrição:** O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 5
+            - **Aulas**
+              - **Aula 01** - Apresentação e Introdução ao Tema
+                - **Duração:** 05:01
+              - **Aula 02** - Instalação e Comandos Básicos
+                - **Duração:** 14:27
+              - **Aula 03** - GitHub e Repositório Remoto
+                - **Duração:** 14:19
+              - **Aula 04** - Branch e Merge
+                - **Duração:** 08:13
+              - **Aula 05** - Fork, Pull Request e GitHub Pages
+                - **Duração:** 10:56
       - Semana 02
+        - Playlist
+          - Javascript Básico
+            - **Carga Horária:** 1h
+            - **Professor(a):** JC Bombardelli
+            - **Descrição:** Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 8
+            - **Aulas**
+              - **Aula 01** - Introdução ao Javascript
+                - **Duração:** 06:26
+              - **Aula 02** - Números e Operadores
+                - **Duração:** 05:10
+              - **Aula 03** - Boas Práticas em Javascript
+                - **Duração:** 05:01
+              - **Aula 04** - Condicionais
+                - **Duração:** 09:21
+              - **Aula 05** - Estrutura de Repetição: For
+                - **Duração:** 10:04
+              - **Aula 06** - Estrutura de Repetição: While
+                - **Duração:** 07:45
+              - **Aula 07** - Funções
+                - **Duração:** 07:59
+              - **Aula 08** - Classes
+                - **Duração:** 03:49
+          - Javascript Básico - Prática
+            - **Carga Horária:** 42min
+            - **Professor(a):** JC Bombardelli
+            - **Descrição:** Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 5
+            - **Aulas**
+              - **Aula 01** - Desafio: Validador de CPF I
+                - **Duração:** 09:03
+              - **Aula 02** - Desafio: Validador de CPF II
+                - **Duração:** 12:27
+              - **Aula 03** - Desafio: Validador de CPF III
+                - **Duração:** 08:07
+              - **Aula 04** - Desafio: Validador de CPF IV
+                - **Duração:** 06:43
+              - **Aula 05** - Desafio: Validador de CPF V
+                - **Duração:** 06:26
+          - Introdução ao Typescript
+            - **Carga Horária:** 2hrs
+            - **Professor(a):** Gabriel Ramos
+            - **Descrição:** -
+            - **Dificuldade:** Médio
+            - **Quantidade de Aulas:** 6
+            - **Aulas**
+              - **Aula 01** - Introdução
+                - **Duração:** 32:05
+              - **Aula 02** - Tipos Básicos (Parte 01)
+                - **Duração:** 18:39
+              - **Aula 03** - Tipos Básicos (Parte 02)
+                - **Duração:** 20:14
+              - **Aula 04** - Múltiplos Tipos com Union Types
+                - **Duração:** 20:56
+              - **Aula 05** - Orientação de Objetos (Parte 01)
+                - **Duração:** 12:33
+              - **Aula 05** - Orientação de Objetos (Parte 02)
+                - **Duração:** 24:06
       - Semana 03
+        - Playlists
+          - ReactJS Básico
+              - **Carga Horária:** 1h
+              - **Professor(a):** Guilherme Ramos
+              - **Descrição:** Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 7
+              - **Aulas**
+                - **Aula 01** - Boas Vindas
+                  - **Duração:** 03:29
+                - **Aula 02** - Por que ReactJS
+                  - **Duração:** 07:14
+                - **Aula 03** - Preparando o Ambiente
+                  - **Duração:** 11:58
+                - **Aula 04** - Fundamentos do ReactJS
+                  - **Duração:** 17:56
+                - **Aula 05** - Consumindo Dados de uma API
+                  - **Duração:** 15:00
+                - **Aula 06** - Instalando e Configurando o react-router-dom
+                  - **Duração:** 07:28
+                - **Aula 07** - Importando as Rotas no Componente App
+                  - **Duração:** 04:03
+          - ReactJS Intermediário
+              - **Carga Horária:** 56min
+              - **Professor(a):** Guilherme Ramos
+              - **Descrição:** Domine as funcionalidades avançadas do React.
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 7
+              - **Aulas**
+                - **Aula 01** - Organização, Boas Práticas e Componentes de Estilo
+                  - **Duração:** 14:35
+                - **Aula 02** - Salvando Dados no Storage
+                  - **Duração:** 04:31
+                - **Aula 03** - Renderizando Repositórios e Programação Declarativa
+                  - **Duração:** 09:14
+                - **Aula 04** - Link react-router-dom
+                  - **Duração:** 05:57
+                - **Aula 05** - Tratamento de Erros e useHistory
+                  - **Duração:** 03:30
+                - **Aula 06** - Conditional Rendering
+                  - **Duração:** 07:10
+                - **Aula 07** - Daqui pra Frente e Encerramento
+                  - **Duração:** 13:12
+          - GraphQL
+              - **Carga Horária:** 4hrs
+              - **Professor(a):** Victor Farias
+              - **Descrição:** Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 25
+              - **Aulas**
+                - **Aula 01** - Apresentação e Introdução
+                  - **Duração:** 03:17
+                - **Aula 02** - Modelo Cliente e Servidor
+                  - **Duração:** 06:31
+                - **Aula 03** - Padrão de Requisição e Resposta
+                  - **Duração:** 11:09
+                - **Aula 04** - Iniciando Projeto de Exemplo
+                  - **Duração:** 06:04
+                - **Aula 05** - Criando o Servidor
+                  - **Duração:** 10:25
+                - **Aula 06** - Renderização, Parâmetros e Redirecionamentos
+                  - **Duração:** 16:43
+                - **Aula 07** - Monorepo
+                  - **Duração:** 05:33
+                - **Aula 08** - Pacote com ReactJS
+                  - **Duração:** 06:14
+                - **Aula 09** - Rotas com react-router-dom
+                  - **Duração:** 07:42
+                - **Aula 10** - Mudando Server para Express
+                  - **Duração:** 08:03
+                - **Aula 11** - Requisição Assíncrona
+                  - **Duração:** 10:33
+                - **Aula 12** - Resolvendo CORS
+                  - **Duração:** 05:27
+                - **Aula 13** - APIs RESTful
+                  - **Duração:** 10:18
+                - **Aula 14** - Apollo Server
+                  - **Duração:** 18:47
+                - **Aula 15** - TypeDefs e Resolvers
+                  - **Duração:** 12:21
+                - **Aula 16** - Introdução a GraphQL Query
+                  - **Duração:** 02:35
+                - **Aula 17** - Criando GraphQL Queries 
+                  - **Duração:** 17:10
+                - **Aula 18** - Paginação, Ordenação e Filtros 
+                  - **Duração:** 29:17
+                - **Aula 19** - GraphQL Mutation 
+                  - **Duração:** 12:13
+                - **Aula 20** - Mutation para Alterar e Excluir Clientes 
+                  - **Duração:** 16:43
+                - **Aula 21** - Configurando o Apollo Link 
+                  - **Duração:** 12:46
+                - **Aula 22** - Criando o Apollo Link, o Logger 
+                  - **Duração:** 05:09
+                - **Aula 23** - Apollo Client, e Apollo DevTools 
+                  - **Duração:** 11:23
+                - **Aula 24** - Hooks useQuery e Paginação 
+                  - **Duração:** 22:09
+                - **Aula 25** - Hook useMutation 
+                  - **Duração:** 17:00
       - Semana 04
+        - Playlists
+          - Introdução ao NodeJS
+              - **Carga Horária:** 5hrs
+              - **Professor(a):** Erik Borges
+              - **Descrição:** -
+              - **Dificuldade:** Básico
+              - **Quantidade de Aulas:** 18
+              - **Aulas**
+                - **Aula 01** - Introdução Fundamentos de NodeJS
+                  - **Duração:** 14:12
+                - **Aula 02** - Definição de Back-End e Front-End
+                  - **Duração:** 14:43
+                - **Aula 03** - Definição de NodeJS
+                  - **Duração:** 17:46
+                - **Aula 04** - Benchmark NodeJS
+                  - **Duração:** 09:25
+                - **Aula 05** - Instalação do NodeJS
+                  - **Duração:** 12:17
+                - **Aula 06** - Prática "Hello World" em NodeJS
+                  - **Duração:** 21:04
+                - **Aula 07** - Documentação de Apoio Sobre NodeJS
+                  - **Duração:** 07:40
+                - **Aula 08** - O Problema de Gerenciamento de Pacotes
+                  - **Duração:** 09:56
+                - **Aula 09** - Como Funciona o NPM
+                  - **Duração:** 08:09
+                - **Aula 10** - Prática de NPM
+                  - **Duração:** 16:15
+                - **Aula 11** - Documentação de Apoio Sobre NPM
+                  - **Duração:** 03:18
+                - **Aula 12** - Definição de Javascript
+                  - **Duração:** 08:38
+                - **Aula 13** - Pratica de Desenvolvimento em Javascript
+                  - **Duração:** 20:26
+                - **Aula 14** - Documentações de Apoio Sobre Javascript
+                  - **Duração:** 04:10
+                - **Aula 15** - Definição de Typescript
+                  - **Duração:** 11:07
+                - **Aula 16** - Pratica de Desenvolvimento em Typescript
+                  - **Duração:** 14:44
+                - **Aula 17** - Documentação de Apoio Sobre Typescript
+                  - **Duração:** 04:00
+                - **Aula 18** - Finalização
+                  - **Duração:** 01:07
       - Semana 05
+        - Playlists
+          - NodeJS - HTTP GET e HTTP POST
+              - **Carga Horária:** 8hrs
+              - **Professor(a):** Douglas Morais
+              - **Descrição:** -
+              - **Dificuldade:** Básico
+              - **Quantidade de Aulas:** 23
+              - **Aulas**
+                - **Aula 01** - Introdução, Entendendo os Conceitos de REST e SOAP
+                  - **Duração:** 16:51
+                - **Aula 02** - Configurando o Nodemon
+                  - **Duração:** 07:25
+                - **Aula 03** - Configurando o Docker
+                  - **Duração:** 08:31
+                - **Aula 04** - Configurando ElephantSQL e PostBird
+                  - **Duração:** 06:30
+                - **Aula 05** - ORM
+                  - **Duração:** 16:18
+                - **Aula 06** - Migration Usuários
+                  - **Duração:** 18:02
+                - **Aula 07** - Model Usuários
+                  - **Duração:** 17:35
+                - **Aula 08** - Controller Usuários
+                  - **Duração:** 17:35
+                - **Aula 09** - Hash de Senhas Usuários
+                  - **Duração:** 15:41
+                - **Aula 10** - Autenticação JWT
+                  - **Duração:** 25:45
+                - **Aula 11** - Token JWT via Header
+                  - **Duração:** 42:18
+                - **Aula 12** - Atualizando Usuários
+                  - **Duração:** 19:54
+                - **Aula 13** - Validação de Dados
+                  - **Duração:** 39:32
+                - **Aula 14** - Adicionando Foto do usuário
+                  - **Duração:** 25:12
+                - **Aula 15** - Vinculando Fotos ao Usuário
+                  - **Duração:** 32:12
+                - **Aula 16** - Listagem de Prestadores de Serviços
+                  - **Duração:** 23:33
+                - **Aula 17** - Models de Agendamento
+                  - **Duração:** 15:03
+                - **Aula 18** - Criando Agendamentos
+                  - **Duração:** 21:22
+                - **Aula 19** - Validações e Listagem de Agenda do Colaborador
+                  - **Duração:** 38:36
+                - **Aula 20** - Paginação e Listagem de Agenda do Colaborador
+                  - **Duração:** 38:36
+                - **Aula 21** - Configurando o MongoDB e Configurando as Notificações
+                  - **Duração:** 45:54
+                - **Aula 22** - Listando Notificações e Marcando como Lidas 
+                  - **Duração:** 30:37
+                - **Aula 22** - Final do Módulo 
+                  - **Duração:** 01:29
       - Semana 06
       - Semana 07 | **(Bônus)**
       - Aulas Reforço | **(Bônus)**
