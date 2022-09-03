@@ -516,8 +516,246 @@
                 - **Aula 22** - Final do Módulo 
                   - **Duração:** 01:29
       - Semana 06
+        - Playlists
+          - Node.JS - Criando uma REST API
+              - **Carga Horária:** 5hrs
+              - **Professor(a):** Erik Borges
+              - **Descrição:** -
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 25
+              - **Aulas**
+                - **Aula 01** - Introdução a REST API
+                  - **Duração:** 05:44
+                - **Aula 02** - O que é REST API
+                  - **Duração:** 15:28
+                - **Aula 03** - Recursos: Coleção, Elemento e Sub-elemento
+                  - **Duração:** 19:51
+                - **Aula 04** - Endpoints
+                  - **Duração:** 06:10
+                - **Aula 05** - Métodos REST
+                  - **Duração:** 16:51
+                - **Aula 06** - Versionamento de API
+                  - **Duração:** 06:57
+                - **Aula 07** - Status Codes
+                  - **Duração:** 08:36
+                - **Aula 08** - Documentação de Referência REST API
+                  - **Duração:** 04:17
+                - **Aula 09** - O que é DX?
+                  - **Duração:** 18:30
+                - **Aula 10** - O que é uma Documentação de API
+                  - **Duração:** 05:50
+                - **Aula 11** - Utilizando o Swagger - Parte 1
+                  - **Duração:** 27:42
+                - **Aula 12** - Utilizando o Swagger - Parte 2
+                  - **Duração:** 19:54
+                - **Aula 13** - Documentação de Referência do Swagger
+                  - **Duração:** 03:10
+                - **Aula 14** - O que é o Express
+                  - **Duração:** 06:57
+                - **Aula 15** - Conhecendo o Postman
+                  - **Duração:** 23:26
+                - **Aula 16** - Prática de Express - Parte 01
+                  - **Duração:** 24:54
+                - **Aula 17** - Prática de Express - Parte 02
+                  - **Duração:** 29:54
+                - **Aula 18** - Prática de Express - Parte 03
+                  - **Duração:** 24:38
+                - **Aula 19** - Prática de Express - Parte 04
+                  - **Duração:** 38:36
+                - **Aula 20** - Documentação de Referência do Express
+                  - **Duração:** 02:48
+                - **Aula 21** - Segurança: Acesso não autorizado
+                  - **Duração:** 06:36
+                - **Aula 22** - Segurança: Ataques de Integridade 
+                  - **Duração:** 06:21
+                - **Aula 23** - Segurança: Sobrecarga 
+                  - **Duração:** 05:16
+                - **Aula 24** - Segurança: Confiabilidade 
+                  - **Duração:** 06:33
+                - **Aula 25** - Segurança: Implementações Equivocadas 
+                  - **Duração:** 06:15
+          - Consumo de API Terceiras
+              - **Carga Horária:** 3hrs
+              - **Professor(a):** Erik Borges
+              - **Descrição:** -
+              - **Dificuldade:** Básico
+              - **Quantidade de Aulas:** 13
+              - **Aulas**
+                - **Aula 01** - Introdução Consumo de API Terceiras
+                  - **Duração:** 04:41
+                - **Aula 02** - A Importância da Integração com Terceiros
+                  - **Duração:** 12:16
+                - **Aula 03** - Como se Prepare para Integrar
+                  - **Duração:** 13:19
+                - **Aula 04** - O que é o Node-Fetch
+                  - **Duração:** 20:25
+                - **Aula 05** - Prática de Integração com Node-Fetch - Parte 01
+                  - **Duração:** 23:11
+                - **Aula 06** - Prática de Integração com Node-Fetch - Parte 02
+                  - **Duração:** 28:10
+                - **Aula 07** - Prática de Integração com Node-Fetch - Parte 03
+                  - **Duração:** 20:05
+                - **Aula 08** - Prática de Integração com Node-Fetch - Parte 04
+                  - **Duração:** 19:29
+                - **Aula 09** - O que é o Axios
+                  - **Duração:** 10:03
+                - **Aula 10** - Prática de Integração com Axios - Parte 01
+                  - **Duração:** 27:40
+                - **Aula 11** - Prática de Integração com Axios - Parte 02
+                  - **Duração:** 18:04
+                - **Aula 12** - Prática de Integração com Axios - Parte 03
+                  - **Duração:** 26:51
+                - **Aula 13** - Finalização
+                  - **Duração:** 02:22
       - Semana 07 | **(Bônus)**
+        - Playlists
+          - NextJS
+              - **Carga Horária:** 2hrs
+              - **Professor(a):** Marianne Salomão
+              - **Descrição:** -
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 9
+              - **Aulas**
+                - **Aula 01** - Apresentação e Introdução
+                  - **Duração:** 02:38
+                - **Aula 02** - Fundamentos I
+                  - **Duração:** 23:55
+                - **Aula 03** - Fundamentos II
+                  - **Duração:** 16:38
+                - **Aula 04** - Componentes I
+                  - **Duração:** 19:04
+                - **Aula 05** - Componentes II
+                  - **Duração:** 13:15
+                - **Aula 06** - SSR
+                  - **Duração:** 13:55
+                - **Aula 07** - Rotas e Funções I
+                  - **Duração:** 21:28
+                - **Aula 08** - Rotas e Funções II
+                  - **Duração:** 12:28
+                - **Aula 09** - Rotas e Funções III
+                  - **Duração:** 12:36
+            - GatsbyJS
+              - **Carga Horária:** 48min
+              - **Professor(a):** Marianne Salomão
+              - **Descrição:** -
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 6
+              - **Aulas**
+                - **Aula 01** - Fundamentos de GatsbyJS
+                  - **Duração:** 05:03
+                - **Aula 02** - SSG
+                  - **Duração:** 03:01
+                - **Aula 03** - Roteamento I
+                  - **Duração:** 09:12
+                - **Aula 04** - Roteamento II
+                  - **Duração:** 09:07
+                - **Aula 05** - Componentes e Funções I
+                  - **Duração:** 12:21
+                - **Aula 06** - Componentes e Funções II
+                  - **Duração:** 10:04
       - Aulas Reforço | **(Bônus)**
+        - Playlists
+          - Hiring Coders I Aulas Reforços
+              - **Carga Horária:** 10hrs
+              - **Professor(a):** Marianne Salomão
+              - **Descrição:** Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II. 
+              - **Dificuldade:** Médio
+              - **Quantidade de Aulas:** 47
+              - **Aulas**
+                - **Aula 01** - Typescript I Introdução
+                  - **Duração:** 8:08
+                - **Aula 02** - Typescript I Instalando e Usando o TypeScript
+                  - **Duração:** 14:40
+                - **Aula 03** - Typescript I Tipos Básicos
+                  - **Duração:** 17:07
+                - **Aula 04** - Typescript I Tipo Never
+                  - **Duração:** 02:48
+                - **Aula 05** - Typescript I Múltiplos tipos com Union Types
+                  - **Duração:** 03:28
+                - **Aula 06** - Typescript I Type Alias
+                  - **Duração:** 06:55
+                - **Aula 07** - Typescript I Valores Nulos ou Opcionais
+                  - **Duração:** 04:47
+                - **Aula 08** - Typescript I Type Assertion
+                  - **Duração:** 08:35
+                - **Aula 09** - Typescript I Interfaces
+                  - **Duração:** 04:11
+                - **Aula 10** - Typescript I Classes
+                  - **Duração:** 10:27
+                - **Aula 11** - Typescript I Configurando o Target do TypeScript
+                  - **Duração:** 05:36
+                - **Aula 12** - Typescript I Utilizando Modificadores de Acesso
+                  - **Duração:** 08:10
+                - **Aula 13** - Typescript I Herança
+                  - **Duração:** 06:12
+                - **Aula 14** - React I Introdução a ReactJS
+                  - **Duração:** 03:06
+                - **Aula 15** - React I Instalação
+                  - **Duração:** 16:43
+                - **Aula 16** - React I JSX
+                  - **Duração:** 14:13
+                - **Aula 17** - React I Componentes I
+                  - **Duração:** 22:59
+                - **Aula 18** - React I Componentes II
+                  - **Duração:** 15:24
+                - **Aula 19** - React I Componentes III
+                  - **Duração:** 17:14
+                - **Aula 20** - React I Componentes IV
+                  - **Duração:** 03:46
+                - **Aula 21** - React I Paginas em React: React Router
+                  - **Duração:** 25:55
+                - **Aula 22** - React I React Hooks I
+                  - **Duração:** 37:01
+                - **Aula 23** - React I React Hooks II
+                  - **Duração:** 10:03
+                - **Aula 24** - React I Formulários em React
+                  - **Duração:** 10:51
+                - **Aula 25** - React I Consumo de API
+                  - **Duração:** 28:40
+                - **Aula 26** - React I Styled Component
+                  - **Duração:** 29:08
+                - **Aula 27** - React I Introdução a Redux
+                  - **Duração:** 07:48
+                - **Aula 28** - React I Instalação Redux
+                  - **Duração:** 10:32
+                - **Aula 29** - React I Redux: Store e Actions
+                  - **Duração:** 30:23
+                - **Aula 30** -  Node.JS - Express 1 I Introdução a Express
+                  - **Duração:** 10:40
+                - **Aula 31** - Node.JS - Express 1 I MVC
+                  - **Duração:** 11:02
+                - **Aula 32** - Node.JS - Express 1 I Métodos HTTP
+                  - **Duração:** 07:17
+                - **Aula 33** - Node.JS - Express 1 I Rotas (parte 1)
+                  - **Duração:** 16:40
+                - **Aula 34** - Node.JS - Express 1 I Rotas (parte 2)
+                  - **Duração:** 13:47
+                - **Aula 35** - Node.JS - Express 1 I Controller
+                  - **Duração:** 10:30
+                - **Aula 36** - Node.JS - Express 1 I Nodemoon
+                  - **Duração:** 07:33
+                - **Aula 37** - Node.JS - Express 1 I ORM - Sequelize (parte 1)
+                  - **Duração:** 19:41
+                - **Aula 38** - Node.JS - Express 1 I ORM - Sequelize (parte 2)
+                  - **Duração:** 11:38
+                - **Aula 39** - Node.JS - Express 1 I Relacionamentos com Sequelize
+                  - **Duração:** 17:11
+                - **Aula 40** - Node.JS - Express 1 I Relações N pra N
+                  - **Duração:** 13:56
+                - **Aula 41** - Node.JS - Express 2 I REST API
+                  - **Duração:** 17:59
+                - **Aula 42** - Node.JS - Express 2 I Middlewares
+                  - **Duração:** 22:59
+                - **Aula 43** - Node.JS - Express 2 I Autenticação com JWT (parte 1)
+                  - **Duração:** 11:51
+                - **Aula 44** - Node.JS - Express 2 I Autenticação com JWT (parte 2)
+                  - **Duração:** 17:17
+                - **Aula 45** - Node.JS - Express 2 I Validação de Dados (parte 1)
+                  - **Duração:** 11:30
+                - **Aula 46** - Node.JS - Express 2 I Validação de Dados (parte 2)
+                  - **Duração:** 18:41
+                - **Aula 47** - Node.JS - Express 2 I Documentação de API
+                  - **Duração:** 08:02
 
 
 
