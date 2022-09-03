@@ -1,12 +1,219 @@
-<img src="images/dream-scape.png" />
-<center>
-  <h2>Hiring Coders #3</h2>
-</center>
+<img src="Source/Hiring%20Coders%20Cover.jpg" />
+
+<div align="center">
+  <h2>🔵🟠 Hiring Coders #3 🟠🔵</h2>
+</div>
 
 <p>
-  This repository was made to store and display the content studied at the <strong>Hiring Coders</strong> event at <strong>Gama Academy</strong> with <strong>VTEX</strong>, here will be, notes that I deemed necessary, codes and handouts (PDF) of the modules contained in the event.
+  O Hiring Coders é um programa de capacitação gratuito e sem pré-requisitos para te ensinar programação, digital commerce e como ter uma carreira à prova do futuro, o programa foi dividido em 4 níveis.<br />
+  Sendo eles:
 </p>
 
+  - **Hiring Coders #3 - Fase 01**
+    - **Número de Playlists:** 23
+    - **Número de Challenges:** 2
+    - **Seções**
+      - Aquecimento
+        - Playlists
+          - HTML
+            - **Carga Horária:** 1h
+            - **Professor(a):** Isidro Massetto
+            - **Descrição:** Aprenda a base para desenvolver qualquer site, marcando elementos e definindo quais informações deseja exibir na sua página.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 5
+            - **Aulas**
+              - **Aula 01** - Tags
+                - **Duração:** 11:33
+              - **Aula 02** - Ferramentas e Estrutura
+                - **Duração:** 08:18
+              - **Aula 03** - Lista e Tabelas
+                - **Duração:** 13:57
+              - **Aula 04** - Divisões I
+                - **Duração:** 14:07
+              - **Aula 04** - Divisões II
+                - **Duração:** 14:21
+          - CSS
+            - **Carga Horária:** 3h
+            - **Professor(a):** Kai Pimenta
+            - **Descrição:** Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 21
+            - **Aulas**
+              - **Aula 01** - Introdução
+                - **Duração:** 03:50
+              - **Aula 02** - O que é CSS e Importância
+                - **Duração:** 09:14
+              - **Aula 03** - Responsividade
+                - **Duração:** 04:04
+              - **Aula 04** - Mobile First
+                - **Duração:** 04:32
+              - **Aula 05** - Tipos de Estilo
+                - **Duração:** 07:22
+              - **Aula 06** - Classes, Tags e IDEs
+                - **Duração:** 07:21
+              - **Aula 07** - Propriedades
+                - **Duração:** 13:56
+              - **Aula 08** - Seletores
+                - **Duração:** 21:57
+              - **Aula 09** - Apresentação do Projeto
+                - **Duração:** 02:42
+              - **Aula 10** - Montando Nosso HTML
+                - **Duração:** 14:53
+              - **Aula 11** - Predefinições Iniciais
+                - **Duração:** 14:53
+              - **Aula 12** - Cores e Backgrounds
+                - **Duração:** 16:10
+              - **Aula 13** - Fontes
+                - **Duração:** 08:09
+              - **Aula 14** - Definir Width
+                - **Duração:** 07:37
+              - **Aula 15** - FlexBox
+                - **Duração:** 23:30
+              - **Aula 16** - Grid
+                - **Duração:** 18:01
+              - **Aula 17** - Bordas
+                - **Duração:** 11:09
+              - **Aula 18** - Hover
+                - **Duração:** 14:56
+              - **Aula 19** - Animações
+                - **Duração:** 16:41
+              - **Aula 20** - Ajustes e Responsividade
+                - **Duração:** 15:10
+              - **Aula 21** - Considerações Finais
+                - **Duração:** 01:59
+          - Estrutura de Dados
+            - **Carga Horária:** 1h
+            - **Professor(a):** Isidro Massetto
+            - **Descrição:** Domine os conceitos da estrutura de dados, buscando, indexando e retornando informações desejadas, criando assim algoritmos para resolução de tarefas programadas.
+            - **Dificuldade:** Médio
+            - **Quantidade de Aulas:** 8
+            - **Aulas**
+              - **Aula 01** - Introdução
+                - **Duração:** 03:49
+              - **Aula 02** - Pilhas I
+                - **Duração:** 09:54
+              - **Aula 03** - Pilhas II
+                - **Duração:** 13:29
+              - **Aula 04** - Filas e Listas
+                - **Duração:** 06:57
+              - **Aula 05** - Busca I
+                - **Duração:** 04:43
+              - **Aula 06** - Busca II
+                - **Duração:** 13:39
+              - **Aula 07** - Algoritmos de Ordenação I
+                - **Duração:** 09:47
+              - **Aula 08** - Algoritmos de Ordenação II
+                - **Duração:** 08:21
+          - Metodologias Ágeis
+            - **Carga Horária:** 1h
+            - **Professor(a):** Alexandre Uehara
+            - **Descrição:** As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.
+            - **Dificuldade:** Médio
+            - **Quantidade de Aulas:** 12
+            - **Aulas**
+              - **Aula 01** - Metodologias Ágeis
+                - **Duração:** 12:52
+              - **Aula 02** - Modelos Tradicionais X Times Ágeis
+                - **Duração:** 13:56
+              - **Aula 03** - Manifesto Ágil
+                - **Duração:** 16:05
+              - **Aula 04** - O que é o Scrum
+                - **Duração:** 06:39
+              - **Aula 05** - Papéis do Scrum
+                - **Duração:** 16:04
+              - **Aula 06** - Vantagens do Scrum
+                - **Duração:** 06:51
+              - **Aula 07** - Scrum: Rituais e Cerimônias
+                - **Duração:** 13:55
+              - **Aula 08** - Scrum: Artefatos
+                - **Duração:** 12:48
+              - **Aula 08** - Scrum na Prática I
+                - **Duração:** 13:58
+              - **Aula 08** - Scrum na Prática II
+                - **Duração:** 13:05
+              - **Aula 08** - Scrum Refinamento de Backlog
+                - **Duração:** 13:37
+          - Testes
+            - **Carga Horária:** 2h
+            - **Professor(a):** Danilo Aparecido
+            - **Descrição:** Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.
+            - **Dificuldade:** Avançado
+            - **Quantidade de Aulas:** 9
+            - **Aulas**
+              - **Aula 01** - O que é testar? Por que testar? Como Testar?
+                - **Duração:** 08:22
+              - **Aula 02** - Test Driven Development (TDD)
+                - **Duração:** 11:51
+              - **Aula 03** - Behavior Driven Development (BDD)
+                - **Duração:** 20:18
+              - **Aula 04** - Jasmine I
+                - **Duração:** 26:21
+              - **Aula 05** - Jasmine II
+                - **Duração:** 14:14
+              - **Aula 06** - Cucumber I
+                - **Duração:** 10:28
+              - **Aula 07** - Cucumber II
+                - **Duração:** 22:37
+              - **Aula 08** - Jest
+                - **Duração:** 09:34
+              - **Aula 09** - Cypress
+                - **Duração:** 16:50
+          - Boas Práticas
+            - **Carga Horária:** 55min
+            - **Professor(a):** Daniel Obara
+            - **Descrição:** Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.
+            - **Dificuldade:** Avançado
+            - **Quantidade de Aulas:** 8
+            - **Aulas**
+              - **Aula 01** - Introdução
+                - **Duração:** 03:47
+              - **Aula 02** - BEM (Block Element Modifier)
+                - **Duração:** 10:51
+              - **Aula 03** - Design System
+                - **Duração:** 07:18
+              - **Aula 04** - Storybook
+                - **Duração:** 04:09
+              - **Aula 05** - Micro FrontEnds
+                - **Duração:** 04:58
+              - **Aula 06** - MVC (Model, View e Controller)
+                - **Duração:** 04:22
+              - **Aula 07** - MVVM (Model, View e ViewModel)
+                - **Duração:** 04:51
+              - **Aula 08** - Design Patterns: Singleton, Strategy e Adaptar
+                - **Duração:** 15:21
+          - Soft Skill
+            - **Carga Horária:** 2h
+            - **Professor(a):** Amanda Nideck
+            - **Descrição:** -
+            - **Dificuldade:** Básico
+            - **Quantidade de Aulas:** 7
+            - **Aulas**
+              - **Aula 01** - Coachability
+                - **Duração:** 17:58
+              - **Aula 02** - Inteligência Emocional - Parte 01
+                - **Duração:** 18:46
+              - **Aula 03** - Inteligência Emocional - Parte 02
+                - **Duração:** 17:58
+              - **Aula 04** - Resiliência (Disciplina, Execução e Antifragilidade)
+                - **Duração:** 18:46
+              - **Aula 05** - Foco em Resultados
+                - **Duração:** 19:27
+              - **Aula 06** - Gestão do Tempo e Produtividade
+                - **Duração:** 24:16
+              - **Aula 07** - Criatividade
+                - **Duração:** 11:25
+      - Semana 01
+      - Semana 02
+      - Semana 03
+      - Semana 04
+      - Semana 05
+      - Semana 06
+      - Semana 07 | **(Bônus)**
+      - Aulas Reforço | **(Bônus)**
+
+
+
+<!-- 
 ### Summary
 
 - <a href="/level-01">Level 1</a>
@@ -42,4 +249,4 @@
   - <a href="./level-01/week-07">Week 07</a>
     - <a href="./level-01/week-07/module-22-next-js">Module 22 - NextJS</a>
 - <a href="/docs">Documents</a>
-  - <a href="/docs/hc-docs.pdf">Hiring Coders #3 - Survival Manual</a>
+  - <a href="/docs/hc-docs.pdf">Hiring Coders #3 - Survival Manual</a> -->
