@@ -16,7 +16,7 @@
 <div>
   <h3>🟠 Fases / Níveis</h3>
   <p>O Hiring Coders #3 foi dividido em 4 Etapas/Fases, a Primeira Fase foi focada em conhecimentos técnicos e um pouco de Soft Skills.</p>
-  <table align="left" width="50%">
+  <table align="left" width="40%">
   <tr>
     <th>📚 Fase 01</th>
   </tr>
