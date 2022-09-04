@@ -336,6 +336,33 @@
         </table><br />
       </details>
     </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 07 (Bônus)</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>NextJS</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Marianne Salomão</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Apresentação e Introdução<br />Aula 02 - Fundamentos I<br />Aula 03 - Fundamentos II<br />Aula 04 - Componentes I<br />Aula 05 - Componentes II<br />Aula 06 - SSR<br />Aula 07 - Rotas e Funções I<br />Aula 08 - Rotas e Funções II<br />Aula 09 - Rotas e Funções III</td>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>GatsbyJS</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>48min</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Marianne Salomão</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>6</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Fundamentos de GatsbyJS<br />Aula 02 - SSG<br />Aula 03 - Roteamento I<br />Aula 04 - Roteamento II<br />Aula 05 - Componentes e Funções I<br />Aula 06 - Componentes e Funções II</td>
+        </table><br />
+      </details>
+    </ul>
   </div>
   <hr />
 </details>
