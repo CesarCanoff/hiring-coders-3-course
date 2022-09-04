@@ -381,7 +381,6 @@
   <hr />
 </details>
 
-<!-- Informações do Autor. -->
 <details>
   <summary>🟠 Autor</summary>
   <div align="center">
@@ -1177,7 +1176,21 @@
 
     </details>
   </ul>
+<hr />
 </details>
+
+<br />
+<div>
+  <h3>🟠 Palavras-chave</h3>
+  <p align="center">
+    <b>
+    Lean Mindset, Digital Skills, Problem Solving, Front-End, Back-End, Metodologia Ágil,
+    GIT, HTML, CSS, Dados, Javascript, React, NodeJS, Testes, Lógica de Programação,
+    Digital Commerce, Soft Skills, Boas Práticas, VTEX IO, Typescript, Estrutura de dados,
+    GatsbyJS, NextJS, Fast Store, Devops, AWS e Projetos de ecommerce.
+    </b>
+  </p>
+</div>
 
 <div align="center">
 
