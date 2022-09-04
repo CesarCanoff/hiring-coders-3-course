@@ -2,24 +2,20 @@
 <img width="150px" src="Source/image%201.png" />
 </div>
 
-
 <div align="center">
   <h2>Hiring Coders #3</h2>
 </div>
 
-<br />
-
 <div>
-  <h2>🟠 O que é o Hiring Coders?</h2>
+  <h3>🟠 O que é o Hiring Coders?</h3>
   <p>
     O <b>Hiring Coders</b> é um Programa de Capacitação/Bootcamp gratuito e sem pré-requisitos para te ensinar <b>Programação</b>, <b>Digital Commerce</b> e como ter uma carreira à prova do futuro, o programa foi criado pela <b>VTEX</b> e acelerado pela <b>Gama Academy</b> foi dividido em 4 níveis.
   </p>
 </div>
 
 <div>
-  <h2>🟠 Fases / Níveis</h2>
+  <h3>🟠 Fases / Níveis</h3>
   <p>O Hiring Coders #3 foi dividido em 4 Etapas/Fases, a Primeira Fase foi focada em conhecimentos técnicos e um pouco de Soft Skills.</p>
-
   <table align="left" width="50%">
   <tr>
     <th>📚 Fase 01</th>
@@ -85,135 +81,31 @@
     <td>Data</td>
     <td>14/06/2022 - 04/07/2022</td>
   </tr>
-</table> 
-
-
-
+</table>
 </div>
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Listagem de Tecnologias presentes no programa. -->
-<details>
-<summary>🔵 Tecnologias Contidas</summary>
-
-<div align="center">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor" alt="Icon HTML5" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor" alt="Icon CSS3" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" alt="Icon Javascript" />
-  <img src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor" alt="Icon Git" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Icon ReactJS" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Icon GraphQL" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Icon NodeJS" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Icon Typescript" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Icon Gatsby" />
-  <img width="30" src="https://icongr.am/devicon/express-original.svg?size=30&color=ffffff" alt="Icon Express" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Icon NPM" />
-  <img width="30" src="https://icongr.am/devicon/docker-original.svg?size=24&color=currentColor" alt="Icon Docker" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Icon MongoDB" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Icon Redux" />
-</div>
-
-  <ul>
-    <li>
-      <span>HTML5<span>
-      <img src="https://icongr.am/devicon/html5-original.svg?size=15&color=currentColor" alt="Badge HTML5" />
-    </li>
-    <li>
-      <span>CSS3<span>
-      <img src="https://icongr.am/devicon/css3-original.svg?size=15&color=currentColor" alt="Badge CSS3" />
-    </li>
-    <li>
-      <span>Javascript<span>
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=15&color=currentColor" alt="Badge Javascript" />
-    </li>
-    <li>
-      <span>Git<span>
-      <img src="https://icongr.am/devicon/git-original.svg?size=15&color=currentColor" alt="Badge Git" />
-    </li>
-    <li>
-      <span>ReactJS<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Badge ReactJS" />
-    </li>
-    <li>
-      <span>GraphQL<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Badge GraphQL" />
-    </li>
-    <li>
-      <span>NodeJS<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Badge NodeJS" />
-    </li>
-    <li>
-      <span>Typescript<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Badge Typescript" />
-    </li>
-    <li>
-      <span>NextJS<span>
-       <i style="font-size:15px;" class="devicon-nextjs-plain"></i>
-    </li>
-    <li>
-      <span>Gatsby<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Badge Gatsby" />
-    </li>
-    <li>
-      <span>Express<span>
-      <img width="15" src="https://icongr.am/devicon/express-original.svg?size=15&color=ffffff" alt="Badge Express" />
-    </li>
-    <li>
-      <span>NPM<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Badge ReactJS" />
-    </li>
-    <li>
-      <span>Docker<span>
-      <img width="15" src="https://icongr.am/devicon/docker-original.svg?size=24&color=currentColor" alt="Badge Docker" />
-    </li>
-    <li>
-      <span>MongoDB<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Badge MongoDB" />
-    </li>
-    <li>
-      <span>Redux<span>
-      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Badge Redux" />
-    </li>
-  </ul>
-</details>
+<div>
+  <h3>🟠 Tecnologias Utilizadas</h3>
+  <img src="https://img.shields.io/badge/git-031A2F.svg?style=for-the-badge&logo=git&logoColor=%23F05033" />
+  <img width="100px" src="https://img.shields.io/badge/html5-031A2F.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+  <img width="100px" src="https://img.shields.io/badge/css3-031A2F.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+  <img width="100px" src="https://img.shields.io/badge/javascript-031A2F.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img width="100px" src="https://img.shields.io/badge/typescript-031A2F.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
+  <img width="100px" src="https://img.shields.io/badge/react-031A2F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img width="100px" src="https://img.shields.io/badge/-GraphQL-031A2F?style=for-the-badge&logo=graphql&logoColor=E10098" />
+  <img width="100px" src="https://img.shields.io/badge/node.js-031A2F?style=for-the-badge&logo=node.js&logoColor=00DC82" />
+  <img width="100px" src="https://img.shields.io/badge/Gatsby-031A2F.svg?style=for-the-badge&logo=gatsby&logoColor=%23663399" alt="Icon Gatsby" />
+  <img width="100px" src="https://img.shields.io/badge/express.js-031A2F.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Icon Express" />
+  <img width="100px" src="https://img.shields.io/badge/NPM-031A2F.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Icon NPM" />
+  <img width="100px" src="https://img.shields.io/badge/docker-031A2F.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="Icon Docker" />
+  <img width="100px" src="https://img.shields.io/badge/MongoDB-031A2F.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b" alt="Icon MongoDB" />
+  <img width="100px" src="https://img.shields.io/badge/redux-031A2F.svg?style=for-the-badge&logo=redux&logoColor=%23593d88" alt="Icon Redux" />
+</div>      
+     
+      
+      
 
 <!-- Visão de Todos os Aspectos do Evento. -->
 <details>
