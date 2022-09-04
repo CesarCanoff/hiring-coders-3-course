@@ -309,6 +309,33 @@
         </table><br />
       </details>
     </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 06</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Node.JS - Criando uma REST API</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>5hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>25</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Introdução a REST API<br />Aula 02 - O que é REST API<br />Aula 03 - Recursos: Coleção, Elemento e Sub-elemento<br />Aula 04 - Endpoints<br />Aula 05 - Métodos REST<br />Aula 06 - Versionamento de API<br />Aula 07 - Status Codes<br />Aula 08 - Documentação de Referência REST API<br />Aula 09 - O que é DX?<br />Aula 10 - O que é uma Documentação de API<br />Aula 11 - Utilizando o Swagger - Parte 1<br />Aula 12 - Utilizando o Swagger - Parte 2<br />Aula 13 - Documentação de Referência do Swagger<br />Aula 14 - O que é o Express<br />Aula 15 - Conhecendo o Postman<br />Aula 16 - Prática de Express - Parte 01<br />Aula 17 - Prática de Express - Parte 02<br />Aula 18 - Prática de Express - Parte 03<br />Aula 18 - Prática de Express - Parte 03<br />Aula 20 - Documentação de Referência do Express<br />Aula 21 - Segurança: Acesso não autorizado<br />Aula 22 - Segurança: Ataques de Integridade<br />Aula 23 - Segurança: Sobrecarga<br />Aula 24 - Segurança: Confiabilidade<br />Aula 25 - Segurança: Implementações Equivocadas</td>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Consumo de API Terceiras</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>3hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>13</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Introdução Consumo de API Terceiras<br />Aula 02 - A Importância da Integração com Terceiros<br />Aula 03 - Como se Prepare para Integrar<br />Aula 04 - O que é o Node-Fetch<br />Aula 05 - Prática de Integração com Node-Fetch - Parte 01<br />Aula 06 - Prática de Integração com Node-Fetch - Parte 02<br />Aula 07 - Prática de Integração com Node-Fetch - Parte 03<br />Aula 08 - Prática de Integração com Node-Fetch - Parte 04<br />Aula 09 - O que é o Axios?<br />Aula 10 - Prática de Integração com Axios - Parte 01<br />Aula 11 - Prática de Integração com Axios - Parte 02<br />Aula 12 - Prática de Integração com Axios - Parte 03<br />Aula 13 - Finalização</td>
+        </table><br />
+      </details>
+    </ul>
   </div>
   <hr />
 </details>
