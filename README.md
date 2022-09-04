@@ -89,20 +89,20 @@
 <h3>🟠 Tecnologias Utilizadas</h3>
 <br />
 <div align="center" width="10%">
-  <a target="_blank" href="https://git-scm.com/"><img width="55px" src="./Source/Icons/Git%20Icon.png" alt="Ícone do Git" /></a>
-  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width="55px" src="./Source/Icons/HTML%20Icon.png" alt="Ícone do HTML" /></a>
-  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width="55px" src="./Source/Icons/CSS%20Icon.png" alt="Ícone do CSS" /></a>
-  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="55px" src="./Source/Icons/Javascript%20Icon.png" alt="Ícone do Javascript" /></a>
-  <a target="_blank" href="https://www.typescriptlang.org/"><img width="55px" src="./Source/Icons/Typescript%20Icon.png" alt="Ícone do Typescript" /></a>
-  <a target="_blank" href="https://pt-br.reactjs.org/"><img width="55px" src="./Source/Icons/ReactJS%20Icon.png" alt="Ícone do ReactJS" /></a>
-  <a target="_blank" href="https://graphql.org/learn/"><img width="55px" src="./Source/Icons/GraphQL%20Icon.png" alt="Ícone do GraphQL" /></a>
-  <a target="_blank" href="https://nodejs.org/en/"><img width="55px" src="./Source/Icons/NodeJS%20Icon.png" alt="Ícone do NodeJS" /></a>
-  <a target="_blank" href="https://www.gatsbyjs.com/"><img width="55px" src="./Source/Icons/GatsbyJS%20Icon.png" alt="Ícone do GatsbyJS" /></a>
-  <a target="_blank" href="https://expressjs.com/pt-br/"><img width="55px" src="./Source/Icons/Express%20Icon.png" alt="Ícone do ExpressJS" /></a>
-  <a target="_blank" href="https://www.npmjs.com/"><img width="55px" src="./Source/Icons/NPM%20Icon.png" alt="Ícone do NPM" /></a>
-  <a target="_blank" href="https://www.docker.com/"><img width="55px" src="./Source/Icons/Docker%20Icon.png" alt="Ícone do Docker" /></a>
-  <a target="_blank" href="https://www.mongodb.com/pt-br"><img width="55px" src="./Source/Icons/MongoDB%20Icon.png" alt="Ícone do MongoDB" /></a>
-  <a target="_blank" href="https://redux.js.org/"><img width="55px" src="./Source/Icons/Redux%20Icon.png" alt="Ícone do Redux" /></a>
+  <a title="Git" target="_blank" href="https://git-scm.com/"><img width="55px" src="./Source/Icons/Git%20Icon.png" alt="Ícone do Git" /></a>
+  <a title="HTML5" target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width="55px" src="./Source/Icons/HTML%20Icon.png" alt="Ícone do HTML" /></a>
+  <a title="CSS3" target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width="55px" src="./Source/Icons/CSS%20Icon.png" alt="Ícone do CSS" /></a>
+  <a title="Javascript" target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="55px" src="./Source/Icons/Javascript%20Icon.png" alt="Ícone do Javascript" /></a>
+  <a title="Typescript" target="_blank" href="https://www.typescriptlang.org/"><img width="55px" src="./Source/Icons/Typescript%20Icon.png" alt="Ícone do Typescript" /></a>
+  <a title="ReactJS" target="_blank" href="https://pt-br.reactjs.org/"><img width="55px" src="./Source/Icons/ReactJS%20Icon.png" alt="Ícone do ReactJS" /></a>
+  <a title="GraphQL" target="_blank" href="https://graphql.org/learn/"><img width="55px" src="./Source/Icons/GraphQL%20Icon.png" alt="Ícone do GraphQL" /></a>
+  <a title="NodeJS" target="_blank" href="https://nodejs.org/en/"><img width="55px" src="./Source/Icons/NodeJS%20Icon.png" alt="Ícone do NodeJS" /></a>
+  <a title="GatsbyJS" target="_blank" href="https://www.gatsbyjs.com/"><img width="55px" src="./Source/Icons/GatsbyJS%20Icon.png" alt="Ícone do GatsbyJS" /></a>
+  <a title="ExpressJS" target="_blank" href="https://expressjs.com/pt-br/"><img width="55px" src="./Source/Icons/Express%20Icon.png" alt="Ícone do ExpressJS" /></a>
+  <a title="NPM" target="_blank" href="https://www.npmjs.com/"><img width="55px" src="./Source/Icons/NPM%20Icon.png" alt="Ícone do NPM" /></a>
+  <a title="Docker" target="_blank" href="https://www.docker.com/"><img width="55px" src="./Source/Icons/Docker%20Icon.png" alt="Ícone do Docker" /></a>
+  <a title="MongoDB" target="_blank" href="https://www.mongodb.com/pt-br"><img width="55px" src="./Source/Icons/MongoDB%20Icon.png" alt="Ícone do MongoDB" /></a>
+  <a title="Redux" target="_blank" href="https://redux.js.org/"><img width="55px" src="./Source/Icons/Redux%20Icon.png" alt="Ícone do Redux" /></a>
 </div>      
 <br />
      
