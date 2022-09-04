@@ -935,8 +935,8 @@
 <br />
 <br />
 <br />
-<center>
+<div align="center">
 
 > Desenvolvido com ❤️ por [César Canoff](https://github.com/cesarcanoff)
 
-</center>
+</div>
