@@ -896,12 +896,12 @@
 <details>
   <summary>📝 Licença</summary>
 
-  <center>
+  <div align="center">
 
   <br /> Esse projeto é licenciado pela MIT License. <br />
   Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) mais detalhes.
   
-  </center>
+  </div>
 
 </details>
 
@@ -909,7 +909,7 @@
 <details>
   <summary>✒️ Autor</summary>
 
-  <center>
+  <div align="center">
 
   <br />
   <a href="https://github.com/cesarcanoff">
@@ -926,7 +926,7 @@
   
   <br />
 
-  </center>
+  </div>
 
 </details>
 
