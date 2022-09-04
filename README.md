@@ -448,7 +448,7 @@
               - *Duração:* 13:57
             - *Aula 04* - Divisões I
               - *Duração:* 14:07
-            - *Aula 04* - Divisões II
+            - *Aula 05* - Divisões II
               - *Duração:* 14:21
         - CSS
           - *⌛ Carga Horária:* 3hrs
@@ -545,11 +545,11 @@
               - *Duração:* 13:55
             - *Aula 08* - Scrum: Artefatos
               - *Duração:* 12:48
-            - *Aula 08* - Scrum na Prática I
+            - *Aula 09* - Scrum na Prática I
               - *Duração:* 13:58
-            - *Aula 08* - Scrum na Prática II
+            - *Aula 10* - Scrum na Prática II
               - *Duração:* 13:05
-            - *Aula 08* - Scrum Refinamento de Backlog
+            - *Aula 11* - Scrum Refinamento de Backlog
               - *Duração:* 13:37
         - Testes
           - *⌛ Carga Horária:* 2hrs
@@ -730,7 +730,7 @@
               - *Duração:* 20:56
             - *Aula 05* - Orientação de Objetos (Parte 01)
               - *Duração:* 12:33
-            - *Aula 05* - Orientação de Objetos (Parte 02)
+            - *Aula 06* - Orientação de Objetos (Parte 02)
               - *Duração:* 24:06
     - 🟥 Semana 03
       - 🟪 Playlists
@@ -931,7 +931,7 @@
               - *Duração:* 45:54
             - *Aula 22* - Listando Notificações e Marcando como Lidas
               - *Duração:* 30:37
-            - *Aula 22* - Final do Módulo
+            - *Aula 23* - Final do Módulo
               - *Duração:* 01:29
     - 🟥 Semana 06
       - 🟪 Playlists
