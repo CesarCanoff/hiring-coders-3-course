@@ -12,15 +12,15 @@
     <th>📚 Fase 01</th>
   </tr>
   <tr>
-    <td>Número de Módulos</td>
+    <td>🔢 Número de Módulos</td>
     <td>23</td>
   </tr>
   <tr>
-    <td>Número de Assessment</td>
+    <td>🔢 Número de Assessment</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>Número de Challenges</td>
+    <td>🔢 Número de Challenges</td>
     <td>2</td>
   </tr>
   <tr>
@@ -28,15 +28,11 @@
     <td>Nível Médio</td>
   </tr>
   <tr>
-    <td>Módulos</td>
-    <td><a href="#modules">Lista de Módulos</a></td>
-  </tr>
-  <tr>
     <td>⌛ Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
-    <td>Data</td>
+    <td>📅 Data</td>
     <td>23/04/2022 - 13/06/2022</td>
   </tr>
 </table> 
@@ -45,15 +41,15 @@
     <th>📚 Fase 02</th>
   </tr>
   <tr>
-    <td>Número de Módulos</td>
+    <td>🔢 Número de Módulos</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>Número de Assessment</td>
+    <td>🔢 Número de Assessment</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>Número de Challenges</td>
+    <td>🔢 Número de Challenges</td>
     <td>0</td>
   </tr>
   <tr>
@@ -61,32 +57,15 @@
     <td>Nível Médio</td>
   </tr>
   <tr>
-    <td>Módulos</td>
-    <td><a href="#modules">Lista de Módulos</a></td>
-  </tr>
-  <tr>
     <td>⌛ Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
-    <td>Data</td>
+    <td>📅 Data</td>
     <td>14/06/2022 - 04/07/2022</td>
   </tr>
 </table>
-</div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hr />
+</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><hr />
 </details>
 
 <details>
