@@ -50,11 +50,9 @@
 </table>
 </details>
 
-<hr />
-
 <details>
 <summary>🛠️ Tecnologias Contidas</summary>
-<hr />
+
   <ul>
     <li>
       <span>HTML5<span>
@@ -119,11 +117,11 @@
   </ul>
 </details>
 
-<hr />
+
 
 <details>
 <summary>🟠 Visão Geral do Programa</summary>
-<hr />
+
   <ul>
     <details>
     <summary>🔵 Hiring Coders #3 - Fase 01</summary>
@@ -880,7 +878,7 @@
   </ul>
 </details>
 
-<hr />
+
 
 <details>
   <summary>🟠 Clone o Projeto</summary>
@@ -891,7 +889,7 @@
   ```
 </details>
 
-<hr />
+
 
 <details>
   <summary>📝 Licença</summary>
@@ -905,7 +903,7 @@
 
 </details>
 
-<hr />
+
 <details>
   <summary>✒️ Autor</summary>
 
@@ -930,7 +928,7 @@
 
 </details>
 
-<hr />
+
 
 <br />
 <br />
