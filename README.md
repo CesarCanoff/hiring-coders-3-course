@@ -86,8 +86,8 @@
 <br />
 <br />
 <br />
-</details>
 <hr />
+</details>
 
 <details>
   <summary>🟠 Módulos</summary>
@@ -105,7 +105,7 @@
           <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
           <tr><td><b>Aulas</b></td>
-          <td>Aula 01 - Tags<br />Aula 02 - Ferramentas e Estrutura<br />Aula 03 - Lista e Tabelas<br />Aula 04 - Divisões I<br />Aula 05 - Divisões II<br /></td>
+          <td>Aula 01 - Tags<br />Aula 02 - Ferramentas e Estrutura<br />Aula 03 - Lista e Tabelas<br />Aula 04 - Divisões I<br />Aula 05 - Divisões II</td>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>CSS</td></tr>
@@ -115,7 +115,7 @@
           <tr><td><b>Dificuldade</b></td><td>Básico</td>
           <tr><td><b>Número de Aulas</b></td><td>21</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - O que é CSS e Importância<br />Aula 03 - Responsividade <br />Aula 04 - Mobile First<br />Aula 05 - Tipos de Estilo<br />Aula 06 -      Classes, Tags e IDEs <br />Aula 07 - Propriedades<br />Aula 08 - Seletores<br />Aula 09 - Apresentação do Projeto<br />Aula 10 - Montando Nosso HTML<br />Aula 11 - Predefinições Iniciais<br />Aula 12 - Cores e Backgrounds<br />Aula 13 - Fontes<br />Aula 14 - Definir Width<br />Aula 15 - FlexBox<br />Aula 16 - Grid<br />Aula 17 - Bordas<br />Aula 18 - Hover<br />Aula 20 - Ajustes e Responsividade<br />Aula 21 - Considerações Finais<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - O que é CSS e Importância<br />Aula 03 - Responsividade <br />Aula 04 - Mobile First<br />Aula 05 - Tipos de Estilo<br />Aula 06 -      Classes, Tags e IDEs <br />Aula 07 - Propriedades<br />Aula 08 - Seletores<br />Aula 09 - Apresentação do Projeto<br />Aula 10 - Montando Nosso HTML<br />Aula 11 - Predefinições Iniciais<br />Aula 12 - Cores e Backgrounds<br />Aula 13 - Fontes<br />Aula 14 - Definir Width<br />Aula 15 - FlexBox<br />Aula 16 - Grid<br />Aula 17 - Bordas<br />Aula 18 - Hover<br />Aula 20 - Ajustes e Responsividade<br />Aula 21 - Considerações Finais</td></tr>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Estrutura de Dados</td></tr>
@@ -125,7 +125,7 @@
           <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - Pilhas I<br />Aula 03 - Pilhas II<br />Aula 04 - Filas e Listas<br />Aula 05 - Busca I<br />Aula 06 - Busca II<br />Aula 07 - Algoritmos de Ordenação I<br />Aula 08 - Algoritmos de Ordenação II<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - Pilhas I<br />Aula 03 - Pilhas II<br />Aula 04 - Filas e Listas<br />Aula 05 - Busca I<br />Aula 06 - Busca II<br />Aula 07 - Algoritmos de Ordenação I<br />Aula 08 - Algoritmos de Ordenação II</td></tr>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Metodologias Ágeis</td></tr>
@@ -135,7 +135,7 @@
           <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>12</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban</td></tr>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Testes</td></tr>
@@ -145,7 +145,7 @@
           <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress</td></tr>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Boas Práticas</td></tr>
@@ -155,7 +155,7 @@
           <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar</td></tr>
         </table>
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Soft Skill</td></tr>
@@ -165,7 +165,7 @@
           <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade</td></tr>
         </table><br />
       </details>
     </ul>
@@ -181,7 +181,7 @@
           <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
           <tr><td><b>Aulas</b></td>
-          <td>Aula 01 - O que é Programação<br />Aula 02 - Dados do Mercado<br />Aula 03 - Como é a Carreira de Desenvolvimento<br />Aula 04 - Linguagens, Frameworks e Bibliotecas<br />Aula 05 - Editores de Texto<br /></td>
+          <td>Aula 01 - O que é Programação<br />Aula 02 - Dados do Mercado<br />Aula 03 - Como é a Carreira de Desenvolvimento<br />Aula 04 - Linguagens, Frameworks e Bibliotecas<br />Aula 05 - Editores de Texto</td>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Lógica de Programação</td></tr>
@@ -191,7 +191,7 @@
           <tr><td><b>Dificuldade</b></td><td>Básico</td>
           <tr><td><b>Número de Aulas</b></td><td>4</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Algoritmos<br />Aula 02 - Variáveis e Operações<br />Aula 03 - Decisões<br />ula 04 - Repetições<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Algoritmos<br />Aula 02 - Variáveis e Operações<br />Aula 03 - Decisões<br />Aula 04 - Repetições</td></tr>
         </table><br />
         <table width="100%" border="1">
           <tr><td><b>Nome do Módulo</b></td><td>Git</td></tr>
@@ -203,45 +203,41 @@
           <tr><td><b>Status</b></td><td>✅</td></tr>
           <tr><td><b>Aulas</b></td><td>Aula 01 - Apresentação e Introdução ao Tema<br />Aula 02 - Instalação e Comandos Básicos<br />Aula 03 - GitHub e Repositório Remoto<br />Aula 04 - Branch e Merge<br />Aula 05 - Fork, Pull Request e GitHub Pages</td></tr>
         </table><br />
+      </details>
+    </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 02</summary>
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Metodologias Ágeis</td></tr>
+          <tr><td><b>Nome do Módulo</b></td><td>Javascript Básico</td></tr>
           <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Alexandre Uehara</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda   metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>12</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban<br /></td></tr>
-        </table><br />
-        <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Testes</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Danilo Aparecido</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress<br /></td></tr>
-        </table><br />
-        <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Boas Práticas</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>55min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Daniel Obara</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>JC Bombardelli</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar<br /></td></tr>
-        </table>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Introdução ao Javascript<br />Aula 02 - Números e Operadores<br />Aula 03 - Boas Práticas em Javascript<br />Aula 04 - Condicionais<br />Aula 05 - Estrutura de Repetição: For<br />Aula 06 - Estrutura de Repetição: While<br />Aula 07 - Funções<br />Aula 08 - Classes</td>
+        </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Soft Skill</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Amanda Nideck</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Nome do Módulo</b></td><td>Javascript Básico - Prática</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>42min</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>JC Bombardelli</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td>
+          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade<br /></td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Desafio: Validador de CPF I <br />Aula 02 - Desafio: Validador de CPF II<br />Aula 03 - Desafio: Validador de CPF III<br />Aula 04 - Desafio: Validador de CPF IV<br />Aula 05 - Desafio: Validador de CPF V</td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao Typescript</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Gabriel Ramos</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>6</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - Tipos Básicos (Parte 01)<br />Aula 03 - Tipos Básicos (Parte 02)<br />Aula 04 - Múltiplos Tipos com Union Types<br />Aula 05 - Orientação de Objetos (Parte 01)<br />Aula 05 - Orientação de Objetos (Parte 02)</td></tr>
         </table><br />
       </details>
     </ul>
