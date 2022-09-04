@@ -277,6 +277,38 @@
         </table><br />
       </details>
     </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 04</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao NodeJS</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>5hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>18</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Introdução Fundamentos de NodeJS<br />Aula 02 - Definição de Back-End e Front-End<br />Aula 03 - Definição de NodeJS<br />Aula 04 - Benchmark NodeJS<br />Aula 05 - Instalação do NodeJS<br />Aula 06 - Prática "Hello World" em NodeJS<br />Aula 07 - Documentação de Apoio Sobre NodeJS<br />Aula 08 - O Problema de Gerenciamento de Pacotes<br />Aula 09 - Como Funciona o NPM<br />Aula 10 - Prática de NPM<br />Aula 11 - Documentação de Apoio Sobre NPM<br />Aula 12 - Definição de Javascript<br />Aula 13 - Pratica de Desenvolvimento em Javascript<br />Aula 14 - Documentações de Apoio Sobre Javascript<br />Aula 15 - Definição de Typescript<br />Aula 16 - Pratica de Desenvolvimento em Typescript<br />Aula 17 - Documentação de Apoio Sobre Typescript<br />Aula 18 - Finalização</td>
+        </table><br />
+      </details>
+    </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 05</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>NodeJS - HTTP GET e HTTP POST</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>8hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Douglas Morais</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>23</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Introdução, Entendendo os Conceitos de REST e SOAP<br />Aula 02 - Configurando o Nodemon<br />Aula 03 - Configurando o Docker<br />Aula 04 - Configurando ElephantSQL e PostBird<br />Aula 05 - ORM<br />Aula 06 - Migration Usuários<br />Aula 07 - Model Usuários<br />Aula 08 - Controller Usuários<br />Aula 09 - Hash de Senhas Usuários<br />Aula 10 - Autenticação JWT<br />Aula 11 - Token JWT via Header<br />Aula 12 - Atualizando Usuários<br />Aula 13 - Validação de Dados<br />Aula 14 - Adicionando Foto do usuário<br />Aula 15 - Vinculando Fotos ao Usuário<br />Aula 16 - Listagem de Prestadores de Serviços<br />Aula 17 - Models de Agendamento<br />Aula 18 - Criando Agendamentos<br />Aula 19 - Validações e Listagem de Agenda do Colaborador<br />Aula 20 - Paginação e Listagem de Agenda do Colaborador<br />Aula 21 - Configurando o MongoDB e Configurando as Notificações<br />Aula 22 - Listando Notificações e Marcando como Lidas<br />Aula 23 - Final do Módulo</td>
+        </table><br />
+      </details>
+    </ul>
   </div>
   <hr />
 </details>
