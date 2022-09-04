@@ -4,7 +4,7 @@
 <div><h3>🟠 O que é o Hiring Coders?</h3><p>O <b>Hiring Coders</b> é um Programa de Capacitação/Bootcamp gratuito e sem pré-requisitos para te ensinar <b>Programação</b>, <b>Digital Commerce</b> e como ter uma carreira à prova do futuro, o programa foi criado pela <b>VTEX</b> e acelerado pela <b>Gama Academy</b> foi dividido em 4 níveis.</p></div>
 
 <details>
-<summary>🟠 Fases / Níveis</summary>
+<summary>🟠 Fases</summary>
 <div>
   <p>O Hiring Coders #3 foi dividido em 4 Etapas/Fases, a Primeira Fase foi focada em conhecimentos técnicos e um pouco de Soft Skills.</p>
   <table align="left">
@@ -24,7 +24,7 @@
     <td>2</td>
   </tr>
   <tr>
-    <td>Dificuldade</td>
+    <td>🎯 Dificuldade</td>
     <td>Nível Médio</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
     <td><a href="#modules">Lista de Módulos</a></td>
   </tr>
   <tr>
-    <td>Carga Horária</td>
+    <td>⌛ Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@
     <td>0</td>
   </tr>
   <tr>
-    <td>Dificuldade</td>
+    <td>🎯 Dificuldade</td>
     <td>Nível Médio</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
     <td><a href="#modules">Lista de Módulos</a></td>
   </tr>
   <tr>
-    <td>Carga Horária</td>
+    <td>⌛ Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
@@ -95,286 +95,286 @@
     <p>O Hiring Coders #3 foi dividido em Módulos, por cada seção das semanas.</p>
     <ul>
       <details>
-        <summary>📙 Aquecimento</summary>
+        <summary>📘 Aquecimento</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>HTML</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Aprenda a base para desenvolver qualquer site, marcando elementos e definindo quais informações deseja exibir na sua página.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>HTML</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Aprenda a base para desenvolver qualquer site, marcando elementos e definindo quais informações deseja exibir na sua página.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Tags<br />Aula 02 - Ferramentas e Estrutura<br />Aula 03 - Lista e Tabelas<br />Aula 04 - Divisões I<br />Aula 05 - Divisões II</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>CSS</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>3h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Kai Pimenta</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td>
-          <tr><td><b>Número de Aulas</b></td><td>21</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - O que é CSS e Importância<br />Aula 03 - Responsividade <br />Aula 04 - Mobile First<br />Aula 05 - Tipos de Estilo<br />Aula 06 -      Classes, Tags e IDEs <br />Aula 07 - Propriedades<br />Aula 08 - Seletores<br />Aula 09 - Apresentação do Projeto<br />Aula 10 - Montando Nosso HTML<br />Aula 11 - Predefinições Iniciais<br />Aula 12 - Cores e Backgrounds<br />Aula 13 - Fontes<br />Aula 14 - Definir Width<br />Aula 15 - FlexBox<br />Aula 16 - Grid<br />Aula 17 - Bordas<br />Aula 18 - Hover<br />Aula 20 - Ajustes e Responsividade<br />Aula 21 - Considerações Finais</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>CSS</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>3h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Kai Pimenta</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>21</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - O que é CSS e Importância<br />Aula 03 - Responsividade <br />Aula 04 - Mobile First<br />Aula 05 - Tipos de Estilo<br />Aula 06 -      Classes, Tags e IDEs <br />Aula 07 - Propriedades<br />Aula 08 - Seletores<br />Aula 09 - Apresentação do Projeto<br />Aula 10 - Montando Nosso HTML<br />Aula 11 - Predefinições Iniciais<br />Aula 12 - Cores e Backgrounds<br />Aula 13 - Fontes<br />Aula 14 - Definir Width<br />Aula 15 - FlexBox<br />Aula 16 - Grid<br />Aula 17 - Bordas<br />Aula 18 - Hover<br />Aula 20 - Ajustes e Responsividade<br />Aula 21 - Considerações Finais</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Estrutura de Dados</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Domine os conceitos da estrutura de dados, buscando, indexando e retornando informações desejadas, criando assim algoritmos para resolução de tarefas programadas.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - Pilhas I<br />Aula 03 - Pilhas II<br />Aula 04 - Filas e Listas<br />Aula 05 - Busca I<br />Aula 06 - Busca II<br />Aula 07 - Algoritmos de Ordenação I<br />Aula 08 - Algoritmos de Ordenação II</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Estrutura de Dados</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Domine os conceitos da estrutura de dados, buscando, indexando e retornando informações desejadas, criando assim algoritmos para resolução de tarefas programadas.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>8</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Introdução <br />Aula 02 - Pilhas I<br />Aula 03 - Pilhas II<br />Aula 04 - Filas e Listas<br />Aula 05 - Busca I<br />Aula 06 - Busca II<br />Aula 07 - Algoritmos de Ordenação I<br />Aula 08 - Algoritmos de Ordenação II</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Metodologias Ágeis</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Alexandre Uehara</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda   metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>12</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Metodologias Ágeis</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Alexandre Uehara</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda   metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>12</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Testes</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Danilo Aparecido</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Testes</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Danilo Aparecido</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Avançado</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>9</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Boas Práticas</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>55min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Daniel Obara</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Boas Práticas</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>55min</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Daniel Obara</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Avançado</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>8</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar</td></tr>
         </table>
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Soft Skill</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Amanda Nideck</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Soft Skill</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Amanda Nideck</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade</td></tr>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 01</summary>
+        <summary>📘 Semana 01</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao Mundo do Desenvolvimento </td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
-          <tr><td><b>Descrição</b></td><td><p> Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Introdução ao Mundo do Desenvolvimento </td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p> Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - O que é Programação<br />Aula 02 - Dados do Mercado<br />Aula 03 - Como é a Carreira de Desenvolvimento<br />Aula 04 - Linguagens, Frameworks e Bibliotecas<br />Aula 05 - Editores de Texto</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Lógica de Programação</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td>
-          <tr><td><b>Número de Aulas</b></td><td>4</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Algoritmos<br />Aula 02 - Variáveis e Operações<br />Aula 03 - Decisões<br />Aula 04 - Repetições</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Lógica de Programação</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>4</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Algoritmos<br />Aula 02 - Variáveis e Operações<br />Aula 03 - Decisões<br />Aula 04 - Repetições</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Git</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>52min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Hendy Almeida</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Apresentação e Introdução ao Tema<br />Aula 02 - Instalação e Comandos Básicos<br />Aula 03 - GitHub e Repositório Remoto<br />Aula 04 - Branch e Merge<br />Aula 05 - Fork, Pull Request e GitHub Pages</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Git</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>52min</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Hendy Almeida</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Apresentação e Introdução ao Tema<br />Aula 02 - Instalação e Comandos Básicos<br />Aula 03 - GitHub e Repositório Remoto<br />Aula 04 - Branch e Merge<br />Aula 05 - Fork, Pull Request e GitHub Pages</td></tr>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 02</summary>
+        <summary>📘 Semana 02</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Javascript Básico</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>JC Bombardelli</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Javascript Básico</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>JC Bombardelli</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>8</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Introdução ao Javascript<br />Aula 02 - Números e Operadores<br />Aula 03 - Boas Práticas em Javascript<br />Aula 04 - Condicionais<br />Aula 05 - Estrutura de Repetição: For<br />Aula 06 - Estrutura de Repetição: While<br />Aula 07 - Funções<br />Aula 08 - Classes</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Javascript Básico - Prática</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>42min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>JC Bombardelli</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td>
-          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Desafio: Validador de CPF I <br />Aula 02 - Desafio: Validador de CPF II<br />Aula 03 - Desafio: Validador de CPF III<br />Aula 04 - Desafio: Validador de CPF IV<br />Aula 05 - Desafio: Validador de CPF V</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Javascript Básico - Prática</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>42min</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>JC Bombardelli</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Desafio: Validador de CPF I <br />Aula 02 - Desafio: Validador de CPF II<br />Aula 03 - Desafio: Validador de CPF III<br />Aula 04 - Desafio: Validador de CPF IV<br />Aula 05 - Desafio: Validador de CPF V</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao Typescript</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Gabriel Ramos</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>6</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - Tipos Básicos (Parte 01)<br />Aula 03 - Tipos Básicos (Parte 02)<br />Aula 04 - Múltiplos Tipos com Union Types<br />Aula 05 - Orientação de Objetos (Parte 01)<br />Aula 06 - Orientação de Objetos (Parte 02)</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Introdução ao Typescript</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Gabriel Ramos</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>6</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - Tipos Básicos (Parte 01)<br />Aula 03 - Tipos Básicos (Parte 02)<br />Aula 04 - Múltiplos Tipos com Union Types<br />Aula 05 - Orientação de Objetos (Parte 01)<br />Aula 06 - Orientação de Objetos (Parte 02)</td></tr>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 03</summary>
+        <summary>📘 Semana 03</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>ReactJS Básico</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Guilherme Ramos</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>ReactJS Básico</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Guilherme Ramos</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Boas Vindas<br />Aula 02 - Por que ReactJS<br />Aula 03 - Preparando o Ambiente<br />Aula 04 - Fundamentos do ReactJS <br />Aula 05 - Consumindo Dados de uma API <br />Aula 06 - Instalando e Configurando o react-router-dom<br />Aula 07 - Importando as Rotas no Componente App</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>ReactJS Intermediário</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>56min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Guilherme Ramos</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Domine as funcionalidades avançadas do React.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td>
-          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Organização, Boas Práticas e Componentes de Estilo<br />Aula 02 - Salvando Dados no Storage<br />Aula 03 - Renderizando Repositórios e Programação Declarativa<br />Aula 04 - Link react-router-dom<br />Aula 05 - Tratamento de Erros e useHistory<br />Aula 06 - Conditional Rendering<br />Aula 07 - Daqui pra Frente e Encerramento</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>ReactJS Intermediário</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>56min</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Guilherme Ramos</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Domine as funcionalidades avançadas do React.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Organização, Boas Práticas e Componentes de Estilo<br />Aula 02 - Salvando Dados no Storage<br />Aula 03 - Renderizando Repositórios e Programação Declarativa<br />Aula 04 - Link react-router-dom<br />Aula 05 - Tratamento de Erros e useHistory<br />Aula 06 - Conditional Rendering<br />Aula 07 - Daqui pra Frente e Encerramento</td></tr>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>GraphQL</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>4hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Victor Farias</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>25</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Apresentação e Introdução<br />Aula 02 - Modelo Cliente e Servidor<br />Aula 03 - Padrão de Requisição e Resposta<br />Aula 04 - Iniciando Projeto de Exemplo<br />Aula 05 - Criando o Servidor<br />Aula 06 - Renderização, Parâmetros e Redirecionamentos<br />Aula 07 - Monorepo<br />Aula 08 - Pacote com ReactJS<br />Aula 09 - Rotas com react-router-dom<br />Aula 10 - Mudando Server para Express<br />Aula 11 - Requisição Assíncrona<br />Aula 12 - Resolvendo CORS<br />Aula 13 - APIs RESTful<br />Aula 14 - Apollo Server<br />Aula 15 - TypeDefs e Resolvers<br />Aula 16 - Introdução a GraphQL Query <br />Aula 17 - Criando GraphQL Queries<br />Aula 18 - Paginação, Ordenação e Filtros<br />Aula 19 - GraphQL Mutation<br />Aula 20 - Mutation para Alterar e Excluir Clientes<br />Aula 21 - Configurando o Apollo Link<br />Aula 22 - Criando o Apollo Link, o Logger<br />Aula 23 - Apollo Client, e Apollo DevTools<br />Aula 24 - Hooks useQuery e Paginação<br />Aula 25 - Hook useMutation</td></tr>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>GraphQL</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>4hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Victor Farias</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>25</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td><td>Aula 01 - Apresentação e Introdução<br />Aula 02 - Modelo Cliente e Servidor<br />Aula 03 - Padrão de Requisição e Resposta<br />Aula 04 - Iniciando Projeto de Exemplo<br />Aula 05 - Criando o Servidor<br />Aula 06 - Renderização, Parâmetros e Redirecionamentos<br />Aula 07 - Monorepo<br />Aula 08 - Pacote com ReactJS<br />Aula 09 - Rotas com react-router-dom<br />Aula 10 - Mudando Server para Express<br />Aula 11 - Requisição Assíncrona<br />Aula 12 - Resolvendo CORS<br />Aula 13 - APIs RESTful<br />Aula 14 - Apollo Server<br />Aula 15 - TypeDefs e Resolvers<br />Aula 16 - Introdução a GraphQL Query <br />Aula 17 - Criando GraphQL Queries<br />Aula 18 - Paginação, Ordenação e Filtros<br />Aula 19 - GraphQL Mutation<br />Aula 20 - Mutation para Alterar e Excluir Clientes<br />Aula 21 - Configurando o Apollo Link<br />Aula 22 - Criando o Apollo Link, o Logger<br />Aula 23 - Apollo Client, e Apollo DevTools<br />Aula 24 - Hooks useQuery e Paginação<br />Aula 25 - Hook useMutation</td></tr>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 04</summary>
+        <summary>📘 Semana 04</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao NodeJS</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>5hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>18</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Introdução ao NodeJS</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>5hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>18</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Introdução Fundamentos de NodeJS<br />Aula 02 - Definição de Back-End e Front-End<br />Aula 03 - Definição de NodeJS<br />Aula 04 - Benchmark NodeJS<br />Aula 05 - Instalação do NodeJS<br />Aula 06 - Prática "Hello World" em NodeJS<br />Aula 07 - Documentação de Apoio Sobre NodeJS<br />Aula 08 - O Problema de Gerenciamento de Pacotes<br />Aula 09 - Como Funciona o NPM<br />Aula 10 - Prática de NPM<br />Aula 11 - Documentação de Apoio Sobre NPM<br />Aula 12 - Definição de Javascript<br />Aula 13 - Pratica de Desenvolvimento em Javascript<br />Aula 14 - Documentações de Apoio Sobre Javascript<br />Aula 15 - Definição de Typescript<br />Aula 16 - Pratica de Desenvolvimento em Typescript<br />Aula 17 - Documentação de Apoio Sobre Typescript<br />Aula 18 - Finalização</td>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 05</summary>
+        <summary>📘 Semana 05</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>NodeJS - HTTP GET e HTTP POST</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>8hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Douglas Morais</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>23</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>NodeJS - HTTP GET e HTTP POST</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>8hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Douglas Morais</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>23</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Introdução, Entendendo os Conceitos de REST e SOAP<br />Aula 02 - Configurando o Nodemon<br />Aula 03 - Configurando o Docker<br />Aula 04 - Configurando ElephantSQL e PostBird<br />Aula 05 - ORM<br />Aula 06 - Migration Usuários<br />Aula 07 - Model Usuários<br />Aula 08 - Controller Usuários<br />Aula 09 - Hash de Senhas Usuários<br />Aula 10 - Autenticação JWT<br />Aula 11 - Token JWT via Header<br />Aula 12 - Atualizando Usuários<br />Aula 13 - Validação de Dados<br />Aula 14 - Adicionando Foto do usuário<br />Aula 15 - Vinculando Fotos ao Usuário<br />Aula 16 - Listagem de Prestadores de Serviços<br />Aula 17 - Models de Agendamento<br />Aula 18 - Criando Agendamentos<br />Aula 19 - Validações e Listagem de Agenda do Colaborador<br />Aula 20 - Paginação e Listagem de Agenda do Colaborador<br />Aula 21 - Configurando o MongoDB e Configurando as Notificações<br />Aula 22 - Listando Notificações e Marcando como Lidas<br />Aula 23 - Final do Módulo</td>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 06</summary>
+        <summary>📘 Semana 06</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Node.JS - Criando uma REST API</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>5hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>25</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
-          <td>Aula 01 - Introdução a REST API<br />Aula 02 - O que é REST API<br />Aula 03 - Recursos: Coleção, Elemento e Sub-elemento<br />Aula 04 - Endpoints<br />Aula 05 - Métodos REST<br />Aula 06 - Versionamento de API<br />Aula 07 - Status Codes<br />Aula 08 - Documentação de Referência REST API<br />Aula 09 - O que é DX?<br />Aula 10 - O que é uma Documentação de API<br />Aula 11 - Utilizando o Swagger - Parte 1<br />Aula 12 - Utilizando o Swagger - Parte 2<br />Aula 13 - Documentação de Referência do Swagger<br />Aula 14 - O que é o Express<br />Aula 15 - Conhecendo o Postman<br />Aula 16 - Prática de Express - Parte 01<br />Aula 17 - Prática de Express - Parte 02<br />Aula 18 - Prática de Express - Parte 03<br />Aula 18 - Prática de Express - Parte 03<br />Aula 20 - Documentação de Referência do Express<br />Aula 21 - Segurança: Acesso não autorizado<br />Aula 22 - Segurança: Ataques de Integridade<br />Aula 23 - Segurança: Sobrecarga<br />Aula 24 - Segurança: Confiabilidade<br />Aula 25 - Segurança: Implementações Equivocadas</td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Node.JS - Criando uma REST API</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>5hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>25</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
+          <td>Aula 01 - Introdução a REST API<br />Aula 02 - O que é REST API<br />Aula 03 - Recursos: Coleção, Elemento e Sub-elemento<br />Aula 04 - Endpoints<br />Aula 05 - Métodos REST<br />Aula 06 - Versionamento de API<br />Aula 07 - 📌 Status Codes<br />Aula 08 - Documentação de Referência REST API<br />Aula 09 - O que é DX?<br />Aula 10 - O que é uma Documentação de API<br />Aula 11 - Utilizando o Swagger - Parte 1<br />Aula 12 - Utilizando o Swagger - Parte 2<br />Aula 13 - Documentação de Referência do Swagger<br />Aula 14 - O que é o Express<br />Aula 15 - Conhecendo o Postman<br />Aula 16 - Prática de Express - Parte 01<br />Aula 17 - Prática de Express - Parte 02<br />Aula 18 - Prática de Express - Parte 03<br />Aula 18 - Prática de Express - Parte 03<br />Aula 20 - Documentação de Referência do Express<br />Aula 21 - Segurança: Acesso não autorizado<br />Aula 22 - Segurança: Ataques de Integridade<br />Aula 23 - Segurança: Sobrecarga<br />Aula 24 - Segurança: Confiabilidade<br />Aula 25 - Segurança: Implementações Equivocadas</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Consumo de API Terceiras</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>3hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Erik Borges</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>13</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Consumo de API Terceiras</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>3hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Erik Borges</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>13</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Introdução Consumo de API Terceiras<br />Aula 02 - A Importância da Integração com Terceiros<br />Aula 03 - Como se Prepare para Integrar<br />Aula 04 - O que é o Node-Fetch<br />Aula 05 - Prática de Integração com Node-Fetch - Parte 01<br />Aula 06 - Prática de Integração com Node-Fetch - Parte 02<br />Aula 07 - Prática de Integração com Node-Fetch - Parte 03<br />Aula 08 - Prática de Integração com Node-Fetch - Parte 04<br />Aula 09 - O que é o Axios?<br />Aula 10 - Prática de Integração com Axios - Parte 01<br />Aula 11 - Prática de Integração com Axios - Parte 02<br />Aula 12 - Prática de Integração com Axios - Parte 03<br />Aula 13 - Finalização</td>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Semana 07 (Bônus)</summary>
+        <summary>📘 Semana 07 (Bônus)</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>NextJS</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Marianne Salomão</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>NextJS</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Marianne Salomão</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>9</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Apresentação e Introdução<br />Aula 02 - Fundamentos I<br />Aula 03 - Fundamentos II<br />Aula 04 - Componentes I<br />Aula 05 - Componentes II<br />Aula 06 - SSR<br />Aula 07 - Rotas e Funções I<br />Aula 08 - Rotas e Funções II<br />Aula 09 - Rotas e Funções III</td>
         </table><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>GatsbyJS</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>48min</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>Marianne Salomão</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>6</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>GatsbyJS</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>48min</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>Marianne Salomão</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>6</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Fundamentos de GatsbyJS<br />Aula 02 - SSG<br />Aula 03 - Roteamento I<br />Aula 04 - Roteamento II<br />Aula 05 - Componentes e Funções I<br />Aula 06 - Componentes e Funções II</td>
         </table><br />
       </details>
     </ul>
     <ul>
       <details>
-        <summary>📙 Aulas Reforço | (Bônus)</summary>
+        <summary>📘 Aulas Reforço | (Bônus)</summary><br />
         <table width="100%" border="1">
-          <tr><td><b>Nome do Módulo</b></td><td>Aulas Reforços</td></tr>
-          <tr><td><b>Carga Horária</b></td><td>10hrs</td></tr>
-          <tr><td><b>Professor(a)</b></td><td>-</td></tr>
-          <tr><td><b>Descrição</b></td><td><p>Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II.</p></td></tr>
-          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
-          <tr><td><b>Número de Aulas</b></td><td>47</td></tr>
-          <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td>
+          <tr><td><b>📁 Nome do Módulo</b></td><td>Aulas Reforços</td></tr>
+          <tr><td><b>⌛ Carga Horária</b></td><td>10hrs</td></tr>
+          <tr><td><b>👨‍🏫 Professor(a)</b></td><td>-</td></tr>
+          <tr><td><b>📝 Descrição</b></td><td><p>Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II.</p></td></tr>
+          <tr><td><b>🎯 Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>🔢 Número de Aulas</b></td><td>47</td></tr>
+          <tr><td><b>📌 Status</b></td><td>✅</td></tr>
+          <tr><td><b>🟩 Aulas</b></td>
           <td>Aula 01 - Typescript I Introdução<br />Aula 02 - Typescript I Instalando e Usando o TypeScript<br />Aula 03 - Typescript I Tipos Básicos<br />Aula 04 - Typescript I Tipo Never<br />Aula 05 - Typescript I Múltiplos tipos com Union Types<br />Aula 06 - Typescript I Type Alias<br />Aula 07 - Typescript I Valores Nulos ou Opcionais<br />Aula 08 - Typescript I Type Assertion<br />Aula 09 - Typescript I Interfaces<br />Aula 10 - Typescript I Classes<br />Aula 11 - Typescript I Configurando o Target do TypeScript<br />Aula 12 - Typescript I Utilizando Modificadores de Acesso<br />Aula 13 - Typescript I Herança<br />Aula 14 - React I Introdução a ReactJS<br />Aula 15 - React I Instalação<br />Aula 16 - React I JSX<br />Aula 17 - React I Componentes I<br />Aula 18 - React I Componentes II<br />Aula 19 - React I Componentes III<br />Aula 20 - React I Componentes IV<br />Aula 21 - React I Paginas em React: React Router<br />Aula 22 - React I React Hooks I<br />Aula 23 - React I React Hooks II<br />Aula 24 - React I Formulários em React<br />Aula 25 - React I Consumo de API<br />Aula 26 - React I Styled Component<br />Aula 27 - React I Introdução a Redux<br />Aula 28 - React I Instalação Redux<br />Aula 29 - React I Redux: Store e Actions<br />Aula 30 - Node.JS - Express 1 I Introdução a Express<br />Aula 31 - Node.JS - Express 1 I MVC<br />Aula 32 - Node.JS - Express 1 I Métodos HTTP<br />Aula 33 - Node.JS - Express 1 I Rotas (parte 1)<br />Aula 34 - Node.JS - Express 1 I Rotas (parte 2)<br />Aula 35 - Node.JS - Express 1 I Controller<br />Aula 36 - Node.JS - Express 1 I Nodemoon<br />Aula 37 - Node.JS - Express 1 I ORM - Sequelize (parte 1)<br />Aula 38 - Node.JS - Express 1 I ORM - Sequelize (parte 2)<br />Aula 39 - Node.JS - Express 1 I Relacionamentos com Sequelize<br />Aula 40 - Node.JS - Express 1 I Relações N pra N<br />Aula 41 - Node.JS - Express 2 I REST API<br />Aula 42 - Node.JS - Express 2 I Middlewares<br />Aula 43 - Node.JS - Express 2 I Autenticação com JWT (parte 1)<br />Aula 44 - Node.JS - Express 2 I Autenticação com JWT (parte 2)<br />Aula 45 - Node.JS - Express 2 I Validação de Dados (parte 1)<br />Aula 46 - Node.JS - Express 2 I Validação de Dados (parte 2)<br />Aula 47 - Node.JS - Express 2 I Documentação de API<br /></td>
         </table><br />
       </details>
@@ -462,19 +462,19 @@
     <details>
     <summary>🟠 Hiring Coders #3 - Fase 01</summary>
 
-- *Número de Playlists:* 23
-- *Carga Horária:* 10hrs
-- *Número de Challenges:* 2
-- *Seções*
+- *🟪 Número de Playlists:* 23
+- *⌛ Carga Horária:* 10hrs
+- *🎯 Número de Challenges:* 2
+- *🟨 Seções*
     - Aquecimento
-      - Playlists
+      - 🟪 Playlists
         - HTML
-          - *Carga Horária:* 1h
-          - *Professor(a):* Isidro Massetto
-          - *Descrição:* Aprenda a base para desenvolver qualquer site, marcando elementos e definindo quais informações deseja exibir na sua página.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 5
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Isidro Massetto
+          - *📝 Descrição:* Aprenda a base para desenvolver qualquer site, marcando elementos e definindo quais informações deseja exibir na sua página.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 5
+          - 🟩 *Aulas*
             - *Aula 01* - Tags
               - *Duração:* 11:33
             - *Aula 02* - Ferramentas e Estrutura
@@ -486,12 +486,12 @@
             - *Aula 04* - Divisões II
               - *Duração:* 14:21
         - CSS
-          - *Carga Horária:* 3hrs
-          - *Professor(a):* Kai Pimenta
-          - *Descrição:* Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 21
-          - *Aulas*
+          - *⌛ Carga Horária:* 3hrs
+          - *👨‍🏫 Professor(a):* Kai Pimenta
+          - *📝 Descrição:* Estilize suas páginas em HTML com CSS, alterando as fontes, cores, layout e posicionamento dos elementos, deixando-as mais atrativas.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 21
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução
               - *Duração:* 03:50
             - *Aula 02* - O que é CSS e Importância
@@ -535,12 +535,12 @@
             - *Aula 21* - Considerações Finais
               - *Duração:* 01:59
         - Estrutura de Dados
-          - *Carga Horária:* 1h
-          - *Professor(a):* Isidro Massetto
-          - *Descrição:* Domine os conceitos da estrutura de dados, buscando, indexando e retornando informações desejadas, criando assim algoritmos para resolução de tarefas programadas.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 8
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Isidro Massetto
+          - *📝 Descrição:* Domine os conceitos da estrutura de dados, buscando, indexando e retornando informações desejadas, criando assim algoritmos para resolução de tarefas programadas.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 8
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução
               - *Duração:* 03:49
             - *Aula 02* - Pilhas I
@@ -558,12 +558,12 @@
             - *Aula 08* - Algoritmos de Ordenação II
               - *Duração:* 08:21
         - Metodologias Ágeis
-          - *Carga Horária:* 1h
-          - *Professor(a):* Alexandre Uehara
-          - *Descrição:* As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 12
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Alexandre Uehara
+          - *📝 Descrição:* As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 12
+          - 🟩 *Aulas*
             - *Aula 01* - Metodologias Ágeis
               - *Duração:* 12:52
             - *Aula 02* - Modelos Tradicionais X Times Ágeis
@@ -587,12 +587,12 @@
             - *Aula 08* - Scrum Refinamento de Backlog
               - *Duração:* 13:37
         - Testes
-          - *Carga Horária:* 2hrs
-          - *Professor(a):* Danilo Aparecido
-          - *Descrição:* Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.
-          - *Dificuldade:* Avançado
-          - *Quantidade de Aulas:* 9
-          - *Aulas*
+          - *⌛ Carga Horária:* 2hrs
+          - *👨‍🏫 Professor(a):* Danilo Aparecido
+          - *📝 Descrição:* Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.
+          - *🎯 Dificuldade:* Avançado
+          - *🔢 Quantidade de Aulas:* 9
+          - 🟩 *Aulas*
             - *Aula 01* - O que é testar? Por que testar? Como Testar?
               - *Duração:* 08:22
             - *Aula 02* - Test Driven Development (TDD)
@@ -612,12 +612,12 @@
             - *Aula 09* - Cypress
               - *Duração:* 16:50
         - Boas Práticas
-          - *Carga Horária:* 55min
-          - *Professor(a):* Daniel Obara
-          - *Descrição:* Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.
-          - *Dificuldade:* Avançado
-          - *Quantidade de Aulas:* 8
-          - *Aulas*
+          - *⌛ Carga Horária:* 55min
+          - *👨‍🏫 Professor(a):* Daniel Obara
+          - *📝 Descrição:* Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.
+          - *🎯 Dificuldade:* Avançado
+          - *🔢 Quantidade de Aulas:* 8
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução
               - *Duração:* 03:47
             - *Aula 02* - BEM (Block Element Modifier)
@@ -635,12 +635,12 @@
             - *Aula 08* - Design Patterns: Singleton, Strategy e Adaptar
               - *Duração:* 15:21
         - Soft Skill
-          - *Carga Horária:* 2hrs
-          - *Professor(a):* Amanda Nideck
-          - *Descrição:* -
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 7
-          - *Aulas*
+          - *⌛ Carga Horária:* 2hrs
+          - *👨‍🏫 Professor(a):* Amanda Nideck
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 7
+          - 🟩 *Aulas*
             - *Aula 01* - Coachability
               - *Duração:* 17:58
             - *Aula 02* - Inteligência Emocional - Parte 01
@@ -655,15 +655,15 @@
               - *Duração:* 24:16
             - *Aula 07* - Criatividade
               - *Duração:* 11:25
-    - Semana 01
-      - Playlists
+    - 🟥 Semana 01
+      - 🟪 Playlists
         - Introdução ao Mundo do Desenvolvimento
-          - *Carga Horária:* 1h
-          - *Professor(a):* Isidro Massetto
-          - *Descrição:* Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 5
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Isidro Massetto
+          - *📝 Descrição:* Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 5
+          - 🟩 *Aulas*
             - *Aula 01* - O que é Programação
               - *Duração:* 05:41
             - *Aula 02* - Dados do Mercado
@@ -675,12 +675,12 @@
             - *Aula 05* - Editores de Texto
               - *Duração:* 05:50
         - Lógica de Programação
-          - *Carga Horária:* 1h
-          - *Professor(a):* Isidro Massetto
-          - *Descrição:* Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 4
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Isidro Massetto
+          - *📝 Descrição:* Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 4
+          - 🟩 *Aulas*
             - *Aula 01* - Algoritmos
               - *Duração:* 11:07
             - *Aula 02* - Variáveis e Operações
@@ -690,12 +690,12 @@
             - *Aula 04* - Repetições
               - *Duração:* 19:56
         - Git
-          - *Carga Horária:* 52min
-          - *Professor(a):* Hendy Almeida
-          - *Descrição:* O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 5
-          - *Aulas*
+          - *⌛ Carga Horária:* 52min
+          - *👨‍🏫 Professor(a):* Hendy Almeida
+          - *📝 Descrição:* O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 5
+          - 🟩 *Aulas*
             - *Aula 01* - Apresentação e Introdução ao Tema
               - *Duração:* 05:01
             - *Aula 02* - Instalação e Comandos Básicos
@@ -706,15 +706,15 @@
               - *Duração:* 08:13
             - *Aula 05* - Fork, Pull Request e GitHub Pages
               - *Duração:* 10:56
-    - Semana 02
+    - 🟥 Semana 02
       - Playlist
         - Javascript Básico
-          - *Carga Horária:* 1h
-          - *Professor(a):* JC Bombardelli
-          - *Descrição:* Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 8
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* JC Bombardelli
+          - *📝 Descrição:* Saiba como adicionar interatividade e dinamismo ao seu site com JavaScript.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 8
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução ao Javascript
               - *Duração:* 06:26
             - *Aula 02* - Números e Operadores
@@ -732,12 +732,12 @@
             - *Aula 08* - Classes
               - *Duração:* 03:49
         - Javascript Básico - Prática
-          - *Carga Horária:* 42min
-          - *Professor(a):* JC Bombardelli
-          - *Descrição:* Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 5
-          - *Aulas*
+          - *⌛ Carga Horária:* 42min
+          - *👨‍🏫 Professor(a):* JC Bombardelli
+          - *📝 Descrição:* Teste e aprimore seus conhecimentos em Javascript com um desafio prático. Veja as resoluções e dicas de aplicação.
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 5
+          - 🟩 *Aulas*
             - *Aula 01* - Desafio: Validador de CPF I
               - *Duração:* 09:03
             - *Aula 02* - Desafio: Validador de CPF II
@@ -749,12 +749,12 @@
             - *Aula 05* - Desafio: Validador de CPF V
               - *Duração:* 06:26
         - Introdução ao Typescript
-          - *Carga Horária:* 2hrs
-          - *Professor(a):* Gabriel Ramos
-          - *Descrição:* -
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 6
-          - *Aulas*
+          - *⌛ Carga Horária:* 2hrs
+          - *👨‍🏫 Professor(a):* Gabriel Ramos
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 6
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução
               - *Duração:* 32:05
             - *Aula 02* - Tipos Básicos (Parte 01)
@@ -767,15 +767,15 @@
               - *Duração:* 12:33
             - *Aula 05* - Orientação de Objetos (Parte 02)
               - *Duração:* 24:06
-    - Semana 03
-      - Playlists
+    - 🟥 Semana 03
+      - 🟪 Playlists
         - ReactJS Básico
-          - *Carga Horária:* 1h
-          - *Professor(a):* Guilherme Ramos
-          - *Descrição:* Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 7
-          - *Aulas*
+          - *⌛ Carga Horária:* 1h
+          - *👨‍🏫 Professor(a):* Guilherme Ramos
+          - *📝 Descrição:* Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 7
+          - 🟩 *Aulas*
             - *Aula 01* - Boas Vindas
               - *Duração:* 03:29
             - *Aula 02* - Por que ReactJS
@@ -791,12 +791,12 @@
             - *Aula 07* - Importando as Rotas no Componente App
               - *Duração:* 04:03
         - ReactJS Intermediário
-          - *Carga Horária:* 56min
-          - *Professor(a):* Guilherme Ramos
-          - *Descrição:* Domine as funcionalidades avançadas do React.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 7
-          - *Aulas*
+          - *⌛ Carga Horária:* 56min
+          - *👨‍🏫 Professor(a):* Guilherme Ramos
+          - *📝 Descrição:* Domine as funcionalidades avançadas do React.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 7
+          - 🟩 *Aulas*
             - *Aula 01* - Organização, Boas Práticas e Componentes de Estilo
               - *Duração:* 14:35
             - *Aula 02* - Salvando Dados no Storage
@@ -812,12 +812,12 @@
             - *Aula 07* - Daqui pra Frente e Encerramento
               - *Duração:* 13:12
         - GraphQL
-          - *Carga Horária:* 4hrs
-          - *Professor(a):* Victor Farias
-          - *Descrição:* Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 25
-          - *Aulas*
+          - *⌛ Carga Horária:* 4hrs
+          - *👨‍🏫 Professor(a):* Victor Farias
+          - *📝 Descrição:* Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 25
+          - 🟩 *Aulas*
             - *Aula 01* - Apresentação e Introdução
               - *Duração:* 03:17
             - *Aula 02* - Modelo Cliente e Servidor
@@ -868,15 +868,15 @@
               - *Duração:* 22:09
             - *Aula 25* - Hook useMutation
               - *Duração:* 17:00
-    - Semana 04
-      - Playlists
+    - 🟥 Semana 04
+      - 🟪 Playlists
         - Introdução ao NodeJS
-          - *Carga Horária:* 5hrs
-          - *Professor(a):* Erik Borges
-          - *Descrição:* -
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 18
-          - *Aulas*
+          - *⌛ Carga Horária:* 5hrs
+          - *👨‍🏫 Professor(a):* Erik Borges
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 18
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução Fundamentos de NodeJS
               - *Duração:* 14:12
             - *Aula 02* - Definição de Back-End e Front-End
@@ -913,15 +913,15 @@
               - *Duração:* 04:00
             - *Aula 18* - Finalização
               - *Duração:* 01:07
-    - Semana 05
-      - Playlists
+    - 🟥 Semana 05
+      - 🟪 Playlists
         - NodeJS - HTTP GET e HTTP POST
-          - *Carga Horária:* 8hrs
-          - *Professor(a):* Douglas Morais
-          - *Descrição:* -
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 23
-          - *Aulas*
+          - *⌛ Carga Horária:* 8hrs
+          - *👨‍🏫 Professor(a):* Douglas Morais
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 23
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução, Entendendo os Conceitos de REST e SOAP
               - *Duração:* 16:51
             - *Aula 02* - Configurando o Nodemon
@@ -968,15 +968,15 @@
               - *Duração:* 30:37
             - *Aula 22* - Final do Módulo
               - *Duração:* 01:29
-    - Semana 06
-      - Playlists
+    - 🟥 Semana 06
+      - 🟪 Playlists
         - Node.JS - Criando uma REST API
-          - *Carga Horária:* 5hrs
-          - *Professor(a):* Erik Borges
-          - *Descrição:* -
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 25
-          - *Aulas*
+          - *⌛ Carga Horária:* 5hrs
+          - *👨‍🏫 Professor(a):* Erik Borges
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 25
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução a REST API
               - *Duração:* 05:44
             - *Aula 02* - O que é REST API
@@ -989,7 +989,7 @@
               - *Duração:* 16:51
             - *Aula 06* - Versionamento de API
               - *Duração:* 06:57
-            - *Aula 07* - Status Codes
+            - *Aula 07* - 📌 Status Codes
               - *Duração:* 08:36
             - *Aula 08* - Documentação de Referência REST API
               - *Duração:* 04:17
@@ -1028,12 +1028,12 @@
             - *Aula 25* - Segurança: Implementações Equivocadas
               - *Duração:* 06:15
         - Consumo de API Terceiras
-          - *Carga Horária:* 3hrs
-          - *Professor(a):* Erik Borges
-          - *Descrição:* -
-          - *Dificuldade:* Básico
-          - *Quantidade de Aulas:* 13
-          - *Aulas*
+          - *⌛ Carga Horária:* 3hrs
+          - *👨‍🏫 Professor(a):* Erik Borges
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Básico
+          - *🔢 Quantidade de Aulas:* 13
+          - 🟩 *Aulas*
             - *Aula 01* - Introdução Consumo de API Terceiras
               - *Duração:* 04:41
             - *Aula 02* - A Importância da Integração com Terceiros
@@ -1060,15 +1060,15 @@
               - *Duração:* 26:51
             - *Aula 13* - Finalização
               - *Duração:* 02:22
-    - Semana 07 | *(Bônus)*
-      - Playlists
+    - 🟥 Semana 07 | *(Bônus)*
+      - 🟪 Playlists
         - NextJS
-          - *Carga Horária:* 2hrs
-          - *Professor(a):* Marianne Salomão
-          - *Descrição:* -
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 9
-          - *Aulas*
+          - *⌛ Carga Horária:* 2hrs
+          - *👨‍🏫 Professor(a):* Marianne Salomão
+          - *📝 Descrição:* -
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 9
+          - 🟩 *Aulas*
             - *Aula 01* - Apresentação e Introdução
               - *Duração:* 02:38
             - *Aula 02* - Fundamentos I
@@ -1088,12 +1088,12 @@
             - *Aula 09* - Rotas e Funções III
               - *Duração:* 12:36
           - GatsbyJS
-            - *Carga Horária:* 48min
-            - *Professor(a):* Marianne Salomão
-            - *Descrição:* -
-            - *Dificuldade:* Médio
-            - *Quantidade de Aulas:* 6
-            - *Aulas*
+            - *⌛ Carga Horária:* 48min
+            - *👨‍🏫 Professor(a):* Marianne Salomão
+            - *📝 Descrição:* -
+            - *🎯 Dificuldade:* Médio
+            - *🔢 Quantidade de Aulas:* 6
+            - 🟩 *Aulas*
               - *Aula 01* - Fundamentos de GatsbyJS
                 - *Duração:* 05:03
               - *Aula 02* - SSG
@@ -1107,14 +1107,14 @@
               - *Aula 06* - Componentes e Funções II
                 - *Duração:* 10:04
     - Aulas Reforço | *(Bônus)*
-      - Playlists
+      - 🟪 Playlists
         - Hiring Coders I Aulas Reforços
-          - *Carga Horária:* 10hrs
-          - *Professor(a):* Marianne Salomão
-          - *Descrição:* Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II.
-          - *Dificuldade:* Médio
-          - *Quantidade de Aulas:* 47
-          - *Aulas*
+          - *⌛ Carga Horária:* 10hrs
+          - *👨‍🏫 Professor(a):* Marianne Salomão
+          - *📝 Descrição:* Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II.
+          - *🎯 Dificuldade:* Médio
+          - *🔢 Quantidade de Aulas:* 47
+          - 🟩 *Aulas*
             - *Aula 01* - Typescript I Introdução
               - *Duração:* 8:08
             - *Aula 02* - Typescript I Instalando e Usando o TypeScript
