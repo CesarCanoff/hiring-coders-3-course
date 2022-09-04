@@ -49,7 +49,7 @@
     <td>23/04/2022 - 13/06/2022</td>
   </tr>
 </table> 
-  <table align="right" width="50%">
+  <table align="left" width="50%">
   <tr>
     <th>📚 Fase 02</th>
   </tr>
