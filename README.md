@@ -363,10 +363,25 @@
         </table><br />
       </details>
     </ul>
+    <ul>
+      <details>
+        <summary>📙 Aulas Reforço | (Bônus)</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Aulas Reforços</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>10hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>-</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Nesta playlist você encontrará algumas aulas de reforço dos conteúdos apresentados na fase 01 de Hiring Coders. Aproveite que as aulas estão super atualizadas para enriquece seu conhecimentos nos assuntos abordados sendo eles: Typescript, React, Node.JS - Express I, Node.JS - Express II.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>47</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Typescript I Introdução<br />Aula 02 - Typescript I Instalando e Usando o TypeScript<br />Aula 03 - Typescript I Tipos Básicos<br />Aula 04 - Typescript I Tipo Never<br />Aula 05 - Typescript I Múltiplos tipos com Union Types<br />Aula 06 - Typescript I Type Alias<br />Aula 07 - Typescript I Valores Nulos ou Opcionais<br />Aula 08 - Typescript I Type Assertion<br />Aula 09 - Typescript I Interfaces<br />Aula 10 - Typescript I Classes<br />Aula 11 - Typescript I Configurando o Target do TypeScript<br />Aula 12 - Typescript I Utilizando Modificadores de Acesso<br />Aula 13 - Typescript I Herança<br />Aula 14 - React I Introdução a ReactJS<br />Aula 15 - React I Instalação<br />Aula 16 - React I JSX<br />Aula 17 - React I Componentes I<br />Aula 18 - React I Componentes II<br />Aula 19 - React I Componentes III<br />Aula 20 - React I Componentes IV<br />Aula 21 - React I Paginas em React: React Router<br />Aula 22 - React I React Hooks I<br />Aula 23 - React I React Hooks II<br />Aula 24 - React I Formulários em React<br />Aula 25 - React I Consumo de API<br />Aula 26 - React I Styled Component<br />Aula 27 - React I Introdução a Redux<br />Aula 28 - React I Instalação Redux<br />Aula 29 - React I Redux: Store e Actions<br />Aula 30 - Node.JS - Express 1 I Introdução a Express<br />Aula 31 - Node.JS - Express 1 I MVC<br />Aula 32 - Node.JS - Express 1 I Métodos HTTP<br />Aula 33 - Node.JS - Express 1 I Rotas (parte 1)<br />Aula 34 - Node.JS - Express 1 I Rotas (parte 2)<br />Aula 35 - Node.JS - Express 1 I Controller<br />Aula 36 - Node.JS - Express 1 I Nodemoon<br />Aula 37 - Node.JS - Express 1 I ORM - Sequelize (parte 1)<br />Aula 38 - Node.JS - Express 1 I ORM - Sequelize (parte 2)<br />Aula 39 - Node.JS - Express 1 I Relacionamentos com Sequelize<br />Aula 40 - Node.JS - Express 1 I Relações N pra N<br />Aula 41 - Node.JS - Express 2 I REST API<br />Aula 42 - Node.JS - Express 2 I Middlewares<br />Aula 43 - Node.JS - Express 2 I Autenticação com JWT (parte 1)<br />Aula 44 - Node.JS - Express 2 I Autenticação com JWT (parte 2)<br />Aula 45 - Node.JS - Express 2 I Validação de Dados (parte 1)<br />Aula 46 - Node.JS - Express 2 I Validação de Dados (parte 2)<br />Aula 47 - Node.JS - Express 2 I Documentação de API<br /></td>
+        </table><br />
+      </details>
+    </ul>
   </div>
   <hr />
 </details>
-
 
 <details>
   <summary>🟠 Tecnologias Utilizadas</summary>
