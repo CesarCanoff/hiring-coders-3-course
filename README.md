@@ -7,7 +7,7 @@
 <summary>🟠 Fases</summary>
 <div>
   <p>O Hiring Coders #3 foi dividido em 4 Etapas/Fases, a Primeira Fase foi focada em conhecimentos técnicos e um pouco de Soft Skills.</p>
-  <table align="left">
+  <table align="left" width="100%" border="1">
   <tr>
     <th>📚 Fase 01</th>
   </tr>
@@ -36,7 +36,7 @@
     <td>23/04/2022 - 13/06/2022</td>
   </tr>
 </table> 
-  <table align="left">
+  <table align="left" width="100%" border="1">
   <tr>
     <th>📚 Fase 02</th>
   </tr>
