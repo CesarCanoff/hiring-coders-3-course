@@ -86,23 +86,25 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<div>
-  <h3>🟠 Tecnologias Utilizadas</h3>
-  <img src="https://img.shields.io/badge/git-031A2F.svg?style=for-the-badge&logo=git&logoColor=%23F05033" />
-  <img width="100px" src="https://img.shields.io/badge/html5-031A2F.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
-  <img width="100px" src="https://img.shields.io/badge/css3-031A2F.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
-  <img width="100px" src="https://img.shields.io/badge/javascript-031A2F.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img width="100px" src="https://img.shields.io/badge/typescript-031A2F.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
-  <img width="100px" src="https://img.shields.io/badge/react-031A2F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img width="100px" src="https://img.shields.io/badge/-GraphQL-031A2F?style=for-the-badge&logo=graphql&logoColor=E10098" />
-  <img width="100px" src="https://img.shields.io/badge/node.js-031A2F?style=for-the-badge&logo=node.js&logoColor=00DC82" />
-  <img width="100px" src="https://img.shields.io/badge/Gatsby-031A2F.svg?style=for-the-badge&logo=gatsby&logoColor=%23663399" alt="Icon Gatsby" />
-  <img width="100px" src="https://img.shields.io/badge/express.js-031A2F.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Icon Express" />
-  <img width="100px" src="https://img.shields.io/badge/NPM-031A2F.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Icon NPM" />
-  <img width="100px" src="https://img.shields.io/badge/docker-031A2F.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="Icon Docker" />
-  <img width="100px" src="https://img.shields.io/badge/MongoDB-031A2F.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b" alt="Icon MongoDB" />
-  <img width="100px" src="https://img.shields.io/badge/redux-031A2F.svg?style=for-the-badge&logo=redux&logoColor=%23593d88" alt="Icon Redux" />
+<h3>🟠 Tecnologias Utilizadas</h3>
+<br />
+<div align="center" width="10%">
+  <a target="_blank" href="https://git-scm.com/"><img width="55px" src="./Source/Icons/Git%20Icon.png" alt="Ícone do Git" /></a>
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width="55px" src="./Source/Icons/HTML%20Icon.png" alt="Ícone do HTML" /></a>
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width="55px" src="./Source/Icons/CSS%20Icon.png" alt="Ícone do CSS" /></a>
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="55px" src="./Source/Icons/Javascript%20Icon.png" alt="Ícone do Javascript" /></a>
+  <a target="_blank" href="https://www.typescriptlang.org/"><img width="55px" src="./Source/Icons/Typescript%20Icon.png" alt="Ícone do Typescript" /></a>
+  <a target="_blank" href="https://pt-br.reactjs.org/"><img width="55px" src="./Source/Icons/ReactJS%20Icon.png" alt="Ícone do ReactJS" /></a>
+  <a target="_blank" href="https://graphql.org/learn/"><img width="55px" src="./Source/Icons/GraphQL%20Icon.png" alt="Ícone do GraphQL" /></a>
+  <a target="_blank" href="https://nodejs.org/en/"><img width="55px" src="./Source/Icons/NodeJS%20Icon.png" alt="Ícone do NodeJS" /></a>
+  <a target="_blank" href="https://www.gatsbyjs.com/"><img width="55px" src="./Source/Icons/GatsbyJS%20Icon.png" alt="Ícone do GatsbyJS" /></a>
+  <a target="_blank" href="https://expressjs.com/pt-br/"><img width="55px" src="./Source/Icons/Express%20Icon.png" alt="Ícone do ExpressJS" /></a>
+  <a target="_blank" href="https://www.npmjs.com/"><img width="55px" src="./Source/Icons/NPM%20Icon.png" alt="Ícone do NPM" /></a>
+  <a target="_blank" href="https://www.docker.com/"><img width="55px" src="./Source/Icons/Docker%20Icon.png" alt="Ícone do Docker" /></a>
+  <a target="_blank" href="https://www.mongodb.com/pt-br"><img width="55px" src="./Source/Icons/MongoDB%20Icon.png" alt="Ícone do MongoDB" /></a>
+  <a target="_blank" href="https://redux.js.org/"><img width="55px" src="./Source/Icons/Redux%20Icon.png" alt="Ícone do Redux" /></a>
 </div>      
+<br />
      
       
       
