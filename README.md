@@ -237,7 +237,43 @@
           <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
           <tr><td><b>Número de Aulas</b></td><td>6</td></tr>
           <tr><td><b>Status</b></td><td>✅</td></tr>
-          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - Tipos Básicos (Parte 01)<br />Aula 03 - Tipos Básicos (Parte 02)<br />Aula 04 - Múltiplos Tipos com Union Types<br />Aula 05 - Orientação de Objetos (Parte 01)<br />Aula 05 - Orientação de Objetos (Parte 02)</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - Tipos Básicos (Parte 01)<br />Aula 03 - Tipos Básicos (Parte 02)<br />Aula 04 - Múltiplos Tipos com Union Types<br />Aula 05 - Orientação de Objetos (Parte 01)<br />Aula 06 - Orientação de Objetos (Parte 02)</td></tr>
+        </table><br />
+      </details>
+    </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 03</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>ReactJS Básico</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Guilherme Ramos</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Aprenda a programar com React, a biblioteca mais usada atualmente pelas empresas.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - Boas Vindas<br />Aula 02 - Por que ReactJS<br />Aula 03 - Preparando o Ambiente<br />Aula 04 - Fundamentos do ReactJS <br />Aula 05 - Consumindo Dados de uma API <br />Aula 06 - Instalando e Configurando o react-router-dom<br />Aula 07 - Importando as Rotas no Componente App</td>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>ReactJS Intermediário</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>56min</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Guilherme Ramos</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Domine as funcionalidades avançadas do React.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td>
+          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Organização, Boas Práticas e Componentes de Estilo<br />Aula 02 - Salvando Dados no Storage<br />Aula 03 - Renderizando Repositórios e Programação Declarativa<br />Aula 04 - Link react-router-dom<br />Aula 05 - Tratamento de Erros e useHistory<br />Aula 06 - Conditional Rendering<br />Aula 07 - Daqui pra Frente e Encerramento</td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>GraphQL</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>4hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Victor Farias</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Conheça a linguagem de query GraphQL, e aprenda a definir dados para API ou servidor.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>25</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Apresentação e Introdução<br />Aula 02 - Modelo Cliente e Servidor<br />Aula 03 - Padrão de Requisição e Resposta<br />Aula 04 - Iniciando Projeto de Exemplo<br />Aula 05 - Criando o Servidor<br />Aula 06 - Renderização, Parâmetros e Redirecionamentos<br />Aula 07 - Monorepo<br />Aula 08 - Pacote com ReactJS<br />Aula 09 - Rotas com react-router-dom<br />Aula 10 - Mudando Server para Express<br />Aula 11 - Requisição Assíncrona<br />Aula 12 - Resolvendo CORS<br />Aula 13 - APIs RESTful<br />Aula 14 - Apollo Server<br />Aula 15 - TypeDefs e Resolvers<br />Aula 16 - Introdução a GraphQL Query <br />Aula 17 - Criando GraphQL Queries<br />Aula 18 - Paginação, Ordenação e Filtros<br />Aula 19 - GraphQL Mutation<br />Aula 20 - Mutation para Alterar e Excluir Clientes<br />Aula 21 - Configurando o Apollo Link<br />Aula 22 - Criando o Apollo Link, o Logger<br />Aula 23 - Apollo Client, e Apollo DevTools<br />Aula 24 - Hooks useQuery e Paginação<br />Aula 25 - Hook useMutation</td></tr>
         </table><br />
       </details>
     </ul>
