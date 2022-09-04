@@ -1,4 +1,4 @@
-<div align="center"><a href="https://www.hiringcoders.com.br" ><img width="150px" src="Source/image%201.png" /></a></div>
+<div align="center"><a href="https://www.hiringcoders.com.br" ><img width="150px" src="Source/Main%20Cover.png" /></a></div>
 <div align="center"><h2>Hiring Coders #3</h2></div>
 
 <div><h3>🟠 O que é o Hiring Coders?</h3><p>O <b>Hiring Coders</b> é um Programa de Capacitação/Bootcamp gratuito e sem pré-requisitos para te ensinar <b>Programação</b>, <b>Digital Commerce</b> e como ter uma carreira à prova do futuro, o programa foi criado pela <b>VTEX</b> e acelerado pela <b>Gama Academy</b> foi dividido em 4 níveis.</p></div>
