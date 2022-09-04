@@ -51,7 +51,7 @@
     <td>14/06/2022 - 04/07/2022</td>
   </tr>
 </table>
-</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><hr />
+</div>
 </details>
 
 <details>
