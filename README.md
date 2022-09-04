@@ -41,7 +41,7 @@
     <td><a href="#modules">Lista de Módulos</a></td>
   </tr>
   <tr>
-    <td>Carga Horária (Horas/Minutos)</td>
+    <td>Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@
     <td><a href="#modules">Lista de Módulos</a></td>
   </tr>
   <tr>
-    <td>Carga Horária (Horas/Minutos)</td>
+    <td>Carga Horária</td>
     <td>10 Horas</td>
   </tr>
   <tr>
