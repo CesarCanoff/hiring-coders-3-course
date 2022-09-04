@@ -1,6 +1,7 @@
 <img src="Source/Hiring%20Coders%20Cover.jpg" />
 
 <div align="center">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <h2>🔵🟠 Hiring Coders #3 🟠🔵</h2>
 </div>
 
@@ -10,11 +11,122 @@
 </p>
 
 <details>
-<summary>Visão Geral do Programa</summary>
+<summary>🟠 Informações das Fases</summary>
+ <table align="center">
+  <tr>
+    <th>Nome da Fase</th>
+    <th>Número de Playlists</th>
+    <th>Número de Assessment</th>
+    <th>Número de Challenges</th>
+    <th>Dificuldade da Fase</th>
+    <th>Módulos da Fase</th>
+    <th>Carga Horária (Horas/Minutos)</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td>Fase 01</td>
+    <td>23</td>
+    <td>5</td>
+    <td>2</td>
+    <td>Médio</td>
+    <td>
+    HTML5, CSS3, Estrutura de Dados, Metodologias Ágeis Testes, Boas Práticas, Soft Skills, Lógica de Programação, Git, Javascript, Typescript, ReactJS, GraphQL, NodeJS, NextJS,GatsbyJS.
+    </td>
+    <td>10 Horas</td>
+    <td>23/04/2022 - 13/06/2022</td>
+  </tr>
+  <tr>
+    <td>Fase 02</td>
+    <td>5</td>
+    <td>2</td>
+    <td>0</td>
+    <td>Médio</td>
+    <td>
+      Introdução ao Digital Commerce, Projeto de e-commerce, Tecnologias para ecommerce, Cultura DevOps, Conceitos Básicos de AWS.
+    </td>
+    <td>10 Horas</td>
+    <td>14/06/2022 - 04/07/2022</td>
+  </tr>
+</table>
+</details>
 
+<hr />
+
+<details>
+<summary>🛠️ Tecnologias Contidas</summary>
+<hr />
+  <ul>
+    <li>
+      <span>HTML5<span>
+      <img src="https://icongr.am/devicon/html5-original.svg?size=15&color=currentColor" alt="Badge HTML5" />
+    </li>
+    <li>
+      <span>CSS3<span>
+      <img src="https://icongr.am/devicon/css3-original.svg?size=15&color=currentColor" alt="Badge CSS3" />
+    </li>
+    <li>
+      <span>Javascript<span>
+      <img src="https://icongr.am/devicon/javascript-original.svg?size=15&color=currentColor" alt="Badge Javascript" />
+    </li>
+    <li>
+      <span>Git<span>
+      <img src="https://icongr.am/devicon/git-original.svg?size=15&color=currentColor" alt="Badge Git" />
+    </li>
+    <li>
+      <span>ReactJS<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Badge ReactJS" />
+    </li>
+    <li>
+      <span>GraphQL<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Badge GraphQL" />
+    </li>
+    <li>
+      <span>NodeJS<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Badge NodeJS" />
+    </li>
+    <li>
+      <span>Typescript<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Badge Typescript" />
+    </li>
+    <li>
+      <span>NextJS<span>
+       <i style="font-size:15px;" class="devicon-nextjs-plain"></i>
+    </li>
+    <li>
+      <span>Gatsby<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Badge Gatsby" />
+    </li>
+    <li>
+      <span>Express<span>
+      <img width="15" src="https://icongr.am/devicon/express-original.svg?size=15&color=ffffff" alt="Badge Express" />
+    </li>
+    <li>
+      <span>NPM<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Badge ReactJS" />
+    </li>
+    <li>
+      <span>Docker<span>
+      <img width="15" src="https://icongr.am/devicon/docker-original.svg?size=24&color=currentColor" alt="Badge Docker" />
+    </li>
+    <li>
+      <span>MongoDB<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Badge MongoDB" />
+    </li>
+    <li>
+      <span>Redux<span>
+      <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Badge Redux" />
+    </li>
+  </ul>
+</details>
+
+<hr />
+
+<details>
+<summary>🟠 Visão Geral do Programa</summary>
+<hr />
   <ul>
     <details>
-    <summary>Hiring Coders #3 - Fase 01</summary>
+    <summary>🔵 Hiring Coders #3 - Fase 01</summary>
 
 - **Número de Playlists:** 23
 - **Carga Horária:** 10hrs
@@ -768,40 +880,63 @@
   </ul>
 </details>
 
-<!--
-### Summary
+<hr />
 
-- <a href="/level-01">Level 1</a>
-  - <a href="./level-01/heating">Heating</a>
-    - <a href="./level-01/heating/module-01-html">Module 01 - HTML</a>
-    - <a href="./level-01/heating/module-02-css">Module 02 - CSS</a>
-    - <a href="./level-01/heating/module-03-data-structure">Module 03 - Data Structure</a>
-    - <a href="./level-01/heating/module-04-agile-methodologies">Module 04 - Agile Methodologies</a>
-    - <a href="./level-01/heating/module-05-tests">Module 05 - Tests</a>
-    - <a href="./level-01/heating/module-06-good-practices">Module 06 - Good Practices</a>
-    - <a href="./level-01/heating/module-07-soft-skills">Module 07 - Softs Skills</a>
-  - <a href="./level-01/week-01">Week 01</a>
-    - <a href="./level-01/week-01/module-08-introduction-to-the-development-world">Module 08 - Introduction To The Development World</a>
-    - <a href="./level-01/week-01/module-09-programming-logic">Module 09 - Programming Logic</a>
-    - <a href="./level-01/week-01/module-10-git">Module 10 - Git</a>
-  - <a href="./level-01/week-02">Week 02</a>
-    - <a href="./level-01/week-02/module-11-basic-javascript">Module 11 - Basic JavaScript</a>
-    - <a href="./level-01/week-02/module-12-basic-javascript-practices">Module 12 - Basic JavaScript Practices</a>
-    - <a href="./level-01/week-02/module-13-javascript-intermediate">Module 13 - JavaScript Intermediate</a>
-    - <a href="./level-01/week-02/module-14-introduction-to-typescript">Module 14 - Introduction to Typescript</a>
-  - <a href="./level-01/week-03">Week 03</a>
-    - <a href="./level-01/week-03/module-15-basic-react">Module 15 - Basic React</a>
-    - <a href="./level-01/week-03/module-16-intermediate-react">Module 16 - Intermediate React</a>
-    - <a href="./level-01/week-03/module-16-intermediate-react">Module 16 - Intermediate React</a>
-    - <a href="./level-01/week-03/module-17-graphql">Module 17 - GraphQL</a>
-  - <a href="./level-01/week-04">Week 04</a>
-    - <a href="./level-01/week-04/module-18-introduction-node-fundamentals">Module 18 - Introduction Node Fundamentals</a>
-  - <a href="./level-01/week-05">Week 05</a>
-    - <a href="./level-01/week-05/module-19-http-get-and-http-post">Module 19 - HTTP-GET and HTTP-POST</a>
-  - <a href="./level-01/week-06">Week 06</a>
-    - <a href="./level-01/week-06/module-20-creating-a-rest-api">Module 20 - Creating a RestAPI</a>
-    - <a href="./level-01/week-06/module-21-third-party-api-consumption">Module 21 - Third Party API Consumption</a>
-  - <a href="./level-01/week-07">Week 07</a>
-    - <a href="./level-01/week-07/module-22-next-js">Module 22 - NextJS</a>
-- <a href="/docs">Documents</a>
-  - <a href="/docs/hc-docs.pdf">Hiring Coders #3 - Survival Manual</a> -->
+<details>
+  <summary>🟠 Clone o Projeto</summary>
+
+  ### SSH
+  ```bash
+    git@github.com:cesarcanoff/hiring-coders.git
+  ```
+</details>
+
+<hr />
+
+<details>
+  <summary>📝 Licença</summary>
+
+  <center>
+
+  <br /> Esse projeto é licenciado pela MIT License. <br />
+  Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) mais detalhes.
+  
+  </center>
+
+</details>
+
+<hr />
+<details>
+  <summary>✒️ Autor</summary>
+
+  <center>
+
+  <br />
+  <a href="https://github.com/cesarcanoff">
+    <img
+      style="border-radius: 50%;"
+      src="https://github.com/cesarcanoff.png"
+      width="100px;"
+      alt="César Canoff Personal Photo." />
+  </a>
+
+  ### César Canoff
+
+  [Portfólio (Em Construção)](https://github.com/cesarcanoff/portfolio)
+  
+  <br />
+
+  </center>
+
+</details>
+
+<hr />
+
+<br />
+<br />
+<br />
+<center>
+
+> Desenvolvido com ❤️ por [César Canoff](https://github.com/cesarcanoff)
+
+</center>
