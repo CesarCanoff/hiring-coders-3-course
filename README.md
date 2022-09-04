@@ -169,30 +169,108 @@
         </table><br />
       </details>
     </ul>
+    <ul>
+      <details>
+        <summary>📙 Semana 01</summary>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Introdução ao Mundo do Desenvolvimento </td></tr>
+          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>Descrição</b></td><td><p> Compreenda conceitos básicos do mundo do desenvolvimento, para iniciar seus estudos em programação, e para entender os caminhos que você pode seguir.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td>
+          <td>Aula 01 - O que é Programação<br />Aula 02 - Dados do Mercado<br />Aula 03 - Como é a Carreira de Desenvolvimento<br />Aula 04 - Linguagens, Frameworks e Bibliotecas<br />Aula 05 - Editores de Texto<br /></td>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Lógica de Programação</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Isidro Massetto</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Aprenda a base de todo o conhecimento em programação e domine a lógica de comunicação das máquinas.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td>
+          <tr><td><b>Número de Aulas</b></td><td>4</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Algoritmos<br />Aula 02 - Variáveis e Operações<br />Aula 03 - Decisões<br />ula 04 - Repetições<br /></td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Git</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>52min</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Hendy Almeida</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>O GIT é o sistema de controle de versionamento distribuído mais utilizado por desenvolvedores, seja em equipe ou sozinho, essa ferramenta é essencial para manter nossos projetos bem organizados. Saiba como utilizar e usufruir o melhor do sistema GIT, controlando todo seu fluxo de desenvolvimento.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>5</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Apresentação e Introdução ao Tema<br />Aula 02 - Instalação e Comandos Básicos<br />Aula 03 - GitHub e Repositório Remoto<br />Aula 04 - Branch e Merge<br />Aula 05 - Fork, Pull Request e GitHub Pages</td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Metodologias Ágeis</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>1h</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Alexandre Uehara</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>As metodologias ágeis permitem que as empresas atinjam seus objetivos mais rapidamente, além de garantir mais assertividade e eficiência para a execução de projetos. Aprenda   metodologias ágeis e promova um aprimoramento nas etapas e processos da sua equipe.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Médio</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>12</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Metodologias Ágeis<br />Aula 02 - Modelos Tradicionais X Times Ágeis<br />Aula 03 - Manifesto Ágil<br />Aula 04 - O que é o Scrum<br />Aula 05 - Papéis do Scrum<br />Aula 06 - Vantagens do Scrum<br />Aula 07 - Scrum: Rituais e Cerimônias<br />Aula 08 - Scrum: Artefatos<br />Aula 09 - Scrum na Prática I<br />Aula 10 - Scrum na Prática II<br />Aula 11 - Scrum Refinamento de Backlog<br />Aula 12 - Kanban<br /></td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Testes</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Danilo Aparecido</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Adote a prática de testes na sua rotina de programação e desenvolva softwares que nao vão deixar seu usuário na mão.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>9</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - O que é testar? Por que testar? Como Testar?<br />Aula 02 - Test Driven Development (TDD)<br />Aula 03 - Behavior Driven Development (BDD)<br />Aula 04 - Jasmine I<br />Aula 05 - Jasmine II<br />Aula 06 - Cucumber I<br />Aula 07 - Cucumber II<br />Aula 08 - Jest<br />Aula 09 - Cypress<br /></td></tr>
+        </table><br />
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Boas Práticas</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>55min</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Daniel Obara</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>Seja um programador de excelência aplicando conceitos e técnicas de Orientação a Objeto, implementando design patterns e deixando seu código mais legível e com uma maior manutenibilidade.</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Avançado</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>8</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Introdução<br />Aula 02 - BEM (Block Element Modifier)<br />Aula 03 - Design System<br />Aula 04 - Storybook<br />Aula 05 - Micro FrontEnds<br />Aula 06 - MVC (Model, View e Controller)<br />Aula 07 - MVVM (Model, View e ViewModel)<br />Aula 08 - Design Patterns: Singleton, Strategy e Adaptar<br /></td></tr>
+        </table>
+        <table width="100%" border="1">
+          <tr><td><b>Nome do Módulo</b></td><td>Soft Skill</td></tr>
+          <tr><td><b>Carga Horária</b></td><td>2hrs</td></tr>
+          <tr><td><b>Professor(a)</b></td><td>Amanda Nideck</td></tr>
+          <tr><td><b>Descrição</b></td><td><p>-</p></td></tr>
+          <tr><td><b>Dificuldade</b></td><td>Básico</td></tr>
+          <tr><td><b>Status</b></td><td>✅</td></tr>
+          <tr><td><b>Número de Aulas</b></td><td>7</td></tr>
+          <tr><td><b>Aulas</b></td><td>Aula 01 - Coachability<br />Aula 02 - Inteligência Emocional - Parte 01<br />Aula 03 - Inteligência Emocional - Parte 02<br />Aula 04 - Resiliência (Disciplina, Execução e Antifragilidade)<br />Aula 05 - Foco em Resultados<br />Aula 06 - Gestão do Tempo e Produtividade<br />Aula 07 - Criatividade<br /></td></tr>
+        </table><br />
+      </details>
+    </ul>
   </div>
+  <hr />
 </details>
-<hr />
 
 
-<details><summary>🟠 Tecnologias Utilizadas</summary>
-<br /><div align="center" width="10%">
-  <a title="Git"  href="https://git-scm.com/"><img width="55px" src="./Source/Icons/Git%20Icon.png" alt="Ícone do Git" /></a>
-  <a title="HTML5"  href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width="55px" src="./Source/Icons/HTML%20Icon.png" alt="Ícone do HTML" /></a>
-  <a title="CSS3"  href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width="55px" src="./Source/Icons/CSS%20Icon.png" alt="Ícone do CSS" /></a>
-  <a title="Javascript"  href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="55px" src="./Source/Icons/Javascript%20Icon.png" alt="Ícone do Javascript" /></a>
-  <a title="Typescript"  href="https://www.typescriptlang.org/"><img width="55px" src="./Source/Icons/Typescript%20Icon.png" alt="Ícone do Typescript" /></a>
-  <a title="ReactJS"  href="https://pt-br.reactjs.org/"><img width="55px" src="./Source/Icons/ReactJS%20Icon.png" alt="Ícone do ReactJS" /></a>
-  <a title="GraphQL"  href="https://graphql.org/learn/"><img width="55px" src="./Source/Icons/GraphQL%20Icon.png" alt="Ícone do GraphQL" /></a>
-  <a title="NodeJS"  href="https://nodejs.org/en/"><img width="55px" src="./Source/Icons/NodeJS%20Icon.png" alt="Ícone do NodeJS" /></a>
-  <a title="GatsbyJS"  href="https://www.gatsbyjs.com/"><img width="55px" src="./Source/Icons/GatsbyJS%20Icon.png" alt="Ícone do GatsbyJS" /></a>
-  <a title="ExpressJS"  href="https://expressjs.com/pt-br/"><img width="55px" src="./Source/Icons/Express%20Icon.png" alt="Ícone do ExpressJS" /></a>
-  <a title="NPM"  href="https://www.npmjs.com/"><img width="55px" src="./Source/Icons/NPM%20Icon.png" alt="Ícone do NPM" /></a>
-  <a title="Docker"  href="https://www.docker.com/"><img width="55px" src="./Source/Icons/Docker%20Icon.png" alt="Ícone do Docker" /></a>
-  <a title="MongoDB"  href="https://www.mongodb.com/pt-br"><img width="55px" src="./Source/Icons/MongoDB%20Icon.png" alt="Ícone do MongoDB" /></a>
-  <a title="Redux"  href="https://redux.js.org/"><img width="55px" src="./Source/Icons/Redux%20Icon.png" alt="Ícone do Redux" /></a>
-</div>      
+<details>
+  <summary>🟠 Tecnologias Utilizadas</summary>
+  <br />
+  <div align="center" width="10%">
+    <a title="Git"  href="https://git-scm.com/"><img width="55px" src="./Source/Icons/Git%20Icon.png" alt="Ícone do Git" /></a>
+    <a title="HTML5"  href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width="55px" src="./Source/Icons/HTML%20Icon.png" alt="Ícone do HTML" /></a>
+    <a title="CSS3"  href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width="55px" src="./Source/Icons/CSS%20Icon.png" alt="Ícone do CSS" /></a>
+    <a title="Javascript"  href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="55px" src="./Source/Icons/Javascript%20Icon.png" alt="Ícone do Javascript" /></a>
+    <a title="Typescript"  href="https://www.typescriptlang.org/"><img width="55px" src="./Source/Icons/Typescript%20Icon.png" alt="Ícone do Typescript" /></a>
+    <a title="ReactJS"  href="https://pt-br.reactjs.org/"><img width="55px" src="./Source/Icons/ReactJS%20Icon.png" alt="Ícone do ReactJS" /></a>
+    <a title="GraphQL"  href="https://graphql.org/learn/"><img width="55px" src="./Source/Icons/GraphQL%20Icon.png" alt="Ícone do GraphQL" /></a>
+    <a title="NodeJS"  href="https://nodejs.org/en/"><img width="55px" src="./Source/Icons/NodeJS%20Icon.png" alt="Ícone do NodeJS" /></a>
+    <a title="GatsbyJS"  href="https://www.gatsbyjs.com/"><img width="55px" src="./Source/Icons/GatsbyJS%20Icon.png" alt="Ícone do GatsbyJS" /></a>
+    <a title="ExpressJS"  href="https://expressjs.com/pt-br/"><img width="55px" src="./Source/Icons/Express%20Icon.png" alt="Ícone do ExpressJS" /></a>
+    <a title="NPM"  href="https://www.npmjs.com/"><img width="55px" src="./Source/Icons/NPM%20Icon.png" alt="Ícone do NPM" /></a>
+    <a title="Docker"  href="https://www.docker.com/"><img width="55px" src="./Source/Icons/Docker%20Icon.png" alt="Ícone do Docker" /></a>
+    <a title="MongoDB"  href="https://www.mongodb.com/pt-br"><img width="55px" src="./Source/Icons/MongoDB%20Icon.png" alt="Ícone do MongoDB" /></a>
+    <a title="Redux"  href="https://redux.js.org/"><img width="55px" src="./Source/Icons/Redux%20Icon.png" alt="Ícone do Redux" /></a>
+  </div>      
+  <hr />
 </details>
-<hr />
      
 <!-- Informações sobre a Licença do Repositório. -->
 <details>
@@ -202,8 +280,8 @@
   <br /> Esse projeto é licenciado pela MIT License. <br />
   Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) para obter mais detalhes.
   </div>
+  <hr />
 </details>
-<hr />
 
 <!-- Informações do Autor. -->
 <details>
@@ -222,8 +300,8 @@
   Portfólio
   </a>
   </div>
-</details>
 <hr />
+</details>
 
 <details>
   <summary>🟠 Contato</summary>
@@ -241,8 +319,8 @@
   </a>
   <br />
   </div>
-</details>
 <hr />
+</details>
 
 
 <details>
