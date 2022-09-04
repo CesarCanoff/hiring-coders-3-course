@@ -1,64 +1,156 @@
-<!-- Banner Principal do Repositório. -->
-<img src="Source/Hiring%20Coders%20Cover.jpg" />
-
-<!-- Link para a importação de ícones. -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<!-- Header do Repositório. -->
 <div align="center">
-  <h2>🔵🟠 Hiring Coders #3 🟠🔵</h2>
+<img width="150px" src="Source/image%201.png" />
 </div>
 
-<!-- Apresentação do Programa de Capacitação. -->
-<p>
-  O Hiring Coders é um programa de capacitação gratuito e sem pré-requisitos para te ensinar programação, digital commerce e como ter uma carreira à prova do futuro, o programa foi dividido em 4 níveis.<br />
-  Sendo eles:
-</p>
 
-<!-- Informações das Fases -->
-<details>
-<summary>🟠 Informações das Fases</summary>
- <table align="center">
+<div align="center">
+  <h2>Hiring Coders #3</h2>
+</div>
+
+<br />
+
+<div>
+  <h2>🟠 O que é o Hiring Coders?</h2>
+  <p>
+    O <b>Hiring Coders</b> é um Programa de Capacitação/Bootcamp gratuito e sem pré-requisitos para te ensinar <b>Programação</b>, <b>Digital Commerce</b> e como ter uma carreira à prova do futuro, o programa foi criado pela <b>VTEX</b> e acelerado pela <b>Gama Academy</b> foi dividido em 4 níveis.
+  </p>
+</div>
+
+<div>
+  <h2>🟠 Fases / Níveis</h2>
+  <p>O Hiring Coders #3 foi dividido em 4 Etapas/Fases, a Primeira Fase foi focada em conhecimentos técnicos e um pouco de Soft Skills.</p>
+
+  <table align="left" width="50%">
   <tr>
-    <th>Nome da Fase</th>
-    <th>Número de Playlists</th>
-    <th>Número de Assessment</th>
-    <th>Número de Challenges</th>
-    <th>Dificuldade da Fase</th>
-    <th>Módulos da Fase</th>
-    <th>Carga Horária (Horas/Minutos)</th>
-    <th>Data</th>
+    <th>📚 Fase 01</th>
   </tr>
   <tr>
-    <td>Fase 01</td>
+    <td>Número de Módulos</td>
     <td>23</td>
+  </tr>
+  <tr>
+    <td>Número de Assessment</td>
     <td>5</td>
+  </tr>
+  <tr>
+    <td>Número de Challenges</td>
     <td>2</td>
-    <td>Médio</td>
-    <td>
-      <a href="#modules">Lista de Módulos</a>
-    </td>
+  </tr>
+  <tr>
+    <td>Dificuldade</td>
+    <td>Nível Médio</td>
+  </tr>
+  <tr>
+    <td>Módulos</td>
+    <td><a href="#modules">Lista de Módulos</a></td>
+  </tr>
+  <tr>
+    <td>Carga Horária (Horas/Minutos)</td>
     <td>10 Horas</td>
+  </tr>
+  <tr>
+    <td>Data</td>
     <td>23/04/2022 - 13/06/2022</td>
   </tr>
+</table> 
+  <table align="right" width="50%">
   <tr>
-    <td>Fase 02</td>
+    <th>📚 Fase 02</th>
+  </tr>
+  <tr>
+    <td>Número de Módulos</td>
     <td>5</td>
+  </tr>
+  <tr>
+    <td>Número de Assessment</td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td>Número de Challenges</td>
     <td>0</td>
-    <td>Médio</td>
-    <td>
-      <a href="#modules">Lista de Módulos</a>
-    </td>
+  </tr>
+  <tr>
+    <td>Dificuldade</td>
+    <td>Nível Médio</td>
+  </tr>
+  <tr>
+    <td>Módulos</td>
+    <td><a href="#modules">Lista de Módulos</a></td>
+  </tr>
+  <tr>
+    <td>Carga Horária (Horas/Minutos)</td>
     <td>10 Horas</td>
+  </tr>
+  <tr>
+    <td>Data</td>
     <td>14/06/2022 - 04/07/2022</td>
   </tr>
-</table>
-</details>
+</table> 
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Listagem de Tecnologias presentes no programa. -->
 <details>
-<summary>🛠️ Tecnologias Contidas</summary>
+<summary>🔵 Tecnologias Contidas</summary>
+
+<div align="center">
+  <img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor" alt="Icon HTML5" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor" alt="Icon CSS3" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" alt="Icon Javascript" />
+  <img src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor" alt="Icon Git" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Icon ReactJS" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Icon GraphQL" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Icon NodeJS" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Icon Typescript" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Icon Gatsby" />
+  <img width="30" src="https://icongr.am/devicon/express-original.svg?size=30&color=ffffff" alt="Icon Express" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Icon NPM" />
+  <img width="30" src="https://icongr.am/devicon/docker-original.svg?size=24&color=currentColor" alt="Icon Docker" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Icon MongoDB" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Icon Redux" />
+</div>
+
   <ul>
     <li>
       <span>HTML5<span>
@@ -125,7 +217,7 @@
 
 <!-- Visão de Todos os Aspectos do Evento. -->
 <details>
-<summary>🟠 Visão Geral do Programa</summary>
+<summary>🔵 Visão Geral do Programa</summary>
   <ul>
     <details>
     <summary>🔵 Hiring Coders #3 - Fase 01</summary>
