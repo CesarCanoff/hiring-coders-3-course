@@ -1,5 +1,7 @@
 <div align="center">
-<img width="150px" src="Source/image%201.png" />
+  <a href="https://www.hiringcoders.com.br" target="_blank">
+    <img width="150px" src="Source/image%201.png" />
+  </a>
 </div>
 
 <div align="center">
@@ -106,10 +108,33 @@
 </div>      
 <br />
      
-      
-      
+<!-- Informações sobre a Licença do Repositório. -->
+<details>
+  <summary>📝 Licença</summary>
+  <div align="center">
 
-<!-- Visão de Todos os Aspectos do Evento. -->
+  <br /> Esse projeto é licenciado pela MIT License. <br />
+  Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) mais detalhes.
+  </div>
+</details>
+
+<!-- Informações do Autor. -->
+<details>
+  <summary>✒️ Autor</summary>
+  <div align="center">
+  <br />
+  <a href="https://github.com/cesarcanoff">
+    <img
+      src="https://github.com/cesarcanoff.png"
+      width="100px;"
+      alt="César Canoff Personal Photo." />
+  </a>
+  <h3>César Canoff</h3>
+  <a href="https://github.com/cesarcanoff/portfolio">
+  </a>
+  </div>
+</details>
+
 <details>
 <summary>🔵 Visão Geral do Programa</summary>
   <ul>
@@ -869,50 +894,6 @@
 </details>
 
 
-<!-- Código para Clonar o Repositório. -->
-<details>
-  <summary>🟠 Clone o Projeto</summary>
-
-  ### SSH
-  ```bash
-    git@github.com:cesarcanoff/hiring-coders.git
-  ```
-</details>
-
-
-<!-- Informações sobre a Licença do Repositório. -->
-<details>
-  <summary>📝 Licença</summary>
-  <div align="center">
-
-  <br /> Esse projeto é licenciado pela MIT License. <br />
-  Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) mais detalhes.
-  </div>
-
-</details>
-
-<!-- Informações do Autor. -->
-<details>
-  <summary>✒️ Autor</summary>
-  <div align="center">
-  <br />
-  <a href="https://github.com/cesarcanoff">
-    <img
-      style="border-radius: 50%;"
-      src="https://github.com/cesarcanoff.png"
-      width="100px;"
-      alt="César Canoff Personal Photo." />
-  </a>
-
-  ### César Canoff
-
-  [Portfólio (Em Construção)](https://github.com/cesarcanoff/portfolio)
-
-  </div>
-
-</details>
-
-<br /><br />
 <div align="center">
 
 > Desenvolvido com ❤️ por [César Canoff](https://github.com/cesarcanoff)
