@@ -1,15 +1,21 @@
+<!-- Banner Principal do Repositório. -->
 <img src="Source/Hiring%20Coders%20Cover.jpg" />
 
-<div align="center">
+<!-- Link para a importação de ícones. -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<!-- Header do Repositório. -->
+<div align="center">
   <h2>🔵🟠 Hiring Coders #3 🟠🔵</h2>
 </div>
 
+<!-- Apresentação do Programa de Capacitação. -->
 <p>
   O Hiring Coders é um programa de capacitação gratuito e sem pré-requisitos para te ensinar programação, digital commerce e como ter uma carreira à prova do futuro, o programa foi dividido em 4 níveis.<br />
   Sendo eles:
 </p>
 
+<!-- Informações das Fases -->
 <details>
 <summary>🟠 Informações das Fases</summary>
  <table align="center">
@@ -30,7 +36,7 @@
     <td>2</td>
     <td>Médio</td>
     <td>
-    HTML5, CSS3, Estrutura de Dados, Metodologias Ágeis Testes, Boas Práticas, Soft Skills, Lógica de Programação, Git, Javascript, Typescript, ReactJS, GraphQL, NodeJS, NextJS,GatsbyJS.
+      <a href="#modules">Lista de Módulos</a>
     </td>
     <td>10 Horas</td>
     <td>23/04/2022 - 13/06/2022</td>
@@ -42,7 +48,7 @@
     <td>0</td>
     <td>Médio</td>
     <td>
-      Introdução ao Digital Commerce, Projeto de e-commerce, Tecnologias para ecommerce, Cultura DevOps, Conceitos Básicos de AWS.
+      <a href="#modules">Lista de Módulos</a>
     </td>
     <td>10 Horas</td>
     <td>14/06/2022 - 04/07/2022</td>
@@ -50,9 +56,9 @@
 </table>
 </details>
 
+<!-- Listagem de Tecnologias presentes no programa. -->
 <details>
 <summary>🛠️ Tecnologias Contidas</summary>
-
   <ul>
     <li>
       <span>HTML5<span>
@@ -117,11 +123,9 @@
   </ul>
 </details>
 
-
-
+<!-- Visão de Todos os Aspectos do Evento. -->
 <details>
 <summary>🟠 Visão Geral do Programa</summary>
-
   <ul>
     <details>
     <summary>🔵 Hiring Coders #3 - Fase 01</summary>
@@ -879,7 +883,7 @@
 </details>
 
 
-
+<!-- Código para Clonar o Repositório. -->
 <details>
   <summary>🟠 Clone o Projeto</summary>
 
@@ -890,25 +894,21 @@
 </details>
 
 
-
+<!-- Informações sobre a Licença do Repositório. -->
 <details>
   <summary>📝 Licença</summary>
-
   <div align="center">
 
   <br /> Esse projeto é licenciado pela MIT License. <br />
   Visite esse [link](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) mais detalhes.
-  
   </div>
 
 </details>
 
-
+<!-- Informações do Autor. -->
 <details>
   <summary>✒️ Autor</summary>
-
   <div align="center">
-
   <br />
   <a href="https://github.com/cesarcanoff">
     <img
@@ -921,18 +921,12 @@
   ### César Canoff
 
   [Portfólio (Em Construção)](https://github.com/cesarcanoff/portfolio)
-  
-  <br />
 
   </div>
 
 </details>
 
-
-
-<br />
-<br />
-<br />
+<br /><br />
 <div align="center">
 
 > Desenvolvido com ❤️ por [César Canoff](https://github.com/cesarcanoff)
