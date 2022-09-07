@@ -1,0 +1,65 @@
+_id: req_01ecb3595af24319b92119ac094fe92a
+type: Request
+parentId: fld_7d73c70683af4f58b7ff09a5c44da201
+modified: 1656180949219
+created: 1656118354799
+url: http://localhost:3333/users
+name: update users (auth route)
+description: >-
+  ### update user's infos (Authenticated Route)
+
+  - name, email, user photo and password can be updated;
+
+  - new email must be different from the current one & cannot be taken;
+
+  - new password must have 6 or more characters & cannot be the same as the current one;
+
+  - new user photo is changed passing the id it have in files table **(if you do not have a photo in the files table yet, you can skip it for now)**; 
+
+  - you can update infos separately;
+
+  - user's current password must be given for update to succeed;
+
+
+  ## Request Body Example
+
+  ```json
+
+  {
+  	"newUserPhoto": 1,
+  	"newName": "New Name",
+  	"newEmail": "new_email@email.com",
+  	"newPassword": "MyNewPass123",
+  	"password": "MyCurrentPass123"
+  }
+
+  ```
+method: PUT
+body:
+  mimeType: application/json
+  text: |+
+    {
+    	"newUserPhoto": 1,
+    	"newName": "John Doe",
+    	"newEmail": "john.doe@email.com",
+    	"newPassword": "654321",
+    	"password": "123456"
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_509976ba8cf744a19c7cda134ea02c75
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNjU2MTc4NDI0LCJleHAiOjE2NTYyNjQ4MjR9.IULwJepyXlupH2e9W4zVpETnz0CqP6UTUJiioDSQ8k
+  disabled: false
+metaSortKey: -1656068095636
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

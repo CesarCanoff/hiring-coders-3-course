@@ -1,0 +1,32 @@
+_id: req_c296afcbd1e94c0a8bde69c591d863ed
+type: Request
+parentId: fld_dc286252747b40ff86ec8d5b29b310b7
+modified: 1656130917960
+created: 1656120331462
+url: http://localhost:3333/notifications/62b6845d4c387209f71c76e4
+name: update notifications
+description: >-
+  ### update collaborator notification (Authenticated Route)
+
+  - You must be a collaborator (provider field in DB have to be true) to have notifications;
+
+  - set the notification read property to true and brings its content;
+
+  - to access a notification you must provide its ID through *request parameter*, ***e.g:*** **/notifications/123**;
+
+  - you can list your notifications in the **GET /notifications** route, then you can get the notification ID.
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjU2MTIzMDM3LCJleHAiOjE2NTYyMDk0Mzd9.bcybLzf67f7EH_HZKhcqLjQsA6jv3gBuxvZgIwYMphI
+metaSortKey: -1656120188552
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

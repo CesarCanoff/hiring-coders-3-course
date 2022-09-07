@@ -1,0 +1,23 @@
+_id: req_3da4b81bf8a24f6babca231983552b33
+type: Request
+parentId: fld_093b579c7f9847c7beda0aa6416dd293
+modified: 1656128776792
+created: 1656118530848
+url: http://localhost:3333/collaborators
+name: list collaborators
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjU2MTIzMDM3LCJleHAiOjE2NTYyMDk0Mzd9.bcybLzf67f7EH_HZKhcqLjQsA6jv3gBuxvZgIwYMphI
+metaSortKey: -1656118530848
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,10 @@
+_id: fld_a711058fd6f74d018e517be666139f3c
+type: RequestGroup
+parentId: fld_0c3ce01387254c4e82a70a66cd495606
+modified: 1656120099330
+created: 1656120075057
+name: appointments (auth routes)
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1656118093519.5

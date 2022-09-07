@@ -1,15 +1,27 @@
 {
-  "name": "sistema-de-agendamento",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "nodemon src/server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+	"name": "sistema-de-agendamento",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon ./src/server.js"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^2.0.16",
+		"sequelize-cli": "^6.4.1",
+		"sucrase": "^3.21.0"
+	},
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"date-fns": "^2.28.0",
+		"dotenv": "^16.0.1",
+		"express": "^4.18.1",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^6.4.0",
+		"multer": "^1.4.5-lts.1",
+		"pg": "^8.7.3",
+		"pg-hstore": "^2.3.4",
+		"sequelize": "^6.20.1",
+		"sqlite3": "^5.0.8"
+	}
 }

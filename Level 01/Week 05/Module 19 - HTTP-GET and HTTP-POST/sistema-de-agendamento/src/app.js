@@ -1,6 +1,6 @@
-// Importando o Express.
 import express from "express";
-import routes from "./router";
+import routes from "./routes";
+import { resolve } from "path";
 
 class App {
   constructor() {
@@ -11,6 +11,11 @@ class App {
 
   middlewares() {
     this.server.use(express.json());
+    // Remove this static path later
+    this.server.use(
+      "/files",
+      express.static(resolve(__dirname, "..", "tmp", "uploads"))
+    );
   }
 
   routes() {

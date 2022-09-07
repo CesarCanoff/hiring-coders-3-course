@@ -1,0 +1,29 @@
+_id: req_5d010a4fafce4467ad1355c65281d6f3
+type: Request
+parentId: fld_093b579c7f9847c7beda0aa6416dd293
+modified: 1656129785016
+created: 1656118645987
+url: http://localhost:3333/schedules
+name: list schedules
+description: >-
+  ### List collaborator's schedule between start/end of the given day
+  (Authenticated Route)
+
+  - You must be a collaborator (provider field in DB have to be true) to see your schedule;
+
+  - You must provide a date in this type of format: 2022-06-20T12:00:00-03:00. This date will return to you schedule of this day;
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjU2MTIzMDM3LCJleHAiOjE2NTYyMDk0Mzd9.bcybLzf67f7EH_HZKhcqLjQsA6jv3gBuxvZgIwYMphI
+metaSortKey: -1656118466339.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

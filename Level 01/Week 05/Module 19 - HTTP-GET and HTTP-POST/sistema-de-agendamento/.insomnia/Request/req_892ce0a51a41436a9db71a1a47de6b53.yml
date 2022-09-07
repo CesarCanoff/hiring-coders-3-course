@@ -1,0 +1,51 @@
+_id: req_892ce0a51a41436a9db71a1a47de6b53
+type: Request
+parentId: fld_7d73c70683af4f58b7ff09a5c44da201
+modified: 1656180946911
+created: 1656118164395
+url: http://localhost:3333/users
+name: create user
+description: >-
+  ### create a new user
+
+  - this will create a new user row in the "sistema DB" users table (PostgreSQL);
+
+  - we must provide a name, email and password (6+ characters);
+
+  - the email cannot already exist in the DB;
+
+
+  ## Request Body Example
+
+  ```json
+
+  {
+  	"name": "John",
+  	"email": "john@email.com",
+  	"password": "MyPass123"
+  }
+
+  ```
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "The Rock",
+    	"email": "rock@email.com",
+    	"password": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6bd86ddd72544435bb6f1202ec70d855
+authentication: {}
+metaSortKey: -1656118121218
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,51 @@
+_id: req_d72cc863c52a4e4690c5987a6aeaef3b
+type: Request
+parentId: fld_a711058fd6f74d018e517be666139f3c
+modified: 1656180926881
+created: 1656120172606
+url: http://localhost:3333/appointments
+name: create appointment
+description: >-
+  ### user create an appointment with a collaborator (Authenticated Route)
+
+  - this will create a new appointment row in the "sistema DB" appointments table (PostgreSQL);
+
+  - this will also create a new notification for the chosen collaborator in the "sistema DB" notifications collection (using MongoDB for Notifications storage);
+
+  - you must provide the collaborator ID and a date;
+
+
+  ## Request Body Example
+
+  ```json
+
+  {
+  	"collaborator_id": 1,
+  	"date": "2023-06-20T12:00:00-03:00"
+  }
+
+  ```
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"collaborator_id": 2,
+    	"date": "2022-06-27T12:00:00-03:00"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_74a1c36b04df41e5b05f45e240df87ae
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjU2MTIzMDM3LCJleHAiOjE2NTYyMDk0Mzd9.bcybLzf67f7EH_HZKhcqLjQsA6jv3gBuxvZgIwYMphI
+metaSortKey: -1656120109634
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,52 @@
+_id: req_e72b97e8757d47c98d68cb8f5aebaea3
+type: Request
+parentId: fld_ea53a8b869e64e31826b75b343262cce
+modified: 1656127316036
+created: 1656118401831
+url: http://localhost:3333/files
+name: upload user photo
+description: >-
+  ### upload a new file (Authenticated Route)
+
+  - this will create a new file row in the "sistema DB" files table (PostgreSQL);
+
+
+  ## Query Params | Current values set on the *Query Tab*.
+
+  in the **Body Tab**, *multipart* must be selected and should have a property:
+
+
+  | Property Name | Value Type |
+
+  |---------------|------------|
+
+  | file          | file type  |
+
+
+  then you can choose an image to upload into the DB.
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_93d4463c82c74d8880198627a9807bf7
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\montt\Pictures\Wallpapers\Star Wars (by muratgul).jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_b6fc0edce399422db1687dc41d304e6c
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjU2MTIzMDM3LCJleHAiOjE2NTYyMDk0Mzd9.bcybLzf67f7EH_HZKhcqLjQsA6jv3gBuxvZgIwYMphI
+metaSortKey: -1656118401831
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

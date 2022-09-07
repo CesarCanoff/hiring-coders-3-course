@@ -1,0 +1,41 @@
+_id: req_df55f399dd3e4939bdb8151cbed01fb4
+type: Request
+parentId: fld_22aa2d8e271a4a5ea3370208b48255df
+modified: 1656180957741
+created: 1656180747382
+url: http://localhost:3333/login
+name: login
+description: |-
+  ### create a new session
+  - this will create a new session;
+  - this will generate a JWT token;
+
+  ## Request Body Example
+  ```json
+  {
+  	"email": "john@email.com",
+  	"password": "MyPass123"
+  }
+  ```
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "john@email.com",
+    	"password": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5c2409280c2841959fa013b8c2469e99
+authentication: {}
+metaSortKey: -1656180747382
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
