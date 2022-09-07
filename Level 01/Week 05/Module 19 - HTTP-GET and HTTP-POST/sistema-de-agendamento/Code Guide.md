@@ -10,7 +10,18 @@ npm init -y
 npm install express
 ```
 
+## Instalação do Sucrase
+```bash
+npm install sucrase
+```
+
+## Instalação do Nodemon
+```bash
+npm install nodemon -D
+```
+
 ## Executar Programa
 ```bash
 node src/server.js
 ```
+
